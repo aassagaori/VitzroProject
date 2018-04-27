@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper	namespace="com.db.mapper.BaseInfoLoadMapper">
+
+	<select id="selectCctvList" resultType="com.data.vo.CctvVO">
+	SELECT CCTV_MNGM_NMBR, CCTV_CTLR_ID, CCTV_CTLR_IP, CCTV_CTLR_PORT, ISTL_LCTN_NM, ISTL_LCTN_ADDR, CCTV_ID
+		FROM TB_CCTV_CTLR 
+		WHERE DEL_YN = 'N' 
+		AND CCTV_TYPE = 1 
+		AND CCTV_CTLR_IP IS NOT NULL
+	ORDER BY CCTV_MNGM_NMBR
+	</select>
+	
+	
+</mapper>

@@ -1,0 +1,1646 @@
+2018-04-20 09:49:59,312  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 17772 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 09:49:59,325 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 09:49:59,326  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 09:50:02,542 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.HikariConfig 
+2018-04-20 09:51:16,436  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 13196 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 09:51:16,446 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 09:51:16,446  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 09:51:19,559 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.HikariConfig 
+2018-04-20 09:54:47,056  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 336 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 09:54:47,064 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 09:54:47,064  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 09:54:50,232 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.HikariConfig 
+2018-04-20 09:58:32,204  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 15880 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 09:58:32,213 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 09:58:32,214  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 09:58:35,486 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.HikariConfig 
+2018-04-20 10:01:53,318  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 17228 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 10:01:53,326 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 10:01:53,327  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 10:01:56,551 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.HikariConfig 
+2018-04-20 10:04:19,756  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 17904 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 10:04:19,765 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 10:04:19,765  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 10:04:22,932 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.HikariConfig 
+2018-04-20 10:16:04,454  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 15668 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 10:16:04,464 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 10:16:04,464  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 10:16:07,737 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.HikariConfig 
+2018-04-20 10:16:08,109 DEBUG | HikariPool-1 - configuration: | c.z.h.HikariConfig 
+2018-04-20 10:16:08,113 DEBUG | allowPoolSuspension.............false | c.z.h.HikariConfig 
+2018-04-20 10:16:08,113 DEBUG | autoCommit......................true | c.z.h.HikariConfig 
+2018-04-20 10:16:08,113 DEBUG | catalog.........................none | c.z.h.HikariConfig 
+2018-04-20 10:16:08,114 DEBUG | connectionInitSql...............none | c.z.h.HikariConfig 
+2018-04-20 10:16:08,114 DEBUG | connectionTestQuery.............none | c.z.h.HikariConfig 
+2018-04-20 10:16:08,114 DEBUG | connectionTimeout...............30000 | c.z.h.HikariConfig 
+2018-04-20 10:16:08,115 DEBUG | dataSource......................none | c.z.h.HikariConfig 
+2018-04-20 10:16:08,115 DEBUG | dataSourceClassName.............none | c.z.h.HikariConfig 
+2018-04-20 10:16:08,115 DEBUG | dataSourceJNDI..................none | c.z.h.HikariConfig 
+2018-04-20 10:16:08,116 DEBUG | dataSourceProperties............{password=<masked>} | c.z.h.HikariConfig 
+2018-04-20 10:16:08,117 DEBUG | driverClassName................."oracle.jdbc.driver.OracleDriver" | c.z.h.HikariConfig 
+2018-04-20 10:16:08,117 DEBUG | healthCheckProperties...........{} | c.z.h.HikariConfig 
+2018-04-20 10:16:08,117 DEBUG | healthCheckRegistry.............none | c.z.h.HikariConfig 
+2018-04-20 10:16:08,117 DEBUG | idleTimeout.....................600000 | c.z.h.HikariConfig 
+2018-04-20 10:16:08,118 DEBUG | initializationFailFast..........true | c.z.h.HikariConfig 
+2018-04-20 10:16:08,118 DEBUG | initializationFailTimeout.......1 | c.z.h.HikariConfig 
+2018-04-20 10:16:08,118 DEBUG | isolateInternalQueries..........false | c.z.h.HikariConfig 
+2018-04-20 10:16:08,119 DEBUG | jdbc4ConnectionTest.............false | c.z.h.HikariConfig 
+2018-04-20 10:16:08,119 DEBUG | jdbcUrl.........................jdbc:oracle:thin:@222.109.211.245:1521:TRAF | c.z.h.HikariConfig 
+2018-04-20 10:16:08,119 DEBUG | leakDetectionThreshold..........0 | c.z.h.HikariConfig 
+2018-04-20 10:16:08,119 DEBUG | maxLifetime.....................1800000 | c.z.h.HikariConfig 
+2018-04-20 10:16:08,120 DEBUG | maximumPoolSize.................10 | c.z.h.HikariConfig 
+2018-04-20 10:16:08,120 DEBUG | metricRegistry..................none | c.z.h.HikariConfig 
+2018-04-20 10:16:08,120 DEBUG | metricsTrackerFactory...........none | c.z.h.HikariConfig 
+2018-04-20 10:16:08,120 DEBUG | minimumIdle.....................10 | c.z.h.HikariConfig 
+2018-04-20 10:16:08,120 DEBUG | password........................<masked> | c.z.h.HikariConfig 
+2018-04-20 10:16:08,121 DEBUG | poolName........................"HikariPool-1" | c.z.h.HikariConfig 
+2018-04-20 10:16:08,121 DEBUG | readOnly........................false | c.z.h.HikariConfig 
+2018-04-20 10:16:08,121 DEBUG | registerMbeans..................false | c.z.h.HikariConfig 
+2018-04-20 10:16:08,121 DEBUG | scheduledExecutor...............none | c.z.h.HikariConfig 
+2018-04-20 10:16:08,122 DEBUG | scheduledExecutorService........internal | c.z.h.HikariConfig 
+2018-04-20 10:16:08,122 DEBUG | schema..........................none | c.z.h.HikariConfig 
+2018-04-20 10:16:08,122 DEBUG | threadFactory...................internal | c.z.h.HikariConfig 
+2018-04-20 10:16:08,122 DEBUG | transactionIsolation............default | c.z.h.HikariConfig 
+2018-04-20 10:16:08,123 DEBUG | username........................"nyjits" | c.z.h.HikariConfig 
+2018-04-20 10:16:08,123 DEBUG | validationTimeout...............5000 | c.z.h.HikariConfig 
+2018-04-20 10:16:08,123  INFO | HikariPool-1 - Starting... | c.z.h.HikariDataSource 
+2018-04-20 10:16:08,127  WARN | Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation. | c.z.h.u.DriverDataSource 
+2018-04-20 10:16:08,128 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.u.DriverDataSource 
+2018-04-20 10:16:08,464  INFO | HikariPool-1 - Driver does not support get/set network timeout for connections. (oracle.jdbc.driver.T4CConnection.getNetworkTimeout()I) | c.z.h.p.PoolBase 
+2018-04-20 10:16:08,468 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@3e84111a | c.z.h.p.HikariPool 
+2018-04-20 10:16:08,469  INFO | HikariPool-1 - Start completed. | c.z.h.HikariDataSource 
+2018-04-20 10:16:08,570 DEBUG | HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 10:16:08,706 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@22242f89 | c.z.h.p.HikariPool 
+2018-04-20 10:16:08,844 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@28dc44f9 | c.z.h.p.HikariPool 
+2018-04-20 10:16:08,891  INFO | Started SpringBootTestApplication in 4.724 seconds (JVM running for 5.781) | c.SpringBootTestApplication 
+2018-04-20 10:16:08,923 DEBUG | ==>  Preparing: SELECT CCTV_MNGM_NMBR, CCTV_CTLR_ID, CCTV_CTLR_IP, CCTV_CTLR_PORT, ISTL_LCTN_NM, ISTL_LCTN_ADDR, CCTV_ID FROM TB_CCTV_CTLR WHERE DEL_YN = 'N' AND CCTV_TYPE = 1 AND CCTV_CTLR_IP IS NOT NULL ORDER BY CCTV_MNGM_NMBR  | c.d.m.B.selectCctvList 
+2018-04-20 10:16:08,977 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@6ddecf86 | c.z.h.p.HikariPool 
+2018-04-20 10:16:09,053 DEBUG | ==> Parameters:  | c.d.m.B.selectCctvList 
+2018-04-20 10:16:09,101 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@6e05fdd3 | c.z.h.p.HikariPool 
+2018-04-20 10:16:09,144 DEBUG | <==      Total: 89 | c.d.m.B.selectCctvList 
+2018-04-20 10:16:09,232 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@5cf90383 | c.z.h.p.HikariPool 
+2018-04-20 10:16:09,359 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@16c86f69 | c.z.h.p.HikariPool 
+2018-04-20 10:16:09,489 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@df130c9 | c.z.h.p.HikariPool 
+2018-04-20 10:16:09,615 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@4cdbafc1 | c.z.h.p.HikariPool 
+2018-04-20 10:16:09,742 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@582a58c2 | c.z.h.p.HikariPool 
+2018-04-20 10:16:09,742 DEBUG | HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 10:16:26,145  INFO | HikariPool-1 - Shutdown initiated... | c.z.h.HikariDataSource 
+2018-04-20 10:16:26,146 DEBUG | HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 10:16:26,147 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@3e84111a: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:16:26,169 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@22242f89: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:16:26,176 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@28dc44f9: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:16:26,193 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@6ddecf86: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:16:26,206 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@6e05fdd3: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:16:26,218 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@5cf90383: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:16:26,228 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@16c86f69: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:16:26,236 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@df130c9: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:16:26,247 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@4cdbafc1: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:16:26,259 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@582a58c2: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:16:26,266 DEBUG | HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 10:16:26,267  INFO | HikariPool-1 - Shutdown completed. | c.z.h.HikariDataSource 
+2018-04-20 10:39:06,548  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 19596 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 10:39:06,556 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 10:39:06,557  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 10:44:04,454  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 19976 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 10:44:04,463 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 10:44:04,464  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 10:44:07,716 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.HikariConfig 
+2018-04-20 10:44:08,116 DEBUG | HikariPool-1 - configuration: | c.z.h.HikariConfig 
+2018-04-20 10:44:08,132 DEBUG | allowPoolSuspension.............false | c.z.h.HikariConfig 
+2018-04-20 10:44:08,132 DEBUG | autoCommit......................true | c.z.h.HikariConfig 
+2018-04-20 10:44:08,132 DEBUG | catalog.........................none | c.z.h.HikariConfig 
+2018-04-20 10:44:08,133 DEBUG | connectionInitSql...............none | c.z.h.HikariConfig 
+2018-04-20 10:44:08,133 DEBUG | connectionTestQuery.............none | c.z.h.HikariConfig 
+2018-04-20 10:44:08,133 DEBUG | connectionTimeout...............30000 | c.z.h.HikariConfig 
+2018-04-20 10:44:08,134 DEBUG | dataSource......................none | c.z.h.HikariConfig 
+2018-04-20 10:44:08,134 DEBUG | dataSourceClassName.............none | c.z.h.HikariConfig 
+2018-04-20 10:44:08,134 DEBUG | dataSourceJNDI..................none | c.z.h.HikariConfig 
+2018-04-20 10:44:08,135 DEBUG | dataSourceProperties............{password=<masked>} | c.z.h.HikariConfig 
+2018-04-20 10:44:08,136 DEBUG | driverClassName................."oracle.jdbc.driver.OracleDriver" | c.z.h.HikariConfig 
+2018-04-20 10:44:08,136 DEBUG | healthCheckProperties...........{} | c.z.h.HikariConfig 
+2018-04-20 10:44:08,137 DEBUG | healthCheckRegistry.............none | c.z.h.HikariConfig 
+2018-04-20 10:44:08,137 DEBUG | idleTimeout.....................600000 | c.z.h.HikariConfig 
+2018-04-20 10:44:08,137 DEBUG | initializationFailFast..........true | c.z.h.HikariConfig 
+2018-04-20 10:44:08,137 DEBUG | initializationFailTimeout.......1 | c.z.h.HikariConfig 
+2018-04-20 10:44:08,138 DEBUG | isolateInternalQueries..........false | c.z.h.HikariConfig 
+2018-04-20 10:44:08,138 DEBUG | jdbc4ConnectionTest.............false | c.z.h.HikariConfig 
+2018-04-20 10:44:08,138 DEBUG | jdbcUrl.........................jdbc:oracle:thin:@222.109.211.245:1521:TRAF | c.z.h.HikariConfig 
+2018-04-20 10:44:08,139 DEBUG | leakDetectionThreshold..........0 | c.z.h.HikariConfig 
+2018-04-20 10:44:08,139 DEBUG | maxLifetime.....................1800000 | c.z.h.HikariConfig 
+2018-04-20 10:44:08,139 DEBUG | maximumPoolSize.................10 | c.z.h.HikariConfig 
+2018-04-20 10:44:08,139 DEBUG | metricRegistry..................none | c.z.h.HikariConfig 
+2018-04-20 10:44:08,139 DEBUG | metricsTrackerFactory...........none | c.z.h.HikariConfig 
+2018-04-20 10:44:08,140 DEBUG | minimumIdle.....................10 | c.z.h.HikariConfig 
+2018-04-20 10:44:08,140 DEBUG | password........................<masked> | c.z.h.HikariConfig 
+2018-04-20 10:44:08,140 DEBUG | poolName........................"HikariPool-1" | c.z.h.HikariConfig 
+2018-04-20 10:44:08,141 DEBUG | readOnly........................false | c.z.h.HikariConfig 
+2018-04-20 10:44:08,141 DEBUG | registerMbeans..................false | c.z.h.HikariConfig 
+2018-04-20 10:44:08,141 DEBUG | scheduledExecutor...............none | c.z.h.HikariConfig 
+2018-04-20 10:44:08,141 DEBUG | scheduledExecutorService........internal | c.z.h.HikariConfig 
+2018-04-20 10:44:08,141 DEBUG | schema..........................none | c.z.h.HikariConfig 
+2018-04-20 10:44:08,142 DEBUG | threadFactory...................internal | c.z.h.HikariConfig 
+2018-04-20 10:44:08,142 DEBUG | transactionIsolation............default | c.z.h.HikariConfig 
+2018-04-20 10:44:08,142 DEBUG | username........................"nyjits" | c.z.h.HikariConfig 
+2018-04-20 10:44:08,142 DEBUG | validationTimeout...............5000 | c.z.h.HikariConfig 
+2018-04-20 10:44:08,142  INFO | HikariPool-1 - Starting... | c.z.h.HikariDataSource 
+2018-04-20 10:44:08,147  WARN | Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation. | c.z.h.u.DriverDataSource 
+2018-04-20 10:44:08,147 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.u.DriverDataSource 
+2018-04-20 10:44:08,438  INFO | HikariPool-1 - Driver does not support get/set network timeout for connections. (oracle.jdbc.driver.T4CConnection.getNetworkTimeout()I) | c.z.h.p.PoolBase 
+2018-04-20 10:44:08,442 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@451882b2 | c.z.h.p.HikariPool 
+2018-04-20 10:44:08,444  INFO | HikariPool-1 - Start completed. | c.z.h.HikariDataSource 
+2018-04-20 10:44:08,545 DEBUG | HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 10:44:08,681 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@633396b5 | c.z.h.p.HikariPool 
+2018-04-20 10:44:08,819 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@69cbfdc5 | c.z.h.p.HikariPool 
+2018-04-20 10:44:08,849  INFO | Started SpringBootTestApplication in 4.676 seconds (JVM running for 5.804) | c.SpringBootTestApplication 
+2018-04-20 10:44:08,880 DEBUG | ==>  Preparing: SELECT CCTV_MNGM_NMBR, CCTV_CTLR_ID, CCTV_CTLR_IP, CCTV_CTLR_PORT, ISTL_LCTN_NM, ISTL_LCTN_ADDR, CCTV_ID FROM TB_CCTV_CTLR WHERE DEL_YN = 'N' AND CCTV_TYPE = 1 AND CCTV_CTLR_IP IS NOT NULL ORDER BY CCTV_MNGM_NMBR  | c.d.m.B.selectCctvList 
+2018-04-20 10:44:08,944 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@2cc97e98 | c.z.h.p.HikariPool 
+2018-04-20 10:44:08,989 DEBUG | ==> Parameters:  | c.d.m.B.selectCctvList 
+2018-04-20 10:44:09,070 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@5330c38a | c.z.h.p.HikariPool 
+2018-04-20 10:44:09,072 DEBUG | <==      Total: 89 | c.d.m.B.selectCctvList 
+2018-04-20 10:44:09,202 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@1daff423 | c.z.h.p.HikariPool 
+2018-04-20 10:44:09,327 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@2bbc1786 | c.z.h.p.HikariPool 
+2018-04-20 10:44:09,447 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@4ce681d7 | c.z.h.p.HikariPool 
+2018-04-20 10:44:09,579 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@191f2752 | c.z.h.p.HikariPool 
+2018-04-20 10:44:09,699 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@7bf3c6be | c.z.h.p.HikariPool 
+2018-04-20 10:44:09,699 DEBUG | HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 10:44:14,004  INFO | HikariPool-1 - Shutdown initiated... | c.z.h.HikariDataSource 
+2018-04-20 10:44:14,004 DEBUG | HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 10:44:14,005 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@451882b2: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:44:14,020 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@633396b5: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:44:14,026 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@69cbfdc5: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:44:14,032 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@2cc97e98: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:44:14,038 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@5330c38a: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:44:14,044 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@1daff423: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:44:14,050 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@2bbc1786: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:44:14,063 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@4ce681d7: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:44:14,080 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@191f2752: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:44:14,086 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@7bf3c6be: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:44:14,092 DEBUG | HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 10:44:14,093  INFO | HikariPool-1 - Shutdown completed. | c.z.h.HikariDataSource 
+2018-04-20 10:44:39,062  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 17916 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 10:44:39,071 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 10:44:39,072  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 10:46:30,356  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 19672 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 10:46:30,364 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 10:46:30,365  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 10:46:33,556 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.HikariConfig 
+2018-04-20 10:46:33,901 DEBUG | HikariPool-1 - configuration: | c.z.h.HikariConfig 
+2018-04-20 10:46:33,904 DEBUG | allowPoolSuspension.............false | c.z.h.HikariConfig 
+2018-04-20 10:46:33,905 DEBUG | autoCommit......................true | c.z.h.HikariConfig 
+2018-04-20 10:46:33,905 DEBUG | catalog.........................none | c.z.h.HikariConfig 
+2018-04-20 10:46:33,906 DEBUG | connectionInitSql...............none | c.z.h.HikariConfig 
+2018-04-20 10:46:33,906 DEBUG | connectionTestQuery.............none | c.z.h.HikariConfig 
+2018-04-20 10:46:33,906 DEBUG | connectionTimeout...............30000 | c.z.h.HikariConfig 
+2018-04-20 10:46:33,907 DEBUG | dataSource......................none | c.z.h.HikariConfig 
+2018-04-20 10:46:33,907 DEBUG | dataSourceClassName.............none | c.z.h.HikariConfig 
+2018-04-20 10:46:33,907 DEBUG | dataSourceJNDI..................none | c.z.h.HikariConfig 
+2018-04-20 10:46:33,908 DEBUG | dataSourceProperties............{password=<masked>} | c.z.h.HikariConfig 
+2018-04-20 10:46:33,908 DEBUG | driverClassName................."oracle.jdbc.driver.OracleDriver" | c.z.h.HikariConfig 
+2018-04-20 10:46:33,909 DEBUG | healthCheckProperties...........{} | c.z.h.HikariConfig 
+2018-04-20 10:46:33,909 DEBUG | healthCheckRegistry.............none | c.z.h.HikariConfig 
+2018-04-20 10:46:33,909 DEBUG | idleTimeout.....................600000 | c.z.h.HikariConfig 
+2018-04-20 10:46:33,909 DEBUG | initializationFailFast..........true | c.z.h.HikariConfig 
+2018-04-20 10:46:33,910 DEBUG | initializationFailTimeout.......1 | c.z.h.HikariConfig 
+2018-04-20 10:46:33,910 DEBUG | isolateInternalQueries..........false | c.z.h.HikariConfig 
+2018-04-20 10:46:33,910 DEBUG | jdbc4ConnectionTest.............false | c.z.h.HikariConfig 
+2018-04-20 10:46:33,910 DEBUG | jdbcUrl.........................jdbc:oracle:thin:@222.109.211.245:1521:TRAF | c.z.h.HikariConfig 
+2018-04-20 10:46:33,911 DEBUG | leakDetectionThreshold..........0 | c.z.h.HikariConfig 
+2018-04-20 10:46:33,911 DEBUG | maxLifetime.....................1800000 | c.z.h.HikariConfig 
+2018-04-20 10:46:33,911 DEBUG | maximumPoolSize.................10 | c.z.h.HikariConfig 
+2018-04-20 10:46:33,911 DEBUG | metricRegistry..................none | c.z.h.HikariConfig 
+2018-04-20 10:46:33,912 DEBUG | metricsTrackerFactory...........none | c.z.h.HikariConfig 
+2018-04-20 10:46:33,912 DEBUG | minimumIdle.....................10 | c.z.h.HikariConfig 
+2018-04-20 10:46:33,912 DEBUG | password........................<masked> | c.z.h.HikariConfig 
+2018-04-20 10:46:33,912 DEBUG | poolName........................"HikariPool-1" | c.z.h.HikariConfig 
+2018-04-20 10:46:33,913 DEBUG | readOnly........................false | c.z.h.HikariConfig 
+2018-04-20 10:46:33,913 DEBUG | registerMbeans..................false | c.z.h.HikariConfig 
+2018-04-20 10:46:33,913 DEBUG | scheduledExecutor...............none | c.z.h.HikariConfig 
+2018-04-20 10:46:33,913 DEBUG | scheduledExecutorService........internal | c.z.h.HikariConfig 
+2018-04-20 10:46:33,913 DEBUG | schema..........................none | c.z.h.HikariConfig 
+2018-04-20 10:46:33,913 DEBUG | threadFactory...................internal | c.z.h.HikariConfig 
+2018-04-20 10:46:33,914 DEBUG | transactionIsolation............default | c.z.h.HikariConfig 
+2018-04-20 10:46:33,914 DEBUG | username........................"nyjits" | c.z.h.HikariConfig 
+2018-04-20 10:46:33,914 DEBUG | validationTimeout...............5000 | c.z.h.HikariConfig 
+2018-04-20 10:46:33,914  INFO | HikariPool-1 - Starting... | c.z.h.HikariDataSource 
+2018-04-20 10:46:33,918  WARN | Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation. | c.z.h.u.DriverDataSource 
+2018-04-20 10:46:33,918 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.u.DriverDataSource 
+2018-04-20 10:46:34,236  INFO | HikariPool-1 - Driver does not support get/set network timeout for connections. (oracle.jdbc.driver.T4CConnection.getNetworkTimeout()I) | c.z.h.p.PoolBase 
+2018-04-20 10:46:34,240 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@4b1a43d8 | c.z.h.p.HikariPool 
+2018-04-20 10:46:34,242  INFO | HikariPool-1 - Start completed. | c.z.h.HikariDataSource 
+2018-04-20 10:46:34,343 DEBUG | HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 10:46:34,478 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@382df8cb | c.z.h.p.HikariPool 
+2018-04-20 10:46:34,611 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@32d593bb | c.z.h.p.HikariPool 
+2018-04-20 10:46:34,657  INFO | Started SpringBootTestApplication in 4.572 seconds (JVM running for 5.622) | c.SpringBootTestApplication 
+2018-04-20 10:46:34,693 DEBUG | ==>  Preparing: SELECT CCTV_MNGM_NMBR, CCTV_CTLR_ID, CCTV_CTLR_IP, CCTV_CTLR_PORT, ISTL_LCTN_NM, ISTL_LCTN_ADDR, CCTV_ID FROM TB_CCTV_CTLR WHERE DEL_YN = 'N' AND CCTV_TYPE = 1 AND CCTV_CTLR_IP IS NOT NULL ORDER BY CCTV_MNGM_NMBR  | c.d.m.B.selectCctvList 
+2018-04-20 10:46:34,736 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@77d70b85 | c.z.h.p.HikariPool 
+2018-04-20 10:46:34,796 DEBUG | ==> Parameters:  | c.d.m.B.selectCctvList 
+2018-04-20 10:46:34,856 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@206b5e14 | c.z.h.p.HikariPool 
+2018-04-20 10:46:34,899 DEBUG | <==      Total: 89 | c.d.m.B.selectCctvList 
+2018-04-20 10:46:34,982 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@466a5c56 | c.z.h.p.HikariPool 
+2018-04-20 10:46:35,113 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@583c576b | c.z.h.p.HikariPool 
+2018-04-20 10:46:35,245 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@17f8f4ca | c.z.h.p.HikariPool 
+2018-04-20 10:46:35,371 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@6d9993df | c.z.h.p.HikariPool 
+2018-04-20 10:46:35,497 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@7905ead6 | c.z.h.p.HikariPool 
+2018-04-20 10:46:35,497 DEBUG | HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 10:47:04,345 DEBUG | HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 10:47:34,347 DEBUG | HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 10:47:37,935  INFO | HikariPool-1 - Shutdown initiated... | c.z.h.HikariDataSource 
+2018-04-20 10:47:37,936 DEBUG | HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 10:47:37,938 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@4b1a43d8: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:47:37,961 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@382df8cb: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:47:37,973 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@32d593bb: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:47:37,985 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@77d70b85: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:47:37,997 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@206b5e14: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:47:38,008 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@466a5c56: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:47:38,020 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@583c576b: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:47:38,026 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@17f8f4ca: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:47:38,045 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@6d9993df: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:47:38,057 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@7905ead6: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:47:38,069 DEBUG | HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 10:47:38,069  INFO | HikariPool-1 - Shutdown completed. | c.z.h.HikariDataSource 
+2018-04-20 10:58:16,061  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 18868 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 10:58:16,069 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 10:58:16,070  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 10:58:19,252 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.HikariConfig 
+2018-04-20 10:58:19,658 DEBUG | HikariPool-1 - configuration: | c.z.h.HikariConfig 
+2018-04-20 10:58:19,662 DEBUG | allowPoolSuspension.............false | c.z.h.HikariConfig 
+2018-04-20 10:58:19,662 DEBUG | autoCommit......................true | c.z.h.HikariConfig 
+2018-04-20 10:58:19,662 DEBUG | catalog.........................none | c.z.h.HikariConfig 
+2018-04-20 10:58:19,663 DEBUG | connectionInitSql...............none | c.z.h.HikariConfig 
+2018-04-20 10:58:19,663 DEBUG | connectionTestQuery.............none | c.z.h.HikariConfig 
+2018-04-20 10:58:19,663 DEBUG | connectionTimeout...............30000 | c.z.h.HikariConfig 
+2018-04-20 10:58:19,664 DEBUG | dataSource......................none | c.z.h.HikariConfig 
+2018-04-20 10:58:19,664 DEBUG | dataSourceClassName.............none | c.z.h.HikariConfig 
+2018-04-20 10:58:19,664 DEBUG | dataSourceJNDI..................none | c.z.h.HikariConfig 
+2018-04-20 10:58:19,665 DEBUG | dataSourceProperties............{password=<masked>} | c.z.h.HikariConfig 
+2018-04-20 10:58:19,666 DEBUG | driverClassName................."oracle.jdbc.driver.OracleDriver" | c.z.h.HikariConfig 
+2018-04-20 10:58:19,666 DEBUG | healthCheckProperties...........{} | c.z.h.HikariConfig 
+2018-04-20 10:58:19,666 DEBUG | healthCheckRegistry.............none | c.z.h.HikariConfig 
+2018-04-20 10:58:19,667 DEBUG | idleTimeout.....................600000 | c.z.h.HikariConfig 
+2018-04-20 10:58:19,667 DEBUG | initializationFailFast..........true | c.z.h.HikariConfig 
+2018-04-20 10:58:19,667 DEBUG | initializationFailTimeout.......1 | c.z.h.HikariConfig 
+2018-04-20 10:58:19,667 DEBUG | isolateInternalQueries..........false | c.z.h.HikariConfig 
+2018-04-20 10:58:19,667 DEBUG | jdbc4ConnectionTest.............false | c.z.h.HikariConfig 
+2018-04-20 10:58:19,668 DEBUG | jdbcUrl.........................jdbc:oracle:thin:@222.109.211.245:1521:TRAF | c.z.h.HikariConfig 
+2018-04-20 10:58:19,668 DEBUG | leakDetectionThreshold..........0 | c.z.h.HikariConfig 
+2018-04-20 10:58:19,668 DEBUG | maxLifetime.....................1800000 | c.z.h.HikariConfig 
+2018-04-20 10:58:19,668 DEBUG | maximumPoolSize.................10 | c.z.h.HikariConfig 
+2018-04-20 10:58:19,668 DEBUG | metricRegistry..................none | c.z.h.HikariConfig 
+2018-04-20 10:58:19,668 DEBUG | metricsTrackerFactory...........none | c.z.h.HikariConfig 
+2018-04-20 10:58:19,669 DEBUG | minimumIdle.....................10 | c.z.h.HikariConfig 
+2018-04-20 10:58:19,669 DEBUG | password........................<masked> | c.z.h.HikariConfig 
+2018-04-20 10:58:19,669 DEBUG | poolName........................"HikariPool-1" | c.z.h.HikariConfig 
+2018-04-20 10:58:19,669 DEBUG | readOnly........................false | c.z.h.HikariConfig 
+2018-04-20 10:58:19,669 DEBUG | registerMbeans..................false | c.z.h.HikariConfig 
+2018-04-20 10:58:19,670 DEBUG | scheduledExecutor...............none | c.z.h.HikariConfig 
+2018-04-20 10:58:19,670 DEBUG | scheduledExecutorService........internal | c.z.h.HikariConfig 
+2018-04-20 10:58:19,670 DEBUG | schema..........................none | c.z.h.HikariConfig 
+2018-04-20 10:58:19,670 DEBUG | threadFactory...................internal | c.z.h.HikariConfig 
+2018-04-20 10:58:19,670 DEBUG | transactionIsolation............default | c.z.h.HikariConfig 
+2018-04-20 10:58:19,670 DEBUG | username........................"nyjits" | c.z.h.HikariConfig 
+2018-04-20 10:58:19,670 DEBUG | validationTimeout...............5000 | c.z.h.HikariConfig 
+2018-04-20 10:58:19,671  INFO | HikariPool-1 - Starting... | c.z.h.HikariDataSource 
+2018-04-20 10:58:19,675  WARN | Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation. | c.z.h.u.DriverDataSource 
+2018-04-20 10:58:19,675 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.u.DriverDataSource 
+2018-04-20 10:58:19,971  INFO | HikariPool-1 - Driver does not support get/set network timeout for connections. (oracle.jdbc.driver.T4CConnection.getNetworkTimeout()I) | c.z.h.p.PoolBase 
+2018-04-20 10:58:19,974 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@2e3f79a2 | c.z.h.p.HikariPool 
+2018-04-20 10:58:19,976  INFO | HikariPool-1 - Start completed. | c.z.h.HikariDataSource 
+2018-04-20 10:58:20,077 DEBUG | HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 10:58:20,207 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@3bbfdaeb | c.z.h.p.HikariPool 
+2018-04-20 10:58:20,358 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@3147b19b | c.z.h.p.HikariPool 
+2018-04-20 10:58:20,391  INFO | Started SpringBootTestApplication in 4.612 seconds (JVM running for 5.621) | c.SpringBootTestApplication 
+2018-04-20 10:58:20,423 DEBUG | ==>  Preparing: SELECT CCTV_MNGM_NMBR, CCTV_CTLR_ID, CCTV_CTLR_IP, CCTV_CTLR_PORT, ISTL_LCTN_NM, ISTL_LCTN_ADDR, CCTV_ID FROM TB_CCTV_CTLR WHERE DEL_YN = 'N' AND CCTV_TYPE = 1 AND CCTV_CTLR_IP IS NOT NULL ORDER BY CCTV_MNGM_NMBR  | c.d.m.B.selectCctvList 
+2018-04-20 10:58:20,488 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@744529d7 | c.z.h.p.HikariPool 
+2018-04-20 10:58:20,528 DEBUG | ==> Parameters:  | c.d.m.B.selectCctvList 
+2018-04-20 10:58:20,615 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@31e8dd36 | c.z.h.p.HikariPool 
+2018-04-20 10:58:20,629 DEBUG | <==      Total: 89 | c.d.m.B.selectCctvList 
+2018-04-20 10:58:20,741 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@45fbffa4 | c.z.h.p.HikariPool 
+2018-04-20 10:58:20,865 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@49bc55e9 | c.z.h.p.HikariPool 
+2018-04-20 10:58:20,987 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@146ad698 | c.z.h.p.HikariPool 
+2018-04-20 10:58:21,178 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@631cb84e | c.z.h.p.HikariPool 
+2018-04-20 10:58:21,304 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@79806d56 | c.z.h.p.HikariPool 
+2018-04-20 10:58:21,304 DEBUG | HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 10:58:50,079 DEBUG | HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 10:58:54,431  INFO | HikariPool-1 - Shutdown initiated... | c.z.h.HikariDataSource 
+2018-04-20 10:58:54,432 DEBUG | HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 10:58:54,434 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@2e3f79a2: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:58:54,449 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@3bbfdaeb: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:58:54,458 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@3147b19b: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:58:54,466 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@744529d7: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:58:54,483 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@31e8dd36: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:58:54,497 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@45fbffa4: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:58:54,509 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@49bc55e9: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:58:54,521 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@146ad698: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:58:54,533 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@631cb84e: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:58:54,545 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@79806d56: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 10:58:54,557 DEBUG | HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 10:58:54,558  INFO | HikariPool-1 - Shutdown completed. | c.z.h.HikariDataSource 
+2018-04-20 10:59:27,184  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 19988 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 10:59:27,192 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 10:59:27,193  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 10:59:30,378 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.HikariConfig 
+2018-04-20 10:59:30,734 DEBUG | HikariPool-1 - configuration: | c.z.h.HikariConfig 
+2018-04-20 10:59:30,737 DEBUG | allowPoolSuspension.............false | c.z.h.HikariConfig 
+2018-04-20 10:59:30,737 DEBUG | autoCommit......................true | c.z.h.HikariConfig 
+2018-04-20 10:59:30,737 DEBUG | catalog.........................none | c.z.h.HikariConfig 
+2018-04-20 10:59:30,738 DEBUG | connectionInitSql...............none | c.z.h.HikariConfig 
+2018-04-20 10:59:30,738 DEBUG | connectionTestQuery.............none | c.z.h.HikariConfig 
+2018-04-20 10:59:30,738 DEBUG | connectionTimeout...............30000 | c.z.h.HikariConfig 
+2018-04-20 10:59:30,738 DEBUG | dataSource......................none | c.z.h.HikariConfig 
+2018-04-20 10:59:30,738 DEBUG | dataSourceClassName.............none | c.z.h.HikariConfig 
+2018-04-20 10:59:30,738 DEBUG | dataSourceJNDI..................none | c.z.h.HikariConfig 
+2018-04-20 10:59:30,739 DEBUG | dataSourceProperties............{password=<masked>} | c.z.h.HikariConfig 
+2018-04-20 10:59:30,739 DEBUG | driverClassName................."oracle.jdbc.driver.OracleDriver" | c.z.h.HikariConfig 
+2018-04-20 10:59:30,740 DEBUG | healthCheckProperties...........{} | c.z.h.HikariConfig 
+2018-04-20 10:59:30,740 DEBUG | healthCheckRegistry.............none | c.z.h.HikariConfig 
+2018-04-20 10:59:30,740 DEBUG | idleTimeout.....................600000 | c.z.h.HikariConfig 
+2018-04-20 10:59:30,740 DEBUG | initializationFailFast..........true | c.z.h.HikariConfig 
+2018-04-20 10:59:30,740 DEBUG | initializationFailTimeout.......1 | c.z.h.HikariConfig 
+2018-04-20 10:59:30,741 DEBUG | isolateInternalQueries..........false | c.z.h.HikariConfig 
+2018-04-20 10:59:30,741 DEBUG | jdbc4ConnectionTest.............false | c.z.h.HikariConfig 
+2018-04-20 10:59:30,741 DEBUG | jdbcUrl.........................jdbc:oracle:thin:@222.109.211.245:1521:TRAF | c.z.h.HikariConfig 
+2018-04-20 10:59:30,741 DEBUG | leakDetectionThreshold..........0 | c.z.h.HikariConfig 
+2018-04-20 10:59:30,741 DEBUG | maxLifetime.....................1800000 | c.z.h.HikariConfig 
+2018-04-20 10:59:30,741 DEBUG | maximumPoolSize.................10 | c.z.h.HikariConfig 
+2018-04-20 10:59:30,742 DEBUG | metricRegistry..................none | c.z.h.HikariConfig 
+2018-04-20 10:59:30,742 DEBUG | metricsTrackerFactory...........none | c.z.h.HikariConfig 
+2018-04-20 10:59:30,742 DEBUG | minimumIdle.....................10 | c.z.h.HikariConfig 
+2018-04-20 10:59:30,742 DEBUG | password........................<masked> | c.z.h.HikariConfig 
+2018-04-20 10:59:30,742 DEBUG | poolName........................"HikariPool-1" | c.z.h.HikariConfig 
+2018-04-20 10:59:30,743 DEBUG | readOnly........................false | c.z.h.HikariConfig 
+2018-04-20 10:59:30,743 DEBUG | registerMbeans..................false | c.z.h.HikariConfig 
+2018-04-20 10:59:30,743 DEBUG | scheduledExecutor...............none | c.z.h.HikariConfig 
+2018-04-20 10:59:30,743 DEBUG | scheduledExecutorService........internal | c.z.h.HikariConfig 
+2018-04-20 10:59:30,743 DEBUG | schema..........................none | c.z.h.HikariConfig 
+2018-04-20 10:59:30,743 DEBUG | threadFactory...................internal | c.z.h.HikariConfig 
+2018-04-20 10:59:30,744 DEBUG | transactionIsolation............default | c.z.h.HikariConfig 
+2018-04-20 10:59:30,744 DEBUG | username........................"nyjits" | c.z.h.HikariConfig 
+2018-04-20 10:59:30,744 DEBUG | validationTimeout...............5000 | c.z.h.HikariConfig 
+2018-04-20 10:59:30,744  INFO | HikariPool-1 - Starting... | c.z.h.HikariDataSource 
+2018-04-20 10:59:30,748  WARN | Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation. | c.z.h.u.DriverDataSource 
+2018-04-20 10:59:30,748 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.u.DriverDataSource 
+2018-04-20 10:59:31,058  INFO | HikariPool-1 - Driver does not support get/set network timeout for connections. (oracle.jdbc.driver.T4CConnection.getNetworkTimeout()I) | c.z.h.p.PoolBase 
+2018-04-20 10:59:31,062 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@73545b80 | c.z.h.p.HikariPool 
+2018-04-20 10:59:31,064  INFO | HikariPool-1 - Start completed. | c.z.h.HikariDataSource 
+2018-04-20 10:59:31,165 DEBUG | HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 10:59:31,307 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@35a74f9f | c.z.h.p.HikariPool 
+2018-04-20 10:59:31,475 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@3f5f24ef | c.z.h.p.HikariPool 
+2018-04-20 10:59:31,507  INFO | Started SpringBootTestApplication in 4.609 seconds (JVM running for 5.648) | c.SpringBootTestApplication 
+2018-04-20 10:59:31,541 DEBUG | ==>  Preparing: SELECT CCTV_MNGM_NMBR, CCTV_CTLR_ID, CCTV_CTLR_IP, CCTV_CTLR_PORT, ISTL_LCTN_NM, ISTL_LCTN_ADDR, CCTV_ID FROM TB_CCTV_CTLR WHERE DEL_YN = 'N' AND CCTV_TYPE = 1 AND CCTV_CTLR_IP IS NOT NULL ORDER BY CCTV_MNGM_NMBR  | c.d.m.B.selectCctvList 
+2018-04-20 10:59:31,601 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@7a5dbd60 | c.z.h.p.HikariPool 
+2018-04-20 10:59:31,661 DEBUG | ==> Parameters:  | c.d.m.B.selectCctvList 
+2018-04-20 10:59:31,726 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@7589ce03 | c.z.h.p.HikariPool 
+2018-04-20 10:59:31,758 DEBUG | <==      Total: 89 | c.d.m.B.selectCctvList 
+2018-04-20 10:59:31,994 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@4bed6586 | c.z.h.p.HikariPool 
+2018-04-20 10:59:32,119 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@dd34848 | c.z.h.p.HikariPool 
+2018-04-20 10:59:32,247 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@1a72422f | c.z.h.p.HikariPool 
+2018-04-20 10:59:32,371 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@21306eb4 | c.z.h.p.HikariPool 
+2018-04-20 10:59:32,505 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@1d1ee41 | c.z.h.p.HikariPool 
+2018-04-20 10:59:32,505 DEBUG | HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:00:01,168 DEBUG | HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:00:31,169 DEBUG | HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:00:46,610  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 19468 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 11:00:46,619 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 11:00:46,620  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 11:00:50,109 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.HikariConfig 
+2018-04-20 11:00:50,456 DEBUG | HikariPool-1 - configuration: | c.z.h.HikariConfig 
+2018-04-20 11:00:50,459 DEBUG | allowPoolSuspension.............false | c.z.h.HikariConfig 
+2018-04-20 11:00:50,459 DEBUG | autoCommit......................true | c.z.h.HikariConfig 
+2018-04-20 11:00:50,459 DEBUG | catalog.........................none | c.z.h.HikariConfig 
+2018-04-20 11:00:50,460 DEBUG | connectionInitSql...............none | c.z.h.HikariConfig 
+2018-04-20 11:00:50,460 DEBUG | connectionTestQuery.............none | c.z.h.HikariConfig 
+2018-04-20 11:00:50,460 DEBUG | connectionTimeout...............30000 | c.z.h.HikariConfig 
+2018-04-20 11:00:50,461 DEBUG | dataSource......................none | c.z.h.HikariConfig 
+2018-04-20 11:00:50,461 DEBUG | dataSourceClassName.............none | c.z.h.HikariConfig 
+2018-04-20 11:00:50,461 DEBUG | dataSourceJNDI..................none | c.z.h.HikariConfig 
+2018-04-20 11:00:50,462 DEBUG | dataSourceProperties............{password=<masked>} | c.z.h.HikariConfig 
+2018-04-20 11:00:50,463 DEBUG | driverClassName................."oracle.jdbc.driver.OracleDriver" | c.z.h.HikariConfig 
+2018-04-20 11:00:50,463 DEBUG | healthCheckProperties...........{} | c.z.h.HikariConfig 
+2018-04-20 11:00:50,464 DEBUG | healthCheckRegistry.............none | c.z.h.HikariConfig 
+2018-04-20 11:00:50,464 DEBUG | idleTimeout.....................600000 | c.z.h.HikariConfig 
+2018-04-20 11:00:50,464 DEBUG | initializationFailFast..........true | c.z.h.HikariConfig 
+2018-04-20 11:00:50,464 DEBUG | initializationFailTimeout.......1 | c.z.h.HikariConfig 
+2018-04-20 11:00:50,465 DEBUG | isolateInternalQueries..........false | c.z.h.HikariConfig 
+2018-04-20 11:00:50,465 DEBUG | jdbc4ConnectionTest.............false | c.z.h.HikariConfig 
+2018-04-20 11:00:50,465 DEBUG | jdbcUrl.........................jdbc:oracle:thin:@222.109.211.245:1521:TRAF | c.z.h.HikariConfig 
+2018-04-20 11:00:50,465 DEBUG | leakDetectionThreshold..........0 | c.z.h.HikariConfig 
+2018-04-20 11:00:50,465 DEBUG | maxLifetime.....................1800000 | c.z.h.HikariConfig 
+2018-04-20 11:00:50,465 DEBUG | maximumPoolSize.................10 | c.z.h.HikariConfig 
+2018-04-20 11:00:50,466 DEBUG | metricRegistry..................none | c.z.h.HikariConfig 
+2018-04-20 11:00:50,466 DEBUG | metricsTrackerFactory...........none | c.z.h.HikariConfig 
+2018-04-20 11:00:50,466 DEBUG | minimumIdle.....................10 | c.z.h.HikariConfig 
+2018-04-20 11:00:50,466 DEBUG | password........................<masked> | c.z.h.HikariConfig 
+2018-04-20 11:00:50,466 DEBUG | poolName........................"HikariPool-1" | c.z.h.HikariConfig 
+2018-04-20 11:00:50,467 DEBUG | readOnly........................false | c.z.h.HikariConfig 
+2018-04-20 11:00:50,467 DEBUG | registerMbeans..................false | c.z.h.HikariConfig 
+2018-04-20 11:00:50,467 DEBUG | scheduledExecutor...............none | c.z.h.HikariConfig 
+2018-04-20 11:00:50,467 DEBUG | scheduledExecutorService........internal | c.z.h.HikariConfig 
+2018-04-20 11:00:50,467 DEBUG | schema..........................none | c.z.h.HikariConfig 
+2018-04-20 11:00:50,467 DEBUG | threadFactory...................internal | c.z.h.HikariConfig 
+2018-04-20 11:00:50,468 DEBUG | transactionIsolation............default | c.z.h.HikariConfig 
+2018-04-20 11:00:50,468 DEBUG | username........................"nyjits" | c.z.h.HikariConfig 
+2018-04-20 11:00:50,468 DEBUG | validationTimeout...............5000 | c.z.h.HikariConfig 
+2018-04-20 11:00:50,468  INFO | HikariPool-1 - Starting... | c.z.h.HikariDataSource 
+2018-04-20 11:00:50,472  WARN | Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation. | c.z.h.u.DriverDataSource 
+2018-04-20 11:00:50,472 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.u.DriverDataSource 
+2018-04-20 11:00:50,791  INFO | HikariPool-1 - Driver does not support get/set network timeout for connections. (oracle.jdbc.driver.T4CConnection.getNetworkTimeout()I) | c.z.h.p.PoolBase 
+2018-04-20 11:00:50,794 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@7bebcd65 | c.z.h.p.HikariPool 
+2018-04-20 11:00:50,796  INFO | HikariPool-1 - Start completed. | c.z.h.HikariDataSource 
+2018-04-20 11:00:50,897 DEBUG | HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:00:51,034 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@63e0fd5 | c.z.h.p.HikariPool 
+2018-04-20 11:00:51,196 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@cc664a5 | c.z.h.p.HikariPool 
+2018-04-20 11:00:51,219  INFO | Started SpringBootTestApplication in 4.94 seconds (JVM running for 5.995) | c.SpringBootTestApplication 
+2018-04-20 11:00:51,250 DEBUG | ==>  Preparing: SELECT CCTV_MNGM_NMBR, CCTV_CTLR_ID, CCTV_CTLR_IP, CCTV_CTLR_PORT, ISTL_LCTN_NM, ISTL_LCTN_ADDR, CCTV_ID FROM TB_CCTV_CTLR WHERE DEL_YN = 'N' AND CCTV_TYPE = 1 AND CCTV_CTLR_IP IS NOT NULL ORDER BY CCTV_MNGM_NMBR  | c.d.m.B.selectCctvList 
+2018-04-20 11:00:51,327 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@49c4eb59 | c.z.h.p.HikariPool 
+2018-04-20 11:00:51,343 DEBUG | ==> Parameters:  | c.d.m.B.selectCctvList 
+2018-04-20 11:00:51,440 DEBUG | <==      Total: 89 | c.d.m.B.selectCctvList 
+2018-04-20 11:00:51,453 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@3ff20513 | c.z.h.p.HikariPool 
+2018-04-20 11:00:51,578 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@78c7017e | c.z.h.p.HikariPool 
+2018-04-20 11:00:51,703 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@471bb18f | c.z.h.p.HikariPool 
+2018-04-20 11:00:51,965 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@29eb1416 | c.z.h.p.HikariPool 
+2018-04-20 11:00:52,094 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@69e46a5 | c.z.h.p.HikariPool 
+2018-04-20 11:00:52,225 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@46927bf9 | c.z.h.p.HikariPool 
+2018-04-20 11:00:52,226 DEBUG | HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:00:55,960  INFO | HikariPool-1 - Shutdown initiated... | c.z.h.HikariDataSource 
+2018-04-20 11:00:55,961 DEBUG | HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:00:55,962 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@7bebcd65: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:00:55,978 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@63e0fd5: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:00:55,988 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@cc664a5: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:00:55,996 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@49c4eb59: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:00:56,013 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@3ff20513: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:00:56,026 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@78c7017e: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:00:56,039 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@471bb18f: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:00:56,050 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@29eb1416: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:00:56,062 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@69e46a5: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:00:56,074 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@46927bf9: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:00:56,087 DEBUG | HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:00:56,087  INFO | HikariPool-1 - Shutdown completed. | c.z.h.HikariDataSource 
+2018-04-20 11:01:01,171 DEBUG | HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:01:31,174 DEBUG | HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:02:01,177 DEBUG | HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:02:31,179 DEBUG | HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:02:37,779  INFO | HikariPool-1 - Shutdown initiated... | c.z.h.HikariDataSource 
+2018-04-20 11:02:37,780 DEBUG | HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:02:37,781 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@73545b80: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:02:37,794 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@35a74f9f: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:02:37,804 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@3f5f24ef: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:02:37,812 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@7a5dbd60: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:02:37,828 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@7589ce03: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:02:37,841 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@4bed6586: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:02:37,853 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@dd34848: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:02:37,867 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@1a72422f: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:02:37,879 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@21306eb4: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:02:37,890 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@1d1ee41: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:02:37,902 DEBUG | HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:02:37,903  INFO | HikariPool-1 - Shutdown completed. | c.z.h.HikariDataSource 
+2018-04-20 11:04:41,652  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 18144 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 11:04:41,660 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 11:04:41,660  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 11:04:44,803 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.HikariConfig 
+2018-04-20 11:04:45,132 DEBUG | HikariPool-1 - configuration: | c.z.h.HikariConfig 
+2018-04-20 11:04:45,134 DEBUG | allowPoolSuspension.............false | c.z.h.HikariConfig 
+2018-04-20 11:04:45,135 DEBUG | autoCommit......................true | c.z.h.HikariConfig 
+2018-04-20 11:04:45,135 DEBUG | catalog.........................none | c.z.h.HikariConfig 
+2018-04-20 11:04:45,135 DEBUG | connectionInitSql...............none | c.z.h.HikariConfig 
+2018-04-20 11:04:45,135 DEBUG | connectionTestQuery.............none | c.z.h.HikariConfig 
+2018-04-20 11:04:45,135 DEBUG | connectionTimeout...............30000 | c.z.h.HikariConfig 
+2018-04-20 11:04:45,136 DEBUG | dataSource......................none | c.z.h.HikariConfig 
+2018-04-20 11:04:45,136 DEBUG | dataSourceClassName.............none | c.z.h.HikariConfig 
+2018-04-20 11:04:45,136 DEBUG | dataSourceJNDI..................none | c.z.h.HikariConfig 
+2018-04-20 11:04:45,137 DEBUG | dataSourceProperties............{password=<masked>} | c.z.h.HikariConfig 
+2018-04-20 11:04:45,137 DEBUG | driverClassName................."oracle.jdbc.driver.OracleDriver" | c.z.h.HikariConfig 
+2018-04-20 11:04:45,137 DEBUG | healthCheckProperties...........{} | c.z.h.HikariConfig 
+2018-04-20 11:04:45,137 DEBUG | healthCheckRegistry.............none | c.z.h.HikariConfig 
+2018-04-20 11:04:45,137 DEBUG | idleTimeout.....................600000 | c.z.h.HikariConfig 
+2018-04-20 11:04:45,138 DEBUG | initializationFailFast..........true | c.z.h.HikariConfig 
+2018-04-20 11:04:45,138 DEBUG | initializationFailTimeout.......1 | c.z.h.HikariConfig 
+2018-04-20 11:04:45,138 DEBUG | isolateInternalQueries..........false | c.z.h.HikariConfig 
+2018-04-20 11:04:45,138 DEBUG | jdbc4ConnectionTest.............false | c.z.h.HikariConfig 
+2018-04-20 11:04:45,138 DEBUG | jdbcUrl.........................jdbc:oracle:thin:@222.109.211.245:1521:TRAF | c.z.h.HikariConfig 
+2018-04-20 11:04:45,138 DEBUG | leakDetectionThreshold..........0 | c.z.h.HikariConfig 
+2018-04-20 11:04:45,139 DEBUG | maxLifetime.....................1800000 | c.z.h.HikariConfig 
+2018-04-20 11:04:45,139 DEBUG | maximumPoolSize.................10 | c.z.h.HikariConfig 
+2018-04-20 11:04:45,139 DEBUG | metricRegistry..................none | c.z.h.HikariConfig 
+2018-04-20 11:04:45,139 DEBUG | metricsTrackerFactory...........none | c.z.h.HikariConfig 
+2018-04-20 11:04:45,139 DEBUG | minimumIdle.....................10 | c.z.h.HikariConfig 
+2018-04-20 11:04:45,139 DEBUG | password........................<masked> | c.z.h.HikariConfig 
+2018-04-20 11:04:45,140 DEBUG | poolName........................"HikariPool-1" | c.z.h.HikariConfig 
+2018-04-20 11:04:45,140 DEBUG | readOnly........................false | c.z.h.HikariConfig 
+2018-04-20 11:04:45,140 DEBUG | registerMbeans..................false | c.z.h.HikariConfig 
+2018-04-20 11:04:45,140 DEBUG | scheduledExecutor...............none | c.z.h.HikariConfig 
+2018-04-20 11:04:45,140 DEBUG | scheduledExecutorService........internal | c.z.h.HikariConfig 
+2018-04-20 11:04:45,140 DEBUG | schema..........................none | c.z.h.HikariConfig 
+2018-04-20 11:04:45,141 DEBUG | threadFactory...................internal | c.z.h.HikariConfig 
+2018-04-20 11:04:45,141 DEBUG | transactionIsolation............default | c.z.h.HikariConfig 
+2018-04-20 11:04:45,141 DEBUG | username........................"nyjits" | c.z.h.HikariConfig 
+2018-04-20 11:04:45,141 DEBUG | validationTimeout...............5000 | c.z.h.HikariConfig 
+2018-04-20 11:04:45,141  INFO | HikariPool-1 - Starting... | c.z.h.HikariDataSource 
+2018-04-20 11:04:45,144  WARN | Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation. | c.z.h.u.DriverDataSource 
+2018-04-20 11:04:45,145 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.u.DriverDataSource 
+2018-04-20 11:04:45,453  INFO | HikariPool-1 - Driver does not support get/set network timeout for connections. (oracle.jdbc.driver.T4CConnection.getNetworkTimeout()I) | c.z.h.p.PoolBase 
+2018-04-20 11:04:45,457 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@73545b80 | c.z.h.p.HikariPool 
+2018-04-20 11:04:45,459  INFO | HikariPool-1 - Start completed. | c.z.h.HikariDataSource 
+2018-04-20 11:04:45,560 DEBUG | HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:04:45,690 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@ea4a1ff | c.z.h.p.HikariPool 
+2018-04-20 11:04:45,836 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@45cca8f | c.z.h.p.HikariPool 
+2018-04-20 11:04:45,889  INFO | Started SpringBootTestApplication in 4.506 seconds (JVM running for 5.541) | c.SpringBootTestApplication 
+2018-04-20 11:04:45,925 DEBUG | ==>  Preparing: SELECT CCTV_MNGM_NMBR, CCTV_CTLR_ID, CCTV_CTLR_IP, CCTV_CTLR_PORT, ISTL_LCTN_NM, ISTL_LCTN_ADDR, CCTV_ID FROM TB_CCTV_CTLR WHERE DEL_YN = 'N' AND CCTV_TYPE = 1 AND CCTV_CTLR_IP IS NOT NULL ORDER BY CCTV_MNGM_NMBR  | c.d.m.B.selectCctvList 
+2018-04-20 11:04:45,965 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@415e5460 | c.z.h.p.HikariPool 
+2018-04-20 11:04:46,019 DEBUG | ==> Parameters:  | c.d.m.B.selectCctvList 
+2018-04-20 11:04:46,097 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@6adebeed | c.z.h.p.HikariPool 
+2018-04-20 11:04:46,099 DEBUG | <==      Total: 89 | c.d.m.B.selectCctvList 
+2018-04-20 11:04:46,222 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@70d5b46b | c.z.h.p.HikariPool 
+2018-04-20 11:04:46,346 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@12bf004c | c.z.h.p.HikariPool 
+2018-04-20 11:04:46,468 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@2171ab2f | c.z.h.p.HikariPool 
+2018-04-20 11:04:46,600 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@3e47503a | c.z.h.p.HikariPool 
+2018-04-20 11:04:46,719 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@63eccd75 | c.z.h.p.HikariPool 
+2018-04-20 11:04:46,720 DEBUG | HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:05:13,972  INFO | HikariPool-1 - Shutdown initiated... | c.z.h.HikariDataSource 
+2018-04-20 11:05:13,973 DEBUG | HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:05:13,974 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@73545b80: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:05:13,993 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@ea4a1ff: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:05:14,002 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@45cca8f: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:05:14,014 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@415e5460: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:05:14,022 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@6adebeed: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:05:14,035 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@70d5b46b: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:05:14,046 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@12bf004c: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:05:14,056 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@2171ab2f: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:05:14,065 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@3e47503a: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:05:14,083 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@63eccd75: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:05:14,095 DEBUG | HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:05:14,095  INFO | HikariPool-1 - Shutdown completed. | c.z.h.HikariDataSource 
+2018-04-20 11:05:54,482  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 19536 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 11:05:54,492 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 11:05:54,492  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 11:05:57,882 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.HikariConfig 
+2018-04-20 11:05:58,195 DEBUG | HikariPool-1 - configuration: | c.z.h.HikariConfig 
+2018-04-20 11:05:58,198 DEBUG | allowPoolSuspension.............false | c.z.h.HikariConfig 
+2018-04-20 11:05:58,198 DEBUG | autoCommit......................true | c.z.h.HikariConfig 
+2018-04-20 11:05:58,198 DEBUG | catalog.........................none | c.z.h.HikariConfig 
+2018-04-20 11:05:58,199 DEBUG | connectionInitSql...............none | c.z.h.HikariConfig 
+2018-04-20 11:05:58,199 DEBUG | connectionTestQuery.............none | c.z.h.HikariConfig 
+2018-04-20 11:05:58,199 DEBUG | connectionTimeout...............30000 | c.z.h.HikariConfig 
+2018-04-20 11:05:58,199 DEBUG | dataSource......................none | c.z.h.HikariConfig 
+2018-04-20 11:05:58,200 DEBUG | dataSourceClassName.............none | c.z.h.HikariConfig 
+2018-04-20 11:05:58,200 DEBUG | dataSourceJNDI..................none | c.z.h.HikariConfig 
+2018-04-20 11:05:58,201 DEBUG | dataSourceProperties............{password=<masked>} | c.z.h.HikariConfig 
+2018-04-20 11:05:58,201 DEBUG | driverClassName................."oracle.jdbc.driver.OracleDriver" | c.z.h.HikariConfig 
+2018-04-20 11:05:58,201 DEBUG | healthCheckProperties...........{} | c.z.h.HikariConfig 
+2018-04-20 11:05:58,201 DEBUG | healthCheckRegistry.............none | c.z.h.HikariConfig 
+2018-04-20 11:05:58,202 DEBUG | idleTimeout.....................600000 | c.z.h.HikariConfig 
+2018-04-20 11:05:58,202 DEBUG | initializationFailFast..........true | c.z.h.HikariConfig 
+2018-04-20 11:05:58,202 DEBUG | initializationFailTimeout.......1 | c.z.h.HikariConfig 
+2018-04-20 11:05:58,202 DEBUG | isolateInternalQueries..........false | c.z.h.HikariConfig 
+2018-04-20 11:05:58,202 DEBUG | jdbc4ConnectionTest.............false | c.z.h.HikariConfig 
+2018-04-20 11:05:58,203 DEBUG | jdbcUrl.........................jdbc:oracle:thin:@222.109.211.245:1521:TRAF | c.z.h.HikariConfig 
+2018-04-20 11:05:58,203 DEBUG | leakDetectionThreshold..........0 | c.z.h.HikariConfig 
+2018-04-20 11:05:58,203 DEBUG | maxLifetime.....................1800000 | c.z.h.HikariConfig 
+2018-04-20 11:05:58,203 DEBUG | maximumPoolSize.................10 | c.z.h.HikariConfig 
+2018-04-20 11:05:58,203 DEBUG | metricRegistry..................none | c.z.h.HikariConfig 
+2018-04-20 11:05:58,203 DEBUG | metricsTrackerFactory...........none | c.z.h.HikariConfig 
+2018-04-20 11:05:58,204 DEBUG | minimumIdle.....................10 | c.z.h.HikariConfig 
+2018-04-20 11:05:58,204 DEBUG | password........................<masked> | c.z.h.HikariConfig 
+2018-04-20 11:05:58,204 DEBUG | poolName........................"HikariPool-1" | c.z.h.HikariConfig 
+2018-04-20 11:05:58,204 DEBUG | readOnly........................false | c.z.h.HikariConfig 
+2018-04-20 11:05:58,205 DEBUG | registerMbeans..................false | c.z.h.HikariConfig 
+2018-04-20 11:05:58,205 DEBUG | scheduledExecutor...............none | c.z.h.HikariConfig 
+2018-04-20 11:05:58,205 DEBUG | scheduledExecutorService........internal | c.z.h.HikariConfig 
+2018-04-20 11:05:58,205 DEBUG | schema..........................none | c.z.h.HikariConfig 
+2018-04-20 11:05:58,205 DEBUG | threadFactory...................internal | c.z.h.HikariConfig 
+2018-04-20 11:05:58,205 DEBUG | transactionIsolation............default | c.z.h.HikariConfig 
+2018-04-20 11:05:58,206 DEBUG | username........................"nyjits" | c.z.h.HikariConfig 
+2018-04-20 11:05:58,206 DEBUG | validationTimeout...............5000 | c.z.h.HikariConfig 
+2018-04-20 11:05:58,206  INFO | HikariPool-1 - Starting... | c.z.h.HikariDataSource 
+2018-04-20 11:05:58,210  WARN | Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation. | c.z.h.u.DriverDataSource 
+2018-04-20 11:05:58,211 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.u.DriverDataSource 
+2018-04-20 11:05:58,517  INFO | HikariPool-1 - Driver does not support get/set network timeout for connections. (oracle.jdbc.driver.T4CConnection.getNetworkTimeout()I) | c.z.h.p.PoolBase 
+2018-04-20 11:05:58,521 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@2ff15f8c | c.z.h.p.HikariPool 
+2018-04-20 11:05:58,523  INFO | HikariPool-1 - Start completed. | c.z.h.HikariDataSource 
+2018-04-20 11:05:58,624 DEBUG | HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:05:58,759 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@3017cc79 | c.z.h.p.HikariPool 
+2018-04-20 11:05:58,918 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@3aefa709 | c.z.h.p.HikariPool 
+2018-04-20 11:05:58,991  INFO | Started SpringBootTestApplication in 4.836 seconds (JVM running for 5.906) | c.SpringBootTestApplication 
+2018-04-20 11:05:59,030 DEBUG | ==>  Preparing: SELECT CCTV_MNGM_NMBR, CCTV_CTLR_ID, CCTV_CTLR_IP, CCTV_CTLR_PORT, ISTL_LCTN_NM, ISTL_LCTN_ADDR, CCTV_ID FROM TB_CCTV_CTLR WHERE DEL_YN = 'N' AND CCTV_TYPE = 1 AND CCTV_CTLR_IP IS NOT NULL ORDER BY CCTV_MNGM_NMBR  | c.d.m.B.selectCctvList 
+2018-04-20 11:05:59,049 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@7fed3e30 | c.z.h.p.HikariPool 
+2018-04-20 11:05:59,132 DEBUG | ==> Parameters:  | c.d.m.B.selectCctvList 
+2018-04-20 11:05:59,181 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@711751b0 | c.z.h.p.HikariPool 
+2018-04-20 11:05:59,222 DEBUG | <==      Total: 89 | c.d.m.B.selectCctvList 
+2018-04-20 11:05:59,307 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@4e5843f5 | c.z.h.p.HikariPool 
+2018-04-20 11:05:59,430 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@94872d8 | c.z.h.p.HikariPool 
+2018-04-20 11:05:59,552 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@1fc2c17f | c.z.h.p.HikariPool 
+2018-04-20 11:05:59,678 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@549389e6 | c.z.h.p.HikariPool 
+2018-04-20 11:05:59,807 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@58583f6a | c.z.h.p.HikariPool 
+2018-04-20 11:05:59,807 DEBUG | HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:06:08,116  INFO | HikariPool-1 - Shutdown initiated... | c.z.h.HikariDataSource 
+2018-04-20 11:06:08,117 DEBUG | HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:06:08,118 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@2ff15f8c: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:06:08,132 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@3017cc79: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:06:08,140 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@3aefa709: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:06:08,149 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@7fed3e30: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:06:08,162 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@711751b0: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:06:08,174 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@4e5843f5: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:06:08,186 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@94872d8: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:06:08,198 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@1fc2c17f: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:06:08,210 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@549389e6: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:06:08,222 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@58583f6a: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:06:08,234 DEBUG | HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:06:08,234  INFO | HikariPool-1 - Shutdown completed. | c.z.h.HikariDataSource 
+2018-04-20 11:27:57,164  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 17780 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 11:27:57,173 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 11:27:57,173  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 11:28:00,448 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.HikariConfig 
+2018-04-20 11:28:49,969  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 17648 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 11:28:49,978 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 11:28:49,979  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 11:30:02,498  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 15268 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 11:30:02,507 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 11:30:02,508  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 11:30:05,755 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.HikariConfig 
+2018-04-20 11:30:06,075 DEBUG | HikariPool-1 - configuration: | c.z.h.HikariConfig 
+2018-04-20 11:30:06,078 DEBUG | allowPoolSuspension.............false | c.z.h.HikariConfig 
+2018-04-20 11:30:06,079 DEBUG | autoCommit......................true | c.z.h.HikariConfig 
+2018-04-20 11:30:06,079 DEBUG | catalog.........................none | c.z.h.HikariConfig 
+2018-04-20 11:30:06,080 DEBUG | connectionInitSql...............none | c.z.h.HikariConfig 
+2018-04-20 11:30:06,080 DEBUG | connectionTestQuery.............none | c.z.h.HikariConfig 
+2018-04-20 11:30:06,080 DEBUG | connectionTimeout...............30000 | c.z.h.HikariConfig 
+2018-04-20 11:30:06,081 DEBUG | dataSource......................none | c.z.h.HikariConfig 
+2018-04-20 11:30:06,081 DEBUG | dataSourceClassName.............none | c.z.h.HikariConfig 
+2018-04-20 11:30:06,081 DEBUG | dataSourceJNDI..................none | c.z.h.HikariConfig 
+2018-04-20 11:30:06,082 DEBUG | dataSourceProperties............{password=<masked>} | c.z.h.HikariConfig 
+2018-04-20 11:30:06,083 DEBUG | driverClassName................."oracle.jdbc.driver.OracleDriver" | c.z.h.HikariConfig 
+2018-04-20 11:30:06,083 DEBUG | healthCheckProperties...........{} | c.z.h.HikariConfig 
+2018-04-20 11:30:06,083 DEBUG | healthCheckRegistry.............none | c.z.h.HikariConfig 
+2018-04-20 11:30:06,084 DEBUG | idleTimeout.....................600000 | c.z.h.HikariConfig 
+2018-04-20 11:30:06,084 DEBUG | initializationFailFast..........true | c.z.h.HikariConfig 
+2018-04-20 11:30:06,084 DEBUG | initializationFailTimeout.......1 | c.z.h.HikariConfig 
+2018-04-20 11:30:06,084 DEBUG | isolateInternalQueries..........false | c.z.h.HikariConfig 
+2018-04-20 11:30:06,084 DEBUG | jdbc4ConnectionTest.............false | c.z.h.HikariConfig 
+2018-04-20 11:30:06,085 DEBUG | jdbcUrl.........................jdbc:oracle:thin:@222.109.211.245:1521:TRAF | c.z.h.HikariConfig 
+2018-04-20 11:30:06,085 DEBUG | leakDetectionThreshold..........0 | c.z.h.HikariConfig 
+2018-04-20 11:30:06,085 DEBUG | maxLifetime.....................1800000 | c.z.h.HikariConfig 
+2018-04-20 11:30:06,085 DEBUG | maximumPoolSize.................10 | c.z.h.HikariConfig 
+2018-04-20 11:30:06,085 DEBUG | metricRegistry..................none | c.z.h.HikariConfig 
+2018-04-20 11:30:06,085 DEBUG | metricsTrackerFactory...........none | c.z.h.HikariConfig 
+2018-04-20 11:30:06,086 DEBUG | minimumIdle.....................10 | c.z.h.HikariConfig 
+2018-04-20 11:30:06,086 DEBUG | password........................<masked> | c.z.h.HikariConfig 
+2018-04-20 11:30:06,086 DEBUG | poolName........................"HikariPool-1" | c.z.h.HikariConfig 
+2018-04-20 11:30:06,086 DEBUG | readOnly........................false | c.z.h.HikariConfig 
+2018-04-20 11:30:06,086 DEBUG | registerMbeans..................false | c.z.h.HikariConfig 
+2018-04-20 11:30:06,087 DEBUG | scheduledExecutor...............none | c.z.h.HikariConfig 
+2018-04-20 11:30:06,087 DEBUG | scheduledExecutorService........internal | c.z.h.HikariConfig 
+2018-04-20 11:30:06,087 DEBUG | schema..........................none | c.z.h.HikariConfig 
+2018-04-20 11:30:06,087 DEBUG | threadFactory...................internal | c.z.h.HikariConfig 
+2018-04-20 11:30:06,087 DEBUG | transactionIsolation............default | c.z.h.HikariConfig 
+2018-04-20 11:30:06,087 DEBUG | username........................"nyjits" | c.z.h.HikariConfig 
+2018-04-20 11:30:06,088 DEBUG | validationTimeout...............5000 | c.z.h.HikariConfig 
+2018-04-20 11:30:06,088  INFO | HikariPool-1 - Starting... | c.z.h.HikariDataSource 
+2018-04-20 11:30:06,092  WARN | Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation. | c.z.h.u.DriverDataSource 
+2018-04-20 11:30:06,092 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.u.DriverDataSource 
+2018-04-20 11:30:06,399  INFO | HikariPool-1 - Driver does not support get/set network timeout for connections. (oracle.jdbc.driver.T4CConnection.getNetworkTimeout()I) | c.z.h.p.PoolBase 
+2018-04-20 11:30:06,403 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@213bd3d5 | c.z.h.p.HikariPool 
+2018-04-20 11:30:06,405  INFO | HikariPool-1 - Start completed. | c.z.h.HikariDataSource 
+2018-04-20 11:30:06,506 DEBUG | HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:30:06,641 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@5cecc6b1 | c.z.h.p.HikariPool 
+2018-04-20 11:30:06,816 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@5614adc1 | c.z.h.p.HikariPool 
+2018-04-20 11:30:06,885  INFO | Started SpringBootTestApplication in 4.676 seconds (JVM running for 5.745) | c.SpringBootTestApplication 
+2018-04-20 11:30:06,915 DEBUG | ==>  Preparing: SELECT CCTV_MNGM_NMBR, CCTV_CTLR_ID, CCTV_CTLR_IP, CCTV_CTLR_PORT, ISTL_LCTN_NM, ISTL_LCTN_ADDR, CCTV_ID FROM TB_CCTV_CTLR WHERE DEL_YN = 'N' AND CCTV_TYPE = 1 AND CCTV_CTLR_IP IS NOT NULL ORDER BY CCTV_MNGM_NMBR  | c.d.m.B.selectCctvList 
+2018-04-20 11:30:06,941 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@13162967 | c.z.h.p.HikariPool 
+2018-04-20 11:30:07,028 DEBUG | ==> Parameters:  | c.d.m.B.selectCctvList 
+2018-04-20 11:30:07,065 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@2975bcfa | c.z.h.p.HikariPool 
+2018-04-20 11:30:07,125 DEBUG | <==      Total: 89 | c.d.m.B.selectCctvList 
+2018-04-20 11:30:07,193 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@224f5b4b | c.z.h.p.HikariPool 
+2018-04-20 11:30:07,318 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@51c69066 | c.z.h.p.HikariPool 
+2018-04-20 11:30:07,450 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@7339d628 | c.z.h.p.HikariPool 
+2018-04-20 11:30:07,569 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@77af36d9 | c.z.h.p.HikariPool 
+2018-04-20 11:30:07,712 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@2fe2be64 | c.z.h.p.HikariPool 
+2018-04-20 11:30:07,712 DEBUG | HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:30:16,753  INFO | HikariPool-1 - Shutdown initiated... | c.z.h.HikariDataSource 
+2018-04-20 11:30:16,754 DEBUG | HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:30:16,755 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@213bd3d5: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:30:16,772 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@5cecc6b1: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:30:16,782 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@5614adc1: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:30:16,795 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@13162967: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:30:16,806 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@2975bcfa: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:30:16,813 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@224f5b4b: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:30:16,824 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@51c69066: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:30:16,831 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@7339d628: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:30:16,842 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@77af36d9: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:30:16,849 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@2fe2be64: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:30:16,860 DEBUG | HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:30:16,861  INFO | HikariPool-1 - Shutdown completed. | c.z.h.HikariDataSource 
+2018-04-20 11:36:52,958  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 17780 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 11:36:52,967 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 11:36:52,967  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 11:36:56,086 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.HikariConfig 
+2018-04-20 11:36:56,437 DEBUG | HikariPool-1 - configuration: | c.z.h.HikariConfig 
+2018-04-20 11:36:56,440 DEBUG | allowPoolSuspension.............false | c.z.h.HikariConfig 
+2018-04-20 11:36:56,440 DEBUG | autoCommit......................true | c.z.h.HikariConfig 
+2018-04-20 11:36:56,441 DEBUG | catalog.........................none | c.z.h.HikariConfig 
+2018-04-20 11:36:56,441 DEBUG | connectionInitSql...............none | c.z.h.HikariConfig 
+2018-04-20 11:36:56,441 DEBUG | connectionTestQuery.............none | c.z.h.HikariConfig 
+2018-04-20 11:36:56,442 DEBUG | connectionTimeout...............30000 | c.z.h.HikariConfig 
+2018-04-20 11:36:56,442 DEBUG | dataSource......................none | c.z.h.HikariConfig 
+2018-04-20 11:36:56,442 DEBUG | dataSourceClassName.............none | c.z.h.HikariConfig 
+2018-04-20 11:36:56,442 DEBUG | dataSourceJNDI..................none | c.z.h.HikariConfig 
+2018-04-20 11:36:56,443 DEBUG | dataSourceProperties............{password=<masked>} | c.z.h.HikariConfig 
+2018-04-20 11:36:56,443 DEBUG | driverClassName................."oracle.jdbc.driver.OracleDriver" | c.z.h.HikariConfig 
+2018-04-20 11:36:56,444 DEBUG | healthCheckProperties...........{} | c.z.h.HikariConfig 
+2018-04-20 11:36:56,444 DEBUG | healthCheckRegistry.............none | c.z.h.HikariConfig 
+2018-04-20 11:36:56,444 DEBUG | idleTimeout.....................600000 | c.z.h.HikariConfig 
+2018-04-20 11:36:56,444 DEBUG | initializationFailFast..........true | c.z.h.HikariConfig 
+2018-04-20 11:36:56,445 DEBUG | initializationFailTimeout.......1 | c.z.h.HikariConfig 
+2018-04-20 11:36:56,445 DEBUG | isolateInternalQueries..........false | c.z.h.HikariConfig 
+2018-04-20 11:36:56,445 DEBUG | jdbc4ConnectionTest.............false | c.z.h.HikariConfig 
+2018-04-20 11:36:56,445 DEBUG | jdbcUrl.........................jdbc:oracle:thin:@222.109.211.245:1521:TRAF | c.z.h.HikariConfig 
+2018-04-20 11:36:56,446 DEBUG | leakDetectionThreshold..........0 | c.z.h.HikariConfig 
+2018-04-20 11:36:56,446 DEBUG | maxLifetime.....................1800000 | c.z.h.HikariConfig 
+2018-04-20 11:36:56,446 DEBUG | maximumPoolSize.................10 | c.z.h.HikariConfig 
+2018-04-20 11:36:56,446 DEBUG | metricRegistry..................none | c.z.h.HikariConfig 
+2018-04-20 11:36:56,446 DEBUG | metricsTrackerFactory...........none | c.z.h.HikariConfig 
+2018-04-20 11:36:56,446 DEBUG | minimumIdle.....................10 | c.z.h.HikariConfig 
+2018-04-20 11:36:56,447 DEBUG | password........................<masked> | c.z.h.HikariConfig 
+2018-04-20 11:36:56,447 DEBUG | poolName........................"HikariPool-1" | c.z.h.HikariConfig 
+2018-04-20 11:36:56,447 DEBUG | readOnly........................false | c.z.h.HikariConfig 
+2018-04-20 11:36:56,447 DEBUG | registerMbeans..................false | c.z.h.HikariConfig 
+2018-04-20 11:36:56,447 DEBUG | scheduledExecutor...............none | c.z.h.HikariConfig 
+2018-04-20 11:36:56,448 DEBUG | scheduledExecutorService........internal | c.z.h.HikariConfig 
+2018-04-20 11:36:56,448 DEBUG | schema..........................none | c.z.h.HikariConfig 
+2018-04-20 11:36:56,448 DEBUG | threadFactory...................internal | c.z.h.HikariConfig 
+2018-04-20 11:36:56,448 DEBUG | transactionIsolation............default | c.z.h.HikariConfig 
+2018-04-20 11:36:56,448 DEBUG | username........................"nyjits" | c.z.h.HikariConfig 
+2018-04-20 11:36:56,448 DEBUG | validationTimeout...............5000 | c.z.h.HikariConfig 
+2018-04-20 11:36:56,449  INFO | HikariPool-1 - Starting... | c.z.h.HikariDataSource 
+2018-04-20 11:36:56,453  WARN | Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation. | c.z.h.u.DriverDataSource 
+2018-04-20 11:36:56,453 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.u.DriverDataSource 
+2018-04-20 11:36:56,754  INFO | HikariPool-1 - Driver does not support get/set network timeout for connections. (oracle.jdbc.driver.T4CConnection.getNetworkTimeout()I) | c.z.h.p.PoolBase 
+2018-04-20 11:36:56,758 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@5b84f14 | c.z.h.p.HikariPool 
+2018-04-20 11:36:56,760  INFO | HikariPool-1 - Start completed. | c.z.h.HikariDataSource 
+2018-04-20 11:36:56,861 DEBUG | HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:36:56,995 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@65e9cf64 | c.z.h.p.HikariPool 
+2018-04-20 11:36:57,171 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@6f11a414 | c.z.h.p.HikariPool 
+2018-04-20 11:36:57,186  INFO | Started SpringBootTestApplication in 4.528 seconds (JVM running for 5.617) | c.SpringBootTestApplication 
+2018-04-20 11:36:57,218 DEBUG | ==>  Preparing: SELECT CCTV_MNGM_NMBR, CCTV_CTLR_ID, CCTV_CTLR_IP, CCTV_CTLR_PORT, ISTL_LCTN_NM, ISTL_LCTN_ADDR, CCTV_ID FROM TB_CCTV_CTLR WHERE DEL_YN = 'N' AND CCTV_TYPE = 1 AND CCTV_CTLR_IP IS NOT NULL ORDER BY CCTV_MNGM_NMBR  | c.d.m.B.selectCctvList 
+2018-04-20 11:36:57,303 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@2a133792 | c.z.h.p.HikariPool 
+2018-04-20 11:36:57,306 DEBUG | ==> Parameters:  | c.d.m.B.selectCctvList 
+2018-04-20 11:36:57,387 DEBUG | <==      Total: 89 | c.d.m.B.selectCctvList 
+2018-04-20 11:36:57,432 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@1aa5f5b | c.z.h.p.HikariPool 
+2018-04-20 11:36:57,560 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@1bf3f9b2 | c.z.h.p.HikariPool 
+2018-04-20 11:36:57,684 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@79a0cfdc | c.z.h.p.HikariPool 
+2018-04-20 11:36:57,806 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@4a3cc8dd | c.z.h.p.HikariPool 
+2018-04-20 11:36:57,929 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@19bf1646 | c.z.h.p.HikariPool 
+2018-04-20 11:36:58,073 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@1d0552aa | c.z.h.p.HikariPool 
+2018-04-20 11:36:58,073 DEBUG | HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:37:11,319  INFO | HikariPool-1 - Shutdown initiated... | c.z.h.HikariDataSource 
+2018-04-20 11:37:11,320 DEBUG | HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:37:11,321 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@5b84f14: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:37:11,343 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@65e9cf64: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:37:11,354 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@6f11a414: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:37:11,362 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@2a133792: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:37:11,380 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@1aa5f5b: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:37:11,392 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@1bf3f9b2: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:37:11,404 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@79a0cfdc: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:37:11,420 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@4a3cc8dd: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:37:11,434 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@19bf1646: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:37:11,446 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@1d0552aa: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:37:11,458 DEBUG | HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:37:11,459  INFO | HikariPool-1 - Shutdown completed. | c.z.h.HikariDataSource 
+2018-04-20 11:41:38,357  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 11800 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 11:41:38,366 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 11:41:38,367  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 11:41:41,684 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.HikariConfig 
+2018-04-20 11:41:41,990 DEBUG | HikariPool-1 - configuration: | c.z.h.HikariConfig 
+2018-04-20 11:41:41,992 DEBUG | allowPoolSuspension.............false | c.z.h.HikariConfig 
+2018-04-20 11:41:41,992 DEBUG | autoCommit......................true | c.z.h.HikariConfig 
+2018-04-20 11:41:41,993 DEBUG | catalog.........................none | c.z.h.HikariConfig 
+2018-04-20 11:41:41,993 DEBUG | connectionInitSql...............none | c.z.h.HikariConfig 
+2018-04-20 11:41:41,993 DEBUG | connectionTestQuery.............none | c.z.h.HikariConfig 
+2018-04-20 11:41:41,993 DEBUG | connectionTimeout...............30000 | c.z.h.HikariConfig 
+2018-04-20 11:41:41,993 DEBUG | dataSource......................none | c.z.h.HikariConfig 
+2018-04-20 11:41:41,994 DEBUG | dataSourceClassName.............none | c.z.h.HikariConfig 
+2018-04-20 11:41:41,994 DEBUG | dataSourceJNDI..................none | c.z.h.HikariConfig 
+2018-04-20 11:41:41,994 DEBUG | dataSourceProperties............{password=<masked>} | c.z.h.HikariConfig 
+2018-04-20 11:41:41,995 DEBUG | driverClassName................."oracle.jdbc.driver.OracleDriver" | c.z.h.HikariConfig 
+2018-04-20 11:41:41,995 DEBUG | healthCheckProperties...........{} | c.z.h.HikariConfig 
+2018-04-20 11:41:41,995 DEBUG | healthCheckRegistry.............none | c.z.h.HikariConfig 
+2018-04-20 11:41:41,995 DEBUG | idleTimeout.....................600000 | c.z.h.HikariConfig 
+2018-04-20 11:41:41,995 DEBUG | initializationFailFast..........true | c.z.h.HikariConfig 
+2018-04-20 11:41:41,995 DEBUG | initializationFailTimeout.......1 | c.z.h.HikariConfig 
+2018-04-20 11:41:41,996 DEBUG | isolateInternalQueries..........false | c.z.h.HikariConfig 
+2018-04-20 11:41:41,996 DEBUG | jdbc4ConnectionTest.............false | c.z.h.HikariConfig 
+2018-04-20 11:41:41,996 DEBUG | jdbcUrl.........................jdbc:oracle:thin:@222.109.211.245:1521:TRAF | c.z.h.HikariConfig 
+2018-04-20 11:41:41,996 DEBUG | leakDetectionThreshold..........0 | c.z.h.HikariConfig 
+2018-04-20 11:41:41,996 DEBUG | maxLifetime.....................1800000 | c.z.h.HikariConfig 
+2018-04-20 11:41:41,996 DEBUG | maximumPoolSize.................10 | c.z.h.HikariConfig 
+2018-04-20 11:41:41,997 DEBUG | metricRegistry..................none | c.z.h.HikariConfig 
+2018-04-20 11:41:41,997 DEBUG | metricsTrackerFactory...........none | c.z.h.HikariConfig 
+2018-04-20 11:41:41,997 DEBUG | minimumIdle.....................10 | c.z.h.HikariConfig 
+2018-04-20 11:41:41,997 DEBUG | password........................<masked> | c.z.h.HikariConfig 
+2018-04-20 11:41:41,997 DEBUG | poolName........................"HikariPool-1" | c.z.h.HikariConfig 
+2018-04-20 11:41:41,997 DEBUG | readOnly........................false | c.z.h.HikariConfig 
+2018-04-20 11:41:41,998 DEBUG | registerMbeans..................false | c.z.h.HikariConfig 
+2018-04-20 11:41:41,998 DEBUG | scheduledExecutor...............none | c.z.h.HikariConfig 
+2018-04-20 11:41:41,998 DEBUG | scheduledExecutorService........internal | c.z.h.HikariConfig 
+2018-04-20 11:41:41,998 DEBUG | schema..........................none | c.z.h.HikariConfig 
+2018-04-20 11:41:41,998 DEBUG | threadFactory...................internal | c.z.h.HikariConfig 
+2018-04-20 11:41:41,998 DEBUG | transactionIsolation............default | c.z.h.HikariConfig 
+2018-04-20 11:41:41,998 DEBUG | username........................"nyjits" | c.z.h.HikariConfig 
+2018-04-20 11:41:41,999 DEBUG | validationTimeout...............5000 | c.z.h.HikariConfig 
+2018-04-20 11:41:41,999  INFO | HikariPool-1 - Starting... | c.z.h.HikariDataSource 
+2018-04-20 11:41:42,002  WARN | Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation. | c.z.h.u.DriverDataSource 
+2018-04-20 11:41:42,003 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.u.DriverDataSource 
+2018-04-20 11:41:42,317  INFO | HikariPool-1 - Driver does not support get/set network timeout for connections. (oracle.jdbc.driver.T4CConnection.getNetworkTimeout()I) | c.z.h.p.PoolBase 
+2018-04-20 11:41:42,321 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@b174a73 | c.z.h.p.HikariPool 
+2018-04-20 11:41:42,322  INFO | HikariPool-1 - Start completed. | c.z.h.HikariDataSource 
+2018-04-20 11:41:42,423 DEBUG | HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:41:42,560 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@5be7103 | c.z.h.p.HikariPool 
+2018-04-20 11:41:42,728 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@f461a73 | c.z.h.p.HikariPool 
+2018-04-20 11:41:42,763  INFO | Started SpringBootTestApplication in 4.691 seconds (JVM running for 5.776) | c.SpringBootTestApplication 
+2018-04-20 11:41:42,789 DEBUG | ==>  Preparing: SELECT CCTV_MNGM_NMBR, CCTV_CTLR_ID, CCTV_CTLR_IP, CCTV_CTLR_PORT, ISTL_LCTN_NM, ISTL_LCTN_ADDR, CCTV_ID FROM TB_CCTV_CTLR WHERE DEL_YN = 'N' AND CCTV_TYPE = 1 AND CCTV_CTLR_IP IS NOT NULL ORDER BY CCTV_MNGM_NMBR  | c.d.m.B.selectCctvList 
+2018-04-20 11:41:42,860 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@4a4495ff | c.z.h.p.HikariPool 
+2018-04-20 11:41:42,921 DEBUG | ==> Parameters:  | c.d.m.B.selectCctvList 
+2018-04-20 11:41:42,991 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@3c04c3dd | c.z.h.p.HikariPool 
+2018-04-20 11:41:43,003 DEBUG | <==      Total: 89 | c.d.m.B.selectCctvList 
+2018-04-20 11:41:43,166 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@7b44fc26 | c.z.h.p.HikariPool 
+2018-04-20 11:41:43,369 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@44eef4bf | c.z.h.p.HikariPool 
+2018-04-20 11:41:43,799 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@2a6b6ab0 | c.z.h.p.HikariPool 
+2018-04-20 11:41:43,924 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@306b4e0b | c.z.h.p.HikariPool 
+2018-04-20 11:41:44,098 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@6c1231ec | c.z.h.p.HikariPool 
+2018-04-20 11:41:44,098 DEBUG | HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:42:01,439  INFO | HikariPool-1 - Shutdown initiated... | c.z.h.HikariDataSource 
+2018-04-20 11:42:01,440 DEBUG | HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:42:01,441 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@b174a73: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:42:01,454 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@5be7103: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:42:01,471 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@f461a73: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:42:01,478 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@4a4495ff: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:42:01,491 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@3c04c3dd: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:42:01,503 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@7b44fc26: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:42:01,514 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@44eef4bf: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:42:01,527 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@2a6b6ab0: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:42:01,538 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@306b4e0b: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:42:01,550 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@6c1231ec: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 11:42:01,569 DEBUG | HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 11:42:01,571  INFO | HikariPool-1 - Shutdown completed. | c.z.h.HikariDataSource 
+2018-04-20 13:04:25,598  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 21324 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 13:04:25,606 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 13:04:25,607  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 13:04:28,861 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.HikariConfig 
+2018-04-20 13:04:29,237 DEBUG | HikariPool-1 - configuration: | c.z.h.HikariConfig 
+2018-04-20 13:04:29,241 DEBUG | allowPoolSuspension.............false | c.z.h.HikariConfig 
+2018-04-20 13:04:29,242 DEBUG | autoCommit......................true | c.z.h.HikariConfig 
+2018-04-20 13:04:29,242 DEBUG | catalog.........................none | c.z.h.HikariConfig 
+2018-04-20 13:04:29,242 DEBUG | connectionInitSql...............none | c.z.h.HikariConfig 
+2018-04-20 13:04:29,243 DEBUG | connectionTestQuery.............none | c.z.h.HikariConfig 
+2018-04-20 13:04:29,243 DEBUG | connectionTimeout...............30000 | c.z.h.HikariConfig 
+2018-04-20 13:04:29,243 DEBUG | dataSource......................none | c.z.h.HikariConfig 
+2018-04-20 13:04:29,244 DEBUG | dataSourceClassName.............none | c.z.h.HikariConfig 
+2018-04-20 13:04:29,244 DEBUG | dataSourceJNDI..................none | c.z.h.HikariConfig 
+2018-04-20 13:04:29,245 DEBUG | dataSourceProperties............{password=<masked>} | c.z.h.HikariConfig 
+2018-04-20 13:04:29,246 DEBUG | driverClassName................."oracle.jdbc.driver.OracleDriver" | c.z.h.HikariConfig 
+2018-04-20 13:04:29,246 DEBUG | healthCheckProperties...........{} | c.z.h.HikariConfig 
+2018-04-20 13:04:29,246 DEBUG | healthCheckRegistry.............none | c.z.h.HikariConfig 
+2018-04-20 13:04:29,247 DEBUG | idleTimeout.....................600000 | c.z.h.HikariConfig 
+2018-04-20 13:04:29,247 DEBUG | initializationFailFast..........true | c.z.h.HikariConfig 
+2018-04-20 13:04:29,247 DEBUG | initializationFailTimeout.......1 | c.z.h.HikariConfig 
+2018-04-20 13:04:29,248 DEBUG | isolateInternalQueries..........false | c.z.h.HikariConfig 
+2018-04-20 13:04:29,248 DEBUG | jdbc4ConnectionTest.............false | c.z.h.HikariConfig 
+2018-04-20 13:04:29,248 DEBUG | jdbcUrl.........................jdbc:oracle:thin:@222.109.211.245:1521:TRAF | c.z.h.HikariConfig 
+2018-04-20 13:04:29,248 DEBUG | leakDetectionThreshold..........0 | c.z.h.HikariConfig 
+2018-04-20 13:04:29,249 DEBUG | maxLifetime.....................1800000 | c.z.h.HikariConfig 
+2018-04-20 13:04:29,249 DEBUG | maximumPoolSize.................10 | c.z.h.HikariConfig 
+2018-04-20 13:04:29,249 DEBUG | metricRegistry..................none | c.z.h.HikariConfig 
+2018-04-20 13:04:29,249 DEBUG | metricsTrackerFactory...........none | c.z.h.HikariConfig 
+2018-04-20 13:04:29,250 DEBUG | minimumIdle.....................10 | c.z.h.HikariConfig 
+2018-04-20 13:04:29,250 DEBUG | password........................<masked> | c.z.h.HikariConfig 
+2018-04-20 13:04:29,250 DEBUG | poolName........................"HikariPool-1" | c.z.h.HikariConfig 
+2018-04-20 13:04:29,251 DEBUG | readOnly........................false | c.z.h.HikariConfig 
+2018-04-20 13:04:29,251 DEBUG | registerMbeans..................false | c.z.h.HikariConfig 
+2018-04-20 13:04:29,251 DEBUG | scheduledExecutor...............none | c.z.h.HikariConfig 
+2018-04-20 13:04:29,251 DEBUG | scheduledExecutorService........internal | c.z.h.HikariConfig 
+2018-04-20 13:04:29,252 DEBUG | schema..........................none | c.z.h.HikariConfig 
+2018-04-20 13:04:29,252 DEBUG | threadFactory...................internal | c.z.h.HikariConfig 
+2018-04-20 13:04:29,252 DEBUG | transactionIsolation............default | c.z.h.HikariConfig 
+2018-04-20 13:04:29,252 DEBUG | username........................"nyjits" | c.z.h.HikariConfig 
+2018-04-20 13:04:29,253 DEBUG | validationTimeout...............5000 | c.z.h.HikariConfig 
+2018-04-20 13:04:29,253  INFO | HikariPool-1 - Starting... | c.z.h.HikariDataSource 
+2018-04-20 13:04:29,259  WARN | Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation. | c.z.h.u.DriverDataSource 
+2018-04-20 13:04:29,259 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.u.DriverDataSource 
+2018-04-20 13:04:29,569  INFO | HikariPool-1 - Driver does not support get/set network timeout for connections. (oracle.jdbc.driver.T4CConnection.getNetworkTimeout()I) | c.z.h.p.PoolBase 
+2018-04-20 13:04:29,573 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@548d5ed3 | c.z.h.p.HikariPool 
+2018-04-20 13:04:29,575  INFO | HikariPool-1 - Start completed. | c.z.h.HikariDataSource 
+2018-04-20 13:04:29,676 DEBUG | HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 13:04:29,804 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@2d324d77 | c.z.h.p.HikariPool 
+2018-04-20 13:04:29,951 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@27ca2607 | c.z.h.p.HikariPool 
+2018-04-20 13:04:30,003  INFO | Started SpringBootTestApplication in 4.677 seconds (JVM running for 6.062) | c.SpringBootTestApplication 
+2018-04-20 13:04:30,030 DEBUG | ==>  Preparing: SELECT CCTV_MNGM_NMBR, CCTV_CTLR_ID, CCTV_CTLR_IP, CCTV_CTLR_PORT, ISTL_LCTN_NM, ISTL_LCTN_ADDR, CCTV_ID FROM TB_CCTV_CTLR WHERE DEL_YN = 'N' AND CCTV_TYPE = 1 AND CCTV_CTLR_IP IS NOT NULL ORDER BY CCTV_MNGM_NMBR  | c.d.m.B.selectCctvList 
+2018-04-20 13:04:30,082 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@62c8ac9a | c.z.h.p.HikariPool 
+2018-04-20 13:04:30,137 DEBUG | ==> Parameters:  | c.d.m.B.selectCctvList 
+2018-04-20 13:04:30,205 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@5dae0c41 | c.z.h.p.HikariPool 
+2018-04-20 13:04:30,225 DEBUG | <==      Total: 89 | c.d.m.B.selectCctvList 
+2018-04-20 13:04:30,331 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@53e069fb | c.z.h.p.HikariPool 
+2018-04-20 13:04:30,456 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@256c979e | c.z.h.p.HikariPool 
+2018-04-20 13:04:30,582 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@2e753d5 | c.z.h.p.HikariPool 
+2018-04-20 13:04:30,704 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@2f068bcc | c.z.h.p.HikariPool 
+2018-04-20 13:04:30,827 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@7f798066 | c.z.h.p.HikariPool 
+2018-04-20 13:04:30,828 DEBUG | HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 13:04:55,426  INFO | HikariPool-1 - Shutdown initiated... | c.z.h.HikariDataSource 
+2018-04-20 13:04:55,427 DEBUG | HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 13:04:55,428 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@548d5ed3: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:04:55,442 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@2d324d77: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:04:55,451 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@27ca2607: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:04:55,463 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@62c8ac9a: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:04:55,475 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@5dae0c41: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:04:55,487 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@53e069fb: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:04:55,496 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@256c979e: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:04:55,505 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@2e753d5: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:04:55,514 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@2f068bcc: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:04:55,524 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@7f798066: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:04:55,536 DEBUG | HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 13:04:55,537  INFO | HikariPool-1 - Shutdown completed. | c.z.h.HikariDataSource 
+2018-04-20 13:06:13,003  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 14756 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 13:06:13,011 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 13:06:13,011  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 13:06:16,264 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.HikariConfig 
+2018-04-20 13:06:16,605 DEBUG | HikariPool-1 - configuration: | c.z.h.HikariConfig 
+2018-04-20 13:06:16,608 DEBUG | allowPoolSuspension.............false | c.z.h.HikariConfig 
+2018-04-20 13:06:16,609 DEBUG | autoCommit......................true | c.z.h.HikariConfig 
+2018-04-20 13:06:16,609 DEBUG | catalog.........................none | c.z.h.HikariConfig 
+2018-04-20 13:06:16,610 DEBUG | connectionInitSql...............none | c.z.h.HikariConfig 
+2018-04-20 13:06:16,610 DEBUG | connectionTestQuery.............none | c.z.h.HikariConfig 
+2018-04-20 13:06:16,610 DEBUG | connectionTimeout...............30000 | c.z.h.HikariConfig 
+2018-04-20 13:06:16,610 DEBUG | dataSource......................none | c.z.h.HikariConfig 
+2018-04-20 13:06:16,611 DEBUG | dataSourceClassName.............none | c.z.h.HikariConfig 
+2018-04-20 13:06:16,611 DEBUG | dataSourceJNDI..................none | c.z.h.HikariConfig 
+2018-04-20 13:06:16,612 DEBUG | dataSourceProperties............{password=<masked>} | c.z.h.HikariConfig 
+2018-04-20 13:06:16,612 DEBUG | driverClassName................."oracle.jdbc.driver.OracleDriver" | c.z.h.HikariConfig 
+2018-04-20 13:06:16,613 DEBUG | healthCheckProperties...........{} | c.z.h.HikariConfig 
+2018-04-20 13:06:16,613 DEBUG | healthCheckRegistry.............none | c.z.h.HikariConfig 
+2018-04-20 13:06:16,613 DEBUG | idleTimeout.....................600000 | c.z.h.HikariConfig 
+2018-04-20 13:06:16,613 DEBUG | initializationFailFast..........true | c.z.h.HikariConfig 
+2018-04-20 13:06:16,613 DEBUG | initializationFailTimeout.......1 | c.z.h.HikariConfig 
+2018-04-20 13:06:16,614 DEBUG | isolateInternalQueries..........false | c.z.h.HikariConfig 
+2018-04-20 13:06:16,614 DEBUG | jdbc4ConnectionTest.............false | c.z.h.HikariConfig 
+2018-04-20 13:06:16,614 DEBUG | jdbcUrl.........................jdbc:oracle:thin:@222.109.211.245:1521:TRAF | c.z.h.HikariConfig 
+2018-04-20 13:06:16,614 DEBUG | leakDetectionThreshold..........0 | c.z.h.HikariConfig 
+2018-04-20 13:06:16,614 DEBUG | maxLifetime.....................1800000 | c.z.h.HikariConfig 
+2018-04-20 13:06:16,615 DEBUG | maximumPoolSize.................10 | c.z.h.HikariConfig 
+2018-04-20 13:06:16,615 DEBUG | metricRegistry..................none | c.z.h.HikariConfig 
+2018-04-20 13:06:16,615 DEBUG | metricsTrackerFactory...........none | c.z.h.HikariConfig 
+2018-04-20 13:06:16,615 DEBUG | minimumIdle.....................10 | c.z.h.HikariConfig 
+2018-04-20 13:06:16,615 DEBUG | password........................<masked> | c.z.h.HikariConfig 
+2018-04-20 13:06:16,615 DEBUG | poolName........................"HikariPool-1" | c.z.h.HikariConfig 
+2018-04-20 13:06:16,616 DEBUG | readOnly........................false | c.z.h.HikariConfig 
+2018-04-20 13:06:16,616 DEBUG | registerMbeans..................false | c.z.h.HikariConfig 
+2018-04-20 13:06:16,616 DEBUG | scheduledExecutor...............none | c.z.h.HikariConfig 
+2018-04-20 13:06:16,616 DEBUG | scheduledExecutorService........internal | c.z.h.HikariConfig 
+2018-04-20 13:06:16,616 DEBUG | schema..........................none | c.z.h.HikariConfig 
+2018-04-20 13:06:16,616 DEBUG | threadFactory...................internal | c.z.h.HikariConfig 
+2018-04-20 13:06:16,617 DEBUG | transactionIsolation............default | c.z.h.HikariConfig 
+2018-04-20 13:06:16,617 DEBUG | username........................"nyjits" | c.z.h.HikariConfig 
+2018-04-20 13:06:16,617 DEBUG | validationTimeout...............5000 | c.z.h.HikariConfig 
+2018-04-20 13:06:16,617  INFO | HikariPool-1 - Starting... | c.z.h.HikariDataSource 
+2018-04-20 13:06:16,621  WARN | Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation. | c.z.h.u.DriverDataSource 
+2018-04-20 13:06:16,622 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.u.DriverDataSource 
+2018-04-20 13:06:16,926  INFO | HikariPool-1 - Driver does not support get/set network timeout for connections. (oracle.jdbc.driver.T4CConnection.getNetworkTimeout()I) | c.z.h.p.PoolBase 
+2018-04-20 13:06:16,930 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@7ea899a9 | c.z.h.p.HikariPool 
+2018-04-20 13:06:16,932  INFO | HikariPool-1 - Start completed. | c.z.h.HikariDataSource 
+2018-04-20 13:06:17,033 DEBUG | HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 13:06:17,165 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@5a6647cc | c.z.h.p.HikariPool 
+2018-04-20 13:06:17,305 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@509e2cbc | c.z.h.p.HikariPool 
+2018-04-20 13:06:17,363  INFO | Started SpringBootTestApplication in 4.634 seconds (JVM running for 5.846) | c.SpringBootTestApplication 
+2018-04-20 13:06:17,390 DEBUG | ==>  Preparing: SELECT CCTV_MNGM_NMBR, CCTV_CTLR_ID, CCTV_CTLR_IP, CCTV_CTLR_PORT, ISTL_LCTN_NM, ISTL_LCTN_ADDR, CCTV_ID FROM TB_CCTV_CTLR WHERE DEL_YN = 'N' AND CCTV_TYPE = 1 AND CCTV_CTLR_IP IS NOT NULL ORDER BY CCTV_MNGM_NMBR  | c.d.m.B.selectCctvList 
+2018-04-20 13:06:17,434 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@159ca8cb | c.z.h.p.HikariPool 
+2018-04-20 13:06:17,491 DEBUG | ==> Parameters:  | c.d.m.B.selectCctvList 
+2018-04-20 13:06:17,560 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@7d2cd593 | c.z.h.p.HikariPool 
+2018-04-20 13:06:17,581 DEBUG | <==      Total: 89 | c.d.m.B.selectCctvList 
+2018-04-20 13:06:17,685 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@24c35ee4 | c.z.h.p.HikariPool 
+2018-04-20 13:06:17,811 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@5997d0c | c.z.h.p.HikariPool 
+2018-04-20 13:06:17,935 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@75b35784 | c.z.h.p.HikariPool 
+2018-04-20 13:06:18,057 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@6ea884ec | c.z.h.p.HikariPool 
+2018-04-20 13:06:18,186 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@5022c3a3 | c.z.h.p.HikariPool 
+2018-04-20 13:06:18,187 DEBUG | HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 13:06:32,766  INFO | HikariPool-1 - Shutdown initiated... | c.z.h.HikariDataSource 
+2018-04-20 13:06:32,767 DEBUG | HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 13:06:32,769 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@7ea899a9: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:06:32,783 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@5a6647cc: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:06:32,790 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@509e2cbc: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:06:32,801 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@159ca8cb: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:06:32,813 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@7d2cd593: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:06:32,820 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@24c35ee4: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:06:32,831 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@5997d0c: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:06:32,839 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@75b35784: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:06:32,849 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@6ea884ec: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:06:32,856 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@5022c3a3: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:06:32,867 DEBUG | HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 13:06:32,867  INFO | HikariPool-1 - Shutdown completed. | c.z.h.HikariDataSource 
+2018-04-20 13:20:22,107  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 20984 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 13:20:22,115 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 13:20:22,116  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 13:20:25,246 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.HikariConfig 
+2018-04-20 13:20:25,578 DEBUG | HikariPool-1 - configuration: | c.z.h.HikariConfig 
+2018-04-20 13:20:25,581 DEBUG | allowPoolSuspension.............false | c.z.h.HikariConfig 
+2018-04-20 13:20:25,582 DEBUG | autoCommit......................true | c.z.h.HikariConfig 
+2018-04-20 13:20:25,582 DEBUG | catalog.........................none | c.z.h.HikariConfig 
+2018-04-20 13:20:25,583 DEBUG | connectionInitSql...............none | c.z.h.HikariConfig 
+2018-04-20 13:20:25,583 DEBUG | connectionTestQuery.............none | c.z.h.HikariConfig 
+2018-04-20 13:20:25,583 DEBUG | connectionTimeout...............30000 | c.z.h.HikariConfig 
+2018-04-20 13:20:25,583 DEBUG | dataSource......................none | c.z.h.HikariConfig 
+2018-04-20 13:20:25,584 DEBUG | dataSourceClassName.............none | c.z.h.HikariConfig 
+2018-04-20 13:20:25,584 DEBUG | dataSourceJNDI..................none | c.z.h.HikariConfig 
+2018-04-20 13:20:25,585 DEBUG | dataSourceProperties............{password=<masked>} | c.z.h.HikariConfig 
+2018-04-20 13:20:25,586 DEBUG | driverClassName................."oracle.jdbc.driver.OracleDriver" | c.z.h.HikariConfig 
+2018-04-20 13:20:25,586 DEBUG | healthCheckProperties...........{} | c.z.h.HikariConfig 
+2018-04-20 13:20:25,586 DEBUG | healthCheckRegistry.............none | c.z.h.HikariConfig 
+2018-04-20 13:20:25,587 DEBUG | idleTimeout.....................600000 | c.z.h.HikariConfig 
+2018-04-20 13:20:25,587 DEBUG | initializationFailFast..........true | c.z.h.HikariConfig 
+2018-04-20 13:20:25,587 DEBUG | initializationFailTimeout.......1 | c.z.h.HikariConfig 
+2018-04-20 13:20:25,588 DEBUG | isolateInternalQueries..........false | c.z.h.HikariConfig 
+2018-04-20 13:20:25,588 DEBUG | jdbc4ConnectionTest.............false | c.z.h.HikariConfig 
+2018-04-20 13:20:25,588 DEBUG | jdbcUrl.........................jdbc:oracle:thin:@222.109.211.245:1521:TRAF | c.z.h.HikariConfig 
+2018-04-20 13:20:25,588 DEBUG | leakDetectionThreshold..........0 | c.z.h.HikariConfig 
+2018-04-20 13:20:25,589 DEBUG | maxLifetime.....................1800000 | c.z.h.HikariConfig 
+2018-04-20 13:20:25,589 DEBUG | maximumPoolSize.................10 | c.z.h.HikariConfig 
+2018-04-20 13:20:25,589 DEBUG | metricRegistry..................none | c.z.h.HikariConfig 
+2018-04-20 13:20:25,589 DEBUG | metricsTrackerFactory...........none | c.z.h.HikariConfig 
+2018-04-20 13:20:25,590 DEBUG | minimumIdle.....................10 | c.z.h.HikariConfig 
+2018-04-20 13:20:25,590 DEBUG | password........................<masked> | c.z.h.HikariConfig 
+2018-04-20 13:20:25,590 DEBUG | poolName........................"HikariPool-1" | c.z.h.HikariConfig 
+2018-04-20 13:20:25,591 DEBUG | readOnly........................false | c.z.h.HikariConfig 
+2018-04-20 13:20:25,591 DEBUG | registerMbeans..................false | c.z.h.HikariConfig 
+2018-04-20 13:20:25,592 DEBUG | scheduledExecutor...............none | c.z.h.HikariConfig 
+2018-04-20 13:20:25,592 DEBUG | scheduledExecutorService........internal | c.z.h.HikariConfig 
+2018-04-20 13:20:25,592 DEBUG | schema..........................none | c.z.h.HikariConfig 
+2018-04-20 13:20:25,592 DEBUG | threadFactory...................internal | c.z.h.HikariConfig 
+2018-04-20 13:20:25,593 DEBUG | transactionIsolation............default | c.z.h.HikariConfig 
+2018-04-20 13:20:25,593 DEBUG | username........................"nyjits" | c.z.h.HikariConfig 
+2018-04-20 13:20:25,593 DEBUG | validationTimeout...............5000 | c.z.h.HikariConfig 
+2018-04-20 13:20:25,593  INFO | HikariPool-1 - Starting... | c.z.h.HikariDataSource 
+2018-04-20 13:20:25,598  WARN | Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation. | c.z.h.u.DriverDataSource 
+2018-04-20 13:20:25,598 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.u.DriverDataSource 
+2018-04-20 13:20:25,901  INFO | HikariPool-1 - Driver does not support get/set network timeout for connections. (oracle.jdbc.driver.T4CConnection.getNetworkTimeout()I) | c.z.h.p.PoolBase 
+2018-04-20 13:20:25,905 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@6fa69af7 | c.z.h.p.HikariPool 
+2018-04-20 13:20:25,906  INFO | HikariPool-1 - Start completed. | c.z.h.HikariDataSource 
+2018-04-20 13:20:26,007 DEBUG | HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 13:20:26,138 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@3f83836 | c.z.h.p.HikariPool 
+2018-04-20 13:20:26,300 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@9005346 | c.z.h.p.HikariPool 
+2018-04-20 13:20:26,333  INFO | Started SpringBootTestApplication in 4.499 seconds (JVM running for 5.51) | c.SpringBootTestApplication 
+2018-04-20 13:20:26,359 DEBUG | ==>  Preparing: SELECT CCTV_MNGM_NMBR, CCTV_CTLR_ID, CCTV_CTLR_IP, CCTV_CTLR_PORT, ISTL_LCTN_NM, ISTL_LCTN_ADDR, CCTV_ID FROM TB_CCTV_CTLR WHERE DEL_YN = 'N' AND CCTV_TYPE = 1 AND CCTV_CTLR_IP IS NOT NULL ORDER BY CCTV_MNGM_NMBR  | c.d.m.B.selectCctvList 
+2018-04-20 13:20:26,426 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@4c02dc02 | c.z.h.p.HikariPool 
+2018-04-20 13:20:26,477 DEBUG | ==> Parameters:  | c.d.m.B.selectCctvList 
+2018-04-20 13:20:26,557 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@e79643c | c.z.h.p.HikariPool 
+2018-04-20 13:20:26,561 DEBUG | <==      Total: 89 | c.d.m.B.selectCctvList 
+2018-04-20 13:20:26,683 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@7d04f5d4 | c.z.h.p.HikariPool 
+2018-04-20 13:20:26,809 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@76951351 | c.z.h.p.HikariPool 
+2018-04-20 13:20:26,941 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@2c2d234d | c.z.h.p.HikariPool 
+2018-04-20 13:20:27,066 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@69b0ea70 | c.z.h.p.HikariPool 
+2018-04-20 13:20:27,198 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@33c018c7 | c.z.h.p.HikariPool 
+2018-04-20 13:20:27,198 DEBUG | HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 13:20:42,651  INFO | HikariPool-1 - Shutdown initiated... | c.z.h.HikariDataSource 
+2018-04-20 13:20:42,651 DEBUG | HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 13:20:42,653 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@6fa69af7: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:20:42,667 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@3f83836: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:20:42,673 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@9005346: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:20:42,679 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@4c02dc02: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:20:42,697 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@e79643c: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:20:42,703 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@7d04f5d4: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:20:42,709 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@76951351: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:20:42,715 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@2c2d234d: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:20:42,727 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@69b0ea70: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:20:42,739 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@33c018c7: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:20:42,752 DEBUG | HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 13:20:42,753  INFO | HikariPool-1 - Shutdown completed. | c.z.h.HikariDataSource 
+2018-04-20 13:25:25,510  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 20848 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 13:25:25,518 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 13:25:25,519  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 13:25:28,821 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.HikariConfig 
+2018-04-20 13:25:29,163 DEBUG | HikariPool-1 - configuration: | c.z.h.HikariConfig 
+2018-04-20 13:25:29,165 DEBUG | allowPoolSuspension.............false | c.z.h.HikariConfig 
+2018-04-20 13:25:29,165 DEBUG | autoCommit......................true | c.z.h.HikariConfig 
+2018-04-20 13:25:29,166 DEBUG | catalog.........................none | c.z.h.HikariConfig 
+2018-04-20 13:25:29,166 DEBUG | connectionInitSql...............none | c.z.h.HikariConfig 
+2018-04-20 13:25:29,166 DEBUG | connectionTestQuery.............none | c.z.h.HikariConfig 
+2018-04-20 13:25:29,166 DEBUG | connectionTimeout...............30000 | c.z.h.HikariConfig 
+2018-04-20 13:25:29,166 DEBUG | dataSource......................none | c.z.h.HikariConfig 
+2018-04-20 13:25:29,167 DEBUG | dataSourceClassName.............none | c.z.h.HikariConfig 
+2018-04-20 13:25:29,167 DEBUG | dataSourceJNDI..................none | c.z.h.HikariConfig 
+2018-04-20 13:25:29,168 DEBUG | dataSourceProperties............{password=<masked>} | c.z.h.HikariConfig 
+2018-04-20 13:25:29,168 DEBUG | driverClassName................."oracle.jdbc.driver.OracleDriver" | c.z.h.HikariConfig 
+2018-04-20 13:25:29,168 DEBUG | healthCheckProperties...........{} | c.z.h.HikariConfig 
+2018-04-20 13:25:29,168 DEBUG | healthCheckRegistry.............none | c.z.h.HikariConfig 
+2018-04-20 13:25:29,169 DEBUG | idleTimeout.....................600000 | c.z.h.HikariConfig 
+2018-04-20 13:25:29,169 DEBUG | initializationFailFast..........true | c.z.h.HikariConfig 
+2018-04-20 13:25:29,169 DEBUG | initializationFailTimeout.......1 | c.z.h.HikariConfig 
+2018-04-20 13:25:29,169 DEBUG | isolateInternalQueries..........false | c.z.h.HikariConfig 
+2018-04-20 13:25:29,169 DEBUG | jdbc4ConnectionTest.............false | c.z.h.HikariConfig 
+2018-04-20 13:25:29,170 DEBUG | jdbcUrl.........................jdbc:oracle:thin:@222.109.211.245:1521:TRAF | c.z.h.HikariConfig 
+2018-04-20 13:25:29,170 DEBUG | leakDetectionThreshold..........0 | c.z.h.HikariConfig 
+2018-04-20 13:25:29,170 DEBUG | maxLifetime.....................1800000 | c.z.h.HikariConfig 
+2018-04-20 13:25:29,170 DEBUG | maximumPoolSize.................10 | c.z.h.HikariConfig 
+2018-04-20 13:25:29,170 DEBUG | metricRegistry..................none | c.z.h.HikariConfig 
+2018-04-20 13:25:29,170 DEBUG | metricsTrackerFactory...........none | c.z.h.HikariConfig 
+2018-04-20 13:25:29,170 DEBUG | minimumIdle.....................10 | c.z.h.HikariConfig 
+2018-04-20 13:25:29,171 DEBUG | password........................<masked> | c.z.h.HikariConfig 
+2018-04-20 13:25:29,171 DEBUG | poolName........................"HikariPool-1" | c.z.h.HikariConfig 
+2018-04-20 13:25:29,171 DEBUG | readOnly........................false | c.z.h.HikariConfig 
+2018-04-20 13:25:29,171 DEBUG | registerMbeans..................false | c.z.h.HikariConfig 
+2018-04-20 13:25:29,171 DEBUG | scheduledExecutor...............none | c.z.h.HikariConfig 
+2018-04-20 13:25:29,172 DEBUG | scheduledExecutorService........internal | c.z.h.HikariConfig 
+2018-04-20 13:25:29,172 DEBUG | schema..........................none | c.z.h.HikariConfig 
+2018-04-20 13:25:29,172 DEBUG | threadFactory...................internal | c.z.h.HikariConfig 
+2018-04-20 13:25:29,172 DEBUG | transactionIsolation............default | c.z.h.HikariConfig 
+2018-04-20 13:25:29,172 DEBUG | username........................"nyjits" | c.z.h.HikariConfig 
+2018-04-20 13:25:29,172 DEBUG | validationTimeout...............5000 | c.z.h.HikariConfig 
+2018-04-20 13:25:29,173  INFO | HikariPool-1 - Starting... | c.z.h.HikariDataSource 
+2018-04-20 13:25:29,177  WARN | Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation. | c.z.h.u.DriverDataSource 
+2018-04-20 13:25:29,177 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.u.DriverDataSource 
+2018-04-20 13:25:29,491  INFO | HikariPool-1 - Driver does not support get/set network timeout for connections. (oracle.jdbc.driver.T4CConnection.getNetworkTimeout()I) | c.z.h.p.PoolBase 
+2018-04-20 13:25:29,495 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@7ea899a9 | c.z.h.p.HikariPool 
+2018-04-20 13:25:29,497  INFO | HikariPool-1 - Start completed. | c.z.h.HikariDataSource 
+2018-04-20 13:25:29,598 DEBUG | HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 13:25:29,734 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@6c7a80ef | c.z.h.p.HikariPool 
+2018-04-20 13:25:29,871 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@6682eb9f | c.z.h.p.HikariPool 
+2018-04-20 13:25:29,887  INFO | Started SpringBootTestApplication in 4.659 seconds (JVM running for 5.739) | c.SpringBootTestApplication 
+2018-04-20 13:25:29,918 DEBUG | ==>  Preparing: SELECT CCTV_MNGM_NMBR, CCTV_CTLR_ID, CCTV_CTLR_IP, CCTV_CTLR_PORT, ISTL_LCTN_NM, ISTL_LCTN_ADDR, CCTV_ID FROM TB_CCTV_CTLR WHERE DEL_YN = 'N' AND CCTV_TYPE = 1 AND CCTV_CTLR_IP IS NOT NULL ORDER BY CCTV_MNGM_NMBR  | c.d.m.B.selectCctvList 
+2018-04-20 13:25:30,008 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@2380692b | c.z.h.p.HikariPool 
+2018-04-20 13:25:30,032 DEBUG | ==> Parameters:  | c.d.m.B.selectCctvList 
+2018-04-20 13:25:30,142 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@1bc5e84c | c.z.h.p.HikariPool 
+2018-04-20 13:25:30,145 DEBUG | <==      Total: 89 | c.d.m.B.selectCctvList 
+2018-04-20 13:25:30,278 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@12e9adc7 | c.z.h.p.HikariPool 
+2018-04-20 13:25:30,434 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@63467216 | c.z.h.p.HikariPool 
+2018-04-20 13:25:30,582 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@43af9664 | c.z.h.p.HikariPool 
+2018-04-20 13:25:30,716 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@771c81d5 | c.z.h.p.HikariPool 
+2018-04-20 13:25:30,882 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@28448d64 | c.z.h.p.HikariPool 
+2018-04-20 13:25:30,883 DEBUG | HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 13:25:59,603 DEBUG | HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 13:26:02,346  INFO | HikariPool-1 - Shutdown initiated... | c.z.h.HikariDataSource 
+2018-04-20 13:26:02,347 DEBUG | HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 13:26:02,348 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@7ea899a9: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:26:02,363 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@6c7a80ef: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:26:02,373 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@6682eb9f: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:26:02,381 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@2380692b: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:26:02,391 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@1bc5e84c: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:26:02,405 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@12e9adc7: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:26:02,427 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@63467216: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:26:02,441 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@43af9664: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:26:02,453 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@771c81d5: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:26:02,465 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@28448d64: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 13:26:02,483 DEBUG | HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 13:26:02,484  INFO | HikariPool-1 - Shutdown completed. | c.z.h.HikariDataSource 
+2018-04-20 14:14:45,571  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 23268 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 14:14:45,579 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 14:14:45,580  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 14:14:48,852 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.HikariConfig 
+2018-04-20 14:14:49,139 DEBUG | HikariPool-1 - configuration: | c.z.h.HikariConfig 
+2018-04-20 14:14:49,142 DEBUG | allowPoolSuspension.............false | c.z.h.HikariConfig 
+2018-04-20 14:14:49,142 DEBUG | autoCommit......................true | c.z.h.HikariConfig 
+2018-04-20 14:14:49,143 DEBUG | catalog.........................none | c.z.h.HikariConfig 
+2018-04-20 14:14:49,143 DEBUG | connectionInitSql...............none | c.z.h.HikariConfig 
+2018-04-20 14:14:49,143 DEBUG | connectionTestQuery.............none | c.z.h.HikariConfig 
+2018-04-20 14:14:49,144 DEBUG | connectionTimeout...............30000 | c.z.h.HikariConfig 
+2018-04-20 14:14:49,144 DEBUG | dataSource......................none | c.z.h.HikariConfig 
+2018-04-20 14:14:49,144 DEBUG | dataSourceClassName.............none | c.z.h.HikariConfig 
+2018-04-20 14:14:49,144 DEBUG | dataSourceJNDI..................none | c.z.h.HikariConfig 
+2018-04-20 14:14:49,145 DEBUG | dataSourceProperties............{password=<masked>} | c.z.h.HikariConfig 
+2018-04-20 14:14:49,145 DEBUG | driverClassName................."oracle.jdbc.driver.OracleDriver" | c.z.h.HikariConfig 
+2018-04-20 14:14:49,146 DEBUG | healthCheckProperties...........{} | c.z.h.HikariConfig 
+2018-04-20 14:14:49,146 DEBUG | healthCheckRegistry.............none | c.z.h.HikariConfig 
+2018-04-20 14:14:49,146 DEBUG | idleTimeout.....................600000 | c.z.h.HikariConfig 
+2018-04-20 14:14:49,146 DEBUG | initializationFailFast..........true | c.z.h.HikariConfig 
+2018-04-20 14:14:49,146 DEBUG | initializationFailTimeout.......1 | c.z.h.HikariConfig 
+2018-04-20 14:14:49,147 DEBUG | isolateInternalQueries..........false | c.z.h.HikariConfig 
+2018-04-20 14:14:49,147 DEBUG | jdbc4ConnectionTest.............false | c.z.h.HikariConfig 
+2018-04-20 14:14:49,147 DEBUG | jdbcUrl.........................jdbc:oracle:thin:@222.109.211.245:1521:TRAF | c.z.h.HikariConfig 
+2018-04-20 14:14:49,147 DEBUG | leakDetectionThreshold..........0 | c.z.h.HikariConfig 
+2018-04-20 14:14:49,147 DEBUG | maxLifetime.....................1800000 | c.z.h.HikariConfig 
+2018-04-20 14:14:49,147 DEBUG | maximumPoolSize.................10 | c.z.h.HikariConfig 
+2018-04-20 14:14:49,148 DEBUG | metricRegistry..................none | c.z.h.HikariConfig 
+2018-04-20 14:14:49,148 DEBUG | metricsTrackerFactory...........none | c.z.h.HikariConfig 
+2018-04-20 14:14:49,148 DEBUG | minimumIdle.....................10 | c.z.h.HikariConfig 
+2018-04-20 14:14:49,148 DEBUG | password........................<masked> | c.z.h.HikariConfig 
+2018-04-20 14:14:49,148 DEBUG | poolName........................"HikariPool-1" | c.z.h.HikariConfig 
+2018-04-20 14:14:49,149 DEBUG | readOnly........................false | c.z.h.HikariConfig 
+2018-04-20 14:14:49,149 DEBUG | registerMbeans..................false | c.z.h.HikariConfig 
+2018-04-20 14:14:49,149 DEBUG | scheduledExecutor...............none | c.z.h.HikariConfig 
+2018-04-20 14:14:49,149 DEBUG | scheduledExecutorService........internal | c.z.h.HikariConfig 
+2018-04-20 14:14:49,149 DEBUG | schema..........................none | c.z.h.HikariConfig 
+2018-04-20 14:14:49,149 DEBUG | threadFactory...................internal | c.z.h.HikariConfig 
+2018-04-20 14:14:49,149 DEBUG | transactionIsolation............default | c.z.h.HikariConfig 
+2018-04-20 14:14:49,150 DEBUG | username........................"nyjits" | c.z.h.HikariConfig 
+2018-04-20 14:14:49,150 DEBUG | validationTimeout...............5000 | c.z.h.HikariConfig 
+2018-04-20 14:14:49,150  INFO | HikariPool-1 - Starting... | c.z.h.HikariDataSource 
+2018-04-20 14:14:49,153  WARN | Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation. | c.z.h.u.DriverDataSource 
+2018-04-20 14:14:49,154 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.u.DriverDataSource 
+2018-04-20 14:14:49,437  INFO | HikariPool-1 - Driver does not support get/set network timeout for connections. (oracle.jdbc.driver.T4CConnection.getNetworkTimeout()I) | c.z.h.p.PoolBase 
+2018-04-20 14:14:49,442 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@213c3543 | c.z.h.p.HikariPool 
+2018-04-20 14:14:49,445  INFO | HikariPool-1 - Start completed. | c.z.h.HikariDataSource 
+2018-04-20 14:14:49,545 DEBUG | HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 14:14:49,678 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@72c3368c | c.z.h.p.HikariPool 
+2018-04-20 14:14:49,806 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@783b5dfc | c.z.h.p.HikariPool 
+2018-04-20 14:14:49,936 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@3d39dc9f | c.z.h.p.HikariPool 
+2018-04-20 14:14:49,944  INFO | Started SpringBootTestApplication in 4.657 seconds (JVM running for 5.834) | c.SpringBootTestApplication 
+2018-04-20 14:14:49,975 DEBUG | ==>  Preparing: SELECT CCTV_MNGM_NMBR, CCTV_CTLR_ID, CCTV_CTLR_IP, CCTV_CTLR_PORT, ISTL_LCTN_NM, ISTL_LCTN_ADDR, CCTV_ID FROM TB_CCTV_CTLR WHERE DEL_YN = 'N' AND CCTV_TYPE = 1 AND CCTV_CTLR_IP IS NOT NULL ORDER BY CCTV_MNGM_NMBR  | c.d.m.B.selectCctvList 
+2018-04-20 14:14:50,061 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@56a5fae2 | c.z.h.p.HikariPool 
+2018-04-20 14:14:50,095 DEBUG | ==> Parameters:  | c.d.m.B.selectCctvList 
+2018-04-20 14:14:50,183 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@c4ea764 | c.z.h.p.HikariPool 
+2018-04-20 14:14:50,188 DEBUG | <==      Total: 89 | c.d.m.B.selectCctvList 
+2018-04-20 14:14:50,309 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@2e38dfac | c.z.h.p.HikariPool 
+2018-04-20 14:14:50,435 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@5d1623d0 | c.z.h.p.HikariPool 
+2018-04-20 14:14:50,558 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@249da07a | c.z.h.p.HikariPool 
+2018-04-20 14:14:50,680 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@5d11560a | c.z.h.p.HikariPool 
+2018-04-20 14:14:50,681 DEBUG | HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 14:15:02,027  INFO | HikariPool-1 - Shutdown initiated... | c.z.h.HikariDataSource 
+2018-04-20 14:15:02,027 DEBUG | HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 14:15:02,029 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@213c3543: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:15:02,044 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@72c3368c: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:15:02,053 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@783b5dfc: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:15:02,061 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@3d39dc9f: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:15:02,080 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@56a5fae2: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:15:02,089 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@c4ea764: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:15:02,098 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@2e38dfac: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:15:02,110 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@5d1623d0: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:15:02,122 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@249da07a: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:15:02,131 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@5d11560a: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:15:02,140 DEBUG | HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 14:15:02,140  INFO | HikariPool-1 - Shutdown completed. | c.z.h.HikariDataSource 
+2018-04-20 14:16:40,657  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 23176 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 14:16:40,666 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 14:16:40,667  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 14:17:20,888  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 5332 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 14:17:20,896 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 14:17:20,897  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 14:17:24,351 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.HikariConfig 
+2018-04-20 14:17:24,657 DEBUG | HikariPool-1 - configuration: | c.z.h.HikariConfig 
+2018-04-20 14:17:24,661 DEBUG | allowPoolSuspension.............false | c.z.h.HikariConfig 
+2018-04-20 14:17:24,661 DEBUG | autoCommit......................true | c.z.h.HikariConfig 
+2018-04-20 14:17:24,661 DEBUG | catalog.........................none | c.z.h.HikariConfig 
+2018-04-20 14:17:24,662 DEBUG | connectionInitSql...............none | c.z.h.HikariConfig 
+2018-04-20 14:17:24,662 DEBUG | connectionTestQuery.............none | c.z.h.HikariConfig 
+2018-04-20 14:17:24,662 DEBUG | connectionTimeout...............30000 | c.z.h.HikariConfig 
+2018-04-20 14:17:24,662 DEBUG | dataSource......................none | c.z.h.HikariConfig 
+2018-04-20 14:17:24,663 DEBUG | dataSourceClassName.............none | c.z.h.HikariConfig 
+2018-04-20 14:17:24,663 DEBUG | dataSourceJNDI..................none | c.z.h.HikariConfig 
+2018-04-20 14:17:24,663 DEBUG | dataSourceProperties............{password=<masked>} | c.z.h.HikariConfig 
+2018-04-20 14:17:24,664 DEBUG | driverClassName................."oracle.jdbc.driver.OracleDriver" | c.z.h.HikariConfig 
+2018-04-20 14:17:24,664 DEBUG | healthCheckProperties...........{} | c.z.h.HikariConfig 
+2018-04-20 14:17:24,664 DEBUG | healthCheckRegistry.............none | c.z.h.HikariConfig 
+2018-04-20 14:17:24,664 DEBUG | idleTimeout.....................600000 | c.z.h.HikariConfig 
+2018-04-20 14:17:24,664 DEBUG | initializationFailFast..........true | c.z.h.HikariConfig 
+2018-04-20 14:17:24,665 DEBUG | initializationFailTimeout.......1 | c.z.h.HikariConfig 
+2018-04-20 14:17:24,665 DEBUG | isolateInternalQueries..........false | c.z.h.HikariConfig 
+2018-04-20 14:17:24,665 DEBUG | jdbc4ConnectionTest.............false | c.z.h.HikariConfig 
+2018-04-20 14:17:24,665 DEBUG | jdbcUrl.........................jdbc:oracle:thin:@222.109.211.245:1521:TRAF | c.z.h.HikariConfig 
+2018-04-20 14:17:24,666 DEBUG | leakDetectionThreshold..........0 | c.z.h.HikariConfig 
+2018-04-20 14:17:24,666 DEBUG | maxLifetime.....................1800000 | c.z.h.HikariConfig 
+2018-04-20 14:17:24,666 DEBUG | maximumPoolSize.................10 | c.z.h.HikariConfig 
+2018-04-20 14:17:24,666 DEBUG | metricRegistry..................none | c.z.h.HikariConfig 
+2018-04-20 14:17:24,666 DEBUG | metricsTrackerFactory...........none | c.z.h.HikariConfig 
+2018-04-20 14:17:24,666 DEBUG | minimumIdle.....................10 | c.z.h.HikariConfig 
+2018-04-20 14:17:24,667 DEBUG | password........................<masked> | c.z.h.HikariConfig 
+2018-04-20 14:17:24,667 DEBUG | poolName........................"HikariPool-1" | c.z.h.HikariConfig 
+2018-04-20 14:17:24,667 DEBUG | readOnly........................false | c.z.h.HikariConfig 
+2018-04-20 14:17:24,667 DEBUG | registerMbeans..................false | c.z.h.HikariConfig 
+2018-04-20 14:17:24,668 DEBUG | scheduledExecutor...............none | c.z.h.HikariConfig 
+2018-04-20 14:17:24,668 DEBUG | scheduledExecutorService........internal | c.z.h.HikariConfig 
+2018-04-20 14:17:24,668 DEBUG | schema..........................none | c.z.h.HikariConfig 
+2018-04-20 14:17:24,668 DEBUG | threadFactory...................internal | c.z.h.HikariConfig 
+2018-04-20 14:17:24,668 DEBUG | transactionIsolation............default | c.z.h.HikariConfig 
+2018-04-20 14:17:24,668 DEBUG | username........................"nyjits" | c.z.h.HikariConfig 
+2018-04-20 14:17:24,669 DEBUG | validationTimeout...............5000 | c.z.h.HikariConfig 
+2018-04-20 14:17:24,669  INFO | HikariPool-1 - Starting... | c.z.h.HikariDataSource 
+2018-04-20 14:17:24,673  WARN | Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation. | c.z.h.u.DriverDataSource 
+2018-04-20 14:17:24,674 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.u.DriverDataSource 
+2018-04-20 14:17:24,966  INFO | HikariPool-1 - Driver does not support get/set network timeout for connections. (oracle.jdbc.driver.T4CConnection.getNetworkTimeout()I) | c.z.h.p.PoolBase 
+2018-04-20 14:17:24,971 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@46cb98a3 | c.z.h.p.HikariPool 
+2018-04-20 14:17:24,973  INFO | HikariPool-1 - Start completed. | c.z.h.HikariDataSource 
+2018-04-20 14:17:25,074 DEBUG | HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 14:17:25,204 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@6a16ad31 | c.z.h.p.HikariPool 
+2018-04-20 14:17:25,338 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@60eec641 | c.z.h.p.HikariPool 
+2018-04-20 14:17:25,463 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@25ec5438 | c.z.h.p.HikariPool 
+2018-04-20 14:17:25,491  INFO | Started SpringBootTestApplication in 4.879 seconds (JVM running for 5.927) | c.SpringBootTestApplication 
+2018-04-20 14:17:25,517 DEBUG | ==>  Preparing: SELECT CCTV_MNGM_NMBR, CCTV_CTLR_ID, CCTV_CTLR_IP, CCTV_CTLR_PORT, ISTL_LCTN_NM, ISTL_LCTN_ADDR, CCTV_ID FROM TB_CCTV_CTLR WHERE DEL_YN = 'N' AND CCTV_TYPE = 1 AND CCTV_CTLR_IP IS NOT NULL ORDER BY CCTV_MNGM_NMBR  | c.d.m.B.selectCctvList 
+2018-04-20 14:17:25,598 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@7a4c1a91 | c.z.h.p.HikariPool 
+2018-04-20 14:17:25,634 DEBUG | ==> Parameters:  | c.d.m.B.selectCctvList 
+2018-04-20 14:17:25,723 DEBUG | <==      Total: 89 | c.d.m.B.selectCctvList 
+2018-04-20 14:17:25,725 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@1403729d | c.z.h.p.HikariPool 
+2018-04-20 14:17:25,850 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@2496292 | c.z.h.p.HikariPool 
+2018-04-20 14:17:25,976 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@45c3ab77 | c.z.h.p.HikariPool 
+2018-04-20 14:17:26,104 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@5f41a9cc | c.z.h.p.HikariPool 
+2018-04-20 14:17:26,227 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@50d9af23 | c.z.h.p.HikariPool 
+2018-04-20 14:17:26,228 DEBUG | HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 14:17:51,919  INFO | HikariPool-1 - Shutdown initiated... | c.z.h.HikariDataSource 
+2018-04-20 14:17:51,920 DEBUG | HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 14:17:51,923 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@46cb98a3: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:17:51,945 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@6a16ad31: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:17:51,954 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@60eec641: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:17:51,963 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@25ec5438: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:17:51,975 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@7a4c1a91: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:17:51,984 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@1403729d: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:17:51,992 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@2496292: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:17:52,002 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@45c3ab77: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:17:52,010 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@5f41a9cc: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:17:52,027 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@50d9af23: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:17:52,038 DEBUG | HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 14:17:52,039  INFO | HikariPool-1 - Shutdown completed. | c.z.h.HikariDataSource 
+2018-04-20 14:37:47,404  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 22972 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 14:37:47,412 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 14:37:47,413  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 14:37:50,642 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.HikariConfig 
+2018-04-20 14:37:50,976 DEBUG | HikariPool-1 - configuration: | c.z.h.HikariConfig 
+2018-04-20 14:37:50,978 DEBUG | allowPoolSuspension.............false | c.z.h.HikariConfig 
+2018-04-20 14:37:50,978 DEBUG | autoCommit......................true | c.z.h.HikariConfig 
+2018-04-20 14:37:50,979 DEBUG | catalog.........................none | c.z.h.HikariConfig 
+2018-04-20 14:37:50,979 DEBUG | connectionInitSql...............none | c.z.h.HikariConfig 
+2018-04-20 14:37:50,979 DEBUG | connectionTestQuery.............none | c.z.h.HikariConfig 
+2018-04-20 14:37:50,979 DEBUG | connectionTimeout...............30000 | c.z.h.HikariConfig 
+2018-04-20 14:37:50,979 DEBUG | dataSource......................none | c.z.h.HikariConfig 
+2018-04-20 14:37:50,980 DEBUG | dataSourceClassName.............none | c.z.h.HikariConfig 
+2018-04-20 14:37:50,980 DEBUG | dataSourceJNDI..................none | c.z.h.HikariConfig 
+2018-04-20 14:37:50,980 DEBUG | dataSourceProperties............{password=<masked>} | c.z.h.HikariConfig 
+2018-04-20 14:37:50,981 DEBUG | driverClassName................."oracle.jdbc.driver.OracleDriver" | c.z.h.HikariConfig 
+2018-04-20 14:37:50,981 DEBUG | healthCheckProperties...........{} | c.z.h.HikariConfig 
+2018-04-20 14:37:50,981 DEBUG | healthCheckRegistry.............none | c.z.h.HikariConfig 
+2018-04-20 14:37:50,981 DEBUG | idleTimeout.....................600000 | c.z.h.HikariConfig 
+2018-04-20 14:37:50,982 DEBUG | initializationFailFast..........true | c.z.h.HikariConfig 
+2018-04-20 14:37:50,982 DEBUG | initializationFailTimeout.......1 | c.z.h.HikariConfig 
+2018-04-20 14:37:50,982 DEBUG | isolateInternalQueries..........false | c.z.h.HikariConfig 
+2018-04-20 14:37:50,982 DEBUG | jdbc4ConnectionTest.............false | c.z.h.HikariConfig 
+2018-04-20 14:37:50,982 DEBUG | jdbcUrl.........................jdbc:oracle:thin:@222.109.211.245:1521:TRAF | c.z.h.HikariConfig 
+2018-04-20 14:37:50,982 DEBUG | leakDetectionThreshold..........0 | c.z.h.HikariConfig 
+2018-04-20 14:37:50,983 DEBUG | maxLifetime.....................1800000 | c.z.h.HikariConfig 
+2018-04-20 14:37:50,983 DEBUG | maximumPoolSize.................10 | c.z.h.HikariConfig 
+2018-04-20 14:37:50,983 DEBUG | metricRegistry..................none | c.z.h.HikariConfig 
+2018-04-20 14:37:50,983 DEBUG | metricsTrackerFactory...........none | c.z.h.HikariConfig 
+2018-04-20 14:37:50,983 DEBUG | minimumIdle.....................10 | c.z.h.HikariConfig 
+2018-04-20 14:37:50,983 DEBUG | password........................<masked> | c.z.h.HikariConfig 
+2018-04-20 14:37:50,983 DEBUG | poolName........................"HikariPool-1" | c.z.h.HikariConfig 
+2018-04-20 14:37:50,984 DEBUG | readOnly........................false | c.z.h.HikariConfig 
+2018-04-20 14:37:50,984 DEBUG | registerMbeans..................false | c.z.h.HikariConfig 
+2018-04-20 14:37:50,984 DEBUG | scheduledExecutor...............none | c.z.h.HikariConfig 
+2018-04-20 14:37:50,985 DEBUG | scheduledExecutorService........internal | c.z.h.HikariConfig 
+2018-04-20 14:37:50,985 DEBUG | schema..........................none | c.z.h.HikariConfig 
+2018-04-20 14:37:50,985 DEBUG | threadFactory...................internal | c.z.h.HikariConfig 
+2018-04-20 14:37:50,985 DEBUG | transactionIsolation............default | c.z.h.HikariConfig 
+2018-04-20 14:37:50,985 DEBUG | username........................"nyjits" | c.z.h.HikariConfig 
+2018-04-20 14:37:50,985 DEBUG | validationTimeout...............5000 | c.z.h.HikariConfig 
+2018-04-20 14:37:50,985  INFO | HikariPool-1 - Starting... | c.z.h.HikariDataSource 
+2018-04-20 14:37:50,989  WARN | Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation. | c.z.h.u.DriverDataSource 
+2018-04-20 14:37:50,989 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.u.DriverDataSource 
+2018-04-20 14:37:51,284  INFO | HikariPool-1 - Driver does not support get/set network timeout for connections. (oracle.jdbc.driver.T4CConnection.getNetworkTimeout()I) | c.z.h.p.PoolBase 
+2018-04-20 14:37:51,288 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@4016ccc1 | c.z.h.p.HikariPool 
+2018-04-20 14:37:51,289  INFO | HikariPool-1 - Start completed. | c.z.h.HikariDataSource 
+2018-04-20 14:37:51,391 DEBUG | HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 14:37:51,528 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@7c4c00d8 | c.z.h.p.HikariPool 
+2018-04-20 14:37:51,671 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@76b46ba8 | c.z.h.p.HikariPool 
+2018-04-20 14:37:51,732  INFO | Started SpringBootTestApplication in 4.607 seconds (JVM running for 5.679) | c.SpringBootTestApplication 
+2018-04-20 14:37:51,760 DEBUG | ==>  Preparing: SELECT CCTV_MNGM_NMBR, CCTV_CTLR_ID, CCTV_CTLR_IP, CCTV_CTLR_PORT, ISTL_LCTN_NM, ISTL_LCTN_ADDR, CCTV_ID FROM TB_CCTV_CTLR WHERE DEL_YN = 'N' AND CCTV_TYPE = 1 AND CCTV_CTLR_IP IS NOT NULL ORDER BY CCTV_MNGM_NMBR  | c.d.m.B.selectCctvList 
+2018-04-20 14:37:51,797 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@33b6fb1a | c.z.h.p.HikariPool 
+2018-04-20 14:37:51,880 DEBUG | ==> Parameters:  | c.d.m.B.selectCctvList 
+2018-04-20 14:37:51,922 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@2fe06774 | c.z.h.p.HikariPool 
+2018-04-20 14:37:51,988 DEBUG | <==      Total: 89 | c.d.m.B.selectCctvList 
+2018-04-20 14:37:52,054 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@24f8950 | c.z.h.p.HikariPool 
+2018-04-20 14:37:52,180 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@57f34b9a | c.z.h.p.HikariPool 
+2018-04-20 14:37:52,305 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@53990455 | c.z.h.p.HikariPool 
+2018-04-20 14:37:52,426 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@7fee1295 | c.z.h.p.HikariPool 
+2018-04-20 14:37:52,545 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@1950131 | c.z.h.p.HikariPool 
+2018-04-20 14:37:52,546 DEBUG | HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 14:38:17,502  INFO | HikariPool-1 - Shutdown initiated... | c.z.h.HikariDataSource 
+2018-04-20 14:38:17,502 DEBUG | HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 14:38:17,505 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@4016ccc1: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:38:17,518 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@7c4c00d8: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:38:17,529 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@76b46ba8: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:38:17,536 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@33b6fb1a: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:38:17,547 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@2fe06774: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:38:17,554 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@24f8950: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:38:17,566 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@57f34b9a: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:38:17,578 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@53990455: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:38:17,589 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@7fee1295: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:38:17,597 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@1950131: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:38:17,607 DEBUG | HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 14:38:17,607  INFO | HikariPool-1 - Shutdown completed. | c.z.h.HikariDataSource 
+2018-04-20 14:40:52,266  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 16896 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 14:40:52,275 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 14:40:52,276  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 14:40:55,521 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.HikariConfig 
+2018-04-20 14:40:55,843 DEBUG | HikariPool-1 - configuration: | c.z.h.HikariConfig 
+2018-04-20 14:40:55,845 DEBUG | allowPoolSuspension.............false | c.z.h.HikariConfig 
+2018-04-20 14:40:55,846 DEBUG | autoCommit......................true | c.z.h.HikariConfig 
+2018-04-20 14:40:55,846 DEBUG | catalog.........................none | c.z.h.HikariConfig 
+2018-04-20 14:40:55,846 DEBUG | connectionInitSql...............none | c.z.h.HikariConfig 
+2018-04-20 14:40:55,846 DEBUG | connectionTestQuery.............none | c.z.h.HikariConfig 
+2018-04-20 14:40:55,846 DEBUG | connectionTimeout...............30000 | c.z.h.HikariConfig 
+2018-04-20 14:40:55,847 DEBUG | dataSource......................none | c.z.h.HikariConfig 
+2018-04-20 14:40:55,847 DEBUG | dataSourceClassName.............none | c.z.h.HikariConfig 
+2018-04-20 14:40:55,847 DEBUG | dataSourceJNDI..................none | c.z.h.HikariConfig 
+2018-04-20 14:40:55,848 DEBUG | dataSourceProperties............{password=<masked>} | c.z.h.HikariConfig 
+2018-04-20 14:40:55,848 DEBUG | driverClassName................."oracle.jdbc.driver.OracleDriver" | c.z.h.HikariConfig 
+2018-04-20 14:40:55,848 DEBUG | healthCheckProperties...........{} | c.z.h.HikariConfig 
+2018-04-20 14:40:55,848 DEBUG | healthCheckRegistry.............none | c.z.h.HikariConfig 
+2018-04-20 14:40:55,848 DEBUG | idleTimeout.....................600000 | c.z.h.HikariConfig 
+2018-04-20 14:40:55,849 DEBUG | initializationFailFast..........true | c.z.h.HikariConfig 
+2018-04-20 14:40:55,849 DEBUG | initializationFailTimeout.......1 | c.z.h.HikariConfig 
+2018-04-20 14:40:55,849 DEBUG | isolateInternalQueries..........false | c.z.h.HikariConfig 
+2018-04-20 14:40:55,849 DEBUG | jdbc4ConnectionTest.............false | c.z.h.HikariConfig 
+2018-04-20 14:40:55,849 DEBUG | jdbcUrl.........................jdbc:oracle:thin:@222.109.211.245:1521:TRAF | c.z.h.HikariConfig 
+2018-04-20 14:40:55,850 DEBUG | leakDetectionThreshold..........0 | c.z.h.HikariConfig 
+2018-04-20 14:40:55,850 DEBUG | maxLifetime.....................1800000 | c.z.h.HikariConfig 
+2018-04-20 14:40:55,850 DEBUG | maximumPoolSize.................10 | c.z.h.HikariConfig 
+2018-04-20 14:40:55,850 DEBUG | metricRegistry..................none | c.z.h.HikariConfig 
+2018-04-20 14:40:55,850 DEBUG | metricsTrackerFactory...........none | c.z.h.HikariConfig 
+2018-04-20 14:40:55,850 DEBUG | minimumIdle.....................10 | c.z.h.HikariConfig 
+2018-04-20 14:40:55,851 DEBUG | password........................<masked> | c.z.h.HikariConfig 
+2018-04-20 14:40:55,851 DEBUG | poolName........................"HikariPool-1" | c.z.h.HikariConfig 
+2018-04-20 14:40:55,851 DEBUG | readOnly........................false | c.z.h.HikariConfig 
+2018-04-20 14:40:55,852 DEBUG | registerMbeans..................false | c.z.h.HikariConfig 
+2018-04-20 14:40:55,852 DEBUG | scheduledExecutor...............none | c.z.h.HikariConfig 
+2018-04-20 14:40:55,852 DEBUG | scheduledExecutorService........internal | c.z.h.HikariConfig 
+2018-04-20 14:40:55,852 DEBUG | schema..........................none | c.z.h.HikariConfig 
+2018-04-20 14:40:55,853 DEBUG | threadFactory...................internal | c.z.h.HikariConfig 
+2018-04-20 14:40:55,853 DEBUG | transactionIsolation............default | c.z.h.HikariConfig 
+2018-04-20 14:40:55,853 DEBUG | username........................"nyjits" | c.z.h.HikariConfig 
+2018-04-20 14:40:55,853 DEBUG | validationTimeout...............5000 | c.z.h.HikariConfig 
+2018-04-20 14:40:55,853  INFO | HikariPool-1 - Starting... | c.z.h.HikariDataSource 
+2018-04-20 14:40:55,858  WARN | Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation. | c.z.h.u.DriverDataSource 
+2018-04-20 14:40:55,859 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.u.DriverDataSource 
+2018-04-20 14:40:56,162  INFO | HikariPool-1 - Driver does not support get/set network timeout for connections. (oracle.jdbc.driver.T4CConnection.getNetworkTimeout()I) | c.z.h.p.PoolBase 
+2018-04-20 14:40:56,167 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@4da9f723 | c.z.h.p.HikariPool 
+2018-04-20 14:40:56,169  INFO | HikariPool-1 - Start completed. | c.z.h.HikariDataSource 
+2018-04-20 14:40:56,270 DEBUG | HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 14:40:56,405 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@7308c8bb | c.z.h.p.HikariPool 
+2018-04-20 14:40:56,552 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@79f0a3cb | c.z.h.p.HikariPool 
+2018-04-20 14:40:56,625  INFO | Started SpringBootTestApplication in 4.642 seconds (JVM running for 5.685) | c.SpringBootTestApplication 
+2018-04-20 14:40:56,650 DEBUG | ==>  Preparing: SELECT CCTV_MNGM_NMBR, CCTV_CTLR_ID, CCTV_CTLR_IP, CCTV_CTLR_PORT, ISTL_LCTN_NM, ISTL_LCTN_ADDR, CCTV_ID FROM TB_CCTV_CTLR WHERE DEL_YN = 'N' AND CCTV_TYPE = 1 AND CCTV_CTLR_IP IS NOT NULL ORDER BY CCTV_MNGM_NMBR  | c.d.m.B.selectCctvList 
+2018-04-20 14:40:56,675 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@3cf22291 | c.z.h.p.HikariPool 
+2018-04-20 14:40:56,756 DEBUG | ==> Parameters:  | c.d.m.B.selectCctvList 
+2018-04-20 14:40:56,795 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@90a78a4 | c.z.h.p.HikariPool 
+2018-04-20 14:40:56,844 DEBUG | <==      Total: 89 | c.d.m.B.selectCctvList 
+2018-04-20 14:40:56,920 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@d849b57 | c.z.h.p.HikariPool 
+2018-04-20 14:40:57,058 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@71969fd7 | c.z.h.p.HikariPool 
+2018-04-20 14:40:57,184 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@5cddddde | c.z.h.p.HikariPool 
+2018-04-20 14:40:57,310 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@6c851b9 | c.z.h.p.HikariPool 
+2018-04-20 14:40:57,441 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@2f3f2c14 | c.z.h.p.HikariPool 
+2018-04-20 14:40:57,442 DEBUG | HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 14:41:22,444  INFO | HikariPool-1 - Shutdown initiated... | c.z.h.HikariDataSource 
+2018-04-20 14:41:22,445 DEBUG | HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 14:41:22,447 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@4da9f723: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:41:22,461 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@7308c8bb: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:41:22,472 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@79f0a3cb: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:41:22,478 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@3cf22291: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:41:22,490 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@90a78a4: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:41:22,497 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@d849b57: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:41:22,508 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@71969fd7: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:41:22,514 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@5cddddde: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:41:22,527 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@6c851b9: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:41:22,538 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@2f3f2c14: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:41:22,545 DEBUG | HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 14:41:22,545  INFO | HikariPool-1 - Shutdown completed. | c.z.h.HikariDataSource 
+2018-04-20 14:45:26,257  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 21724 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 14:45:26,266 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 14:45:26,266  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 14:45:29,527 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.HikariConfig 
+2018-04-20 14:45:29,870 DEBUG | HikariPool-1 - configuration: | c.z.h.HikariConfig 
+2018-04-20 14:45:29,874 DEBUG | allowPoolSuspension.............false | c.z.h.HikariConfig 
+2018-04-20 14:45:29,874 DEBUG | autoCommit......................true | c.z.h.HikariConfig 
+2018-04-20 14:45:29,875 DEBUG | catalog.........................none | c.z.h.HikariConfig 
+2018-04-20 14:45:29,875 DEBUG | connectionInitSql...............none | c.z.h.HikariConfig 
+2018-04-20 14:45:29,875 DEBUG | connectionTestQuery.............none | c.z.h.HikariConfig 
+2018-04-20 14:45:29,876 DEBUG | connectionTimeout...............30000 | c.z.h.HikariConfig 
+2018-04-20 14:45:29,876 DEBUG | dataSource......................none | c.z.h.HikariConfig 
+2018-04-20 14:45:29,876 DEBUG | dataSourceClassName.............none | c.z.h.HikariConfig 
+2018-04-20 14:45:29,877 DEBUG | dataSourceJNDI..................none | c.z.h.HikariConfig 
+2018-04-20 14:45:29,878 DEBUG | dataSourceProperties............{password=<masked>} | c.z.h.HikariConfig 
+2018-04-20 14:45:29,878 DEBUG | driverClassName................."oracle.jdbc.driver.OracleDriver" | c.z.h.HikariConfig 
+2018-04-20 14:45:29,879 DEBUG | healthCheckProperties...........{} | c.z.h.HikariConfig 
+2018-04-20 14:45:29,879 DEBUG | healthCheckRegistry.............none | c.z.h.HikariConfig 
+2018-04-20 14:45:29,879 DEBUG | idleTimeout.....................600000 | c.z.h.HikariConfig 
+2018-04-20 14:45:29,880 DEBUG | initializationFailFast..........true | c.z.h.HikariConfig 
+2018-04-20 14:45:29,880 DEBUG | initializationFailTimeout.......1 | c.z.h.HikariConfig 
+2018-04-20 14:45:29,880 DEBUG | isolateInternalQueries..........false | c.z.h.HikariConfig 
+2018-04-20 14:45:29,880 DEBUG | jdbc4ConnectionTest.............false | c.z.h.HikariConfig 
+2018-04-20 14:45:29,881 DEBUG | jdbcUrl.........................jdbc:oracle:thin:@222.109.211.245:1521:TRAF | c.z.h.HikariConfig 
+2018-04-20 14:45:29,881 DEBUG | leakDetectionThreshold..........0 | c.z.h.HikariConfig 
+2018-04-20 14:45:29,881 DEBUG | maxLifetime.....................1800000 | c.z.h.HikariConfig 
+2018-04-20 14:45:29,881 DEBUG | maximumPoolSize.................10 | c.z.h.HikariConfig 
+2018-04-20 14:45:29,882 DEBUG | metricRegistry..................none | c.z.h.HikariConfig 
+2018-04-20 14:45:29,882 DEBUG | metricsTrackerFactory...........none | c.z.h.HikariConfig 
+2018-04-20 14:45:29,882 DEBUG | minimumIdle.....................10 | c.z.h.HikariConfig 
+2018-04-20 14:45:29,882 DEBUG | password........................<masked> | c.z.h.HikariConfig 
+2018-04-20 14:45:29,883 DEBUG | poolName........................"HikariPool-1" | c.z.h.HikariConfig 
+2018-04-20 14:45:29,883 DEBUG | readOnly........................false | c.z.h.HikariConfig 
+2018-04-20 14:45:29,883 DEBUG | registerMbeans..................false | c.z.h.HikariConfig 
+2018-04-20 14:45:29,883 DEBUG | scheduledExecutor...............none | c.z.h.HikariConfig 
+2018-04-20 14:45:29,884 DEBUG | scheduledExecutorService........internal | c.z.h.HikariConfig 
+2018-04-20 14:45:29,884 DEBUG | schema..........................none | c.z.h.HikariConfig 
+2018-04-20 14:45:29,884 DEBUG | threadFactory...................internal | c.z.h.HikariConfig 
+2018-04-20 14:45:29,884 DEBUG | transactionIsolation............default | c.z.h.HikariConfig 
+2018-04-20 14:45:29,884 DEBUG | username........................"nyjits" | c.z.h.HikariConfig 
+2018-04-20 14:45:29,884 DEBUG | validationTimeout...............5000 | c.z.h.HikariConfig 
+2018-04-20 14:45:29,884  INFO | HikariPool-1 - Starting... | c.z.h.HikariDataSource 
+2018-04-20 14:45:29,888  WARN | Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation. | c.z.h.u.DriverDataSource 
+2018-04-20 14:45:29,888 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.u.DriverDataSource 
+2018-04-20 14:45:30,173  INFO | HikariPool-1 - Driver does not support get/set network timeout for connections. (oracle.jdbc.driver.T4CConnection.getNetworkTimeout()I) | c.z.h.p.PoolBase 
+2018-04-20 14:45:30,177 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@112d1c8e | c.z.h.p.HikariPool 
+2018-04-20 14:45:30,179  INFO | HikariPool-1 - Start completed. | c.z.h.HikariDataSource 
+2018-04-20 14:45:30,280 DEBUG | HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 14:45:30,407 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@29c4cded | c.z.h.p.HikariPool 
+2018-04-20 14:45:30,563 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@233ca69d | c.z.h.p.HikariPool 
+2018-04-20 14:45:30,643  INFO | Started SpringBootTestApplication in 4.677 seconds (JVM running for 5.752) | c.SpringBootTestApplication 
+2018-04-20 14:45:30,668 DEBUG | ==>  Preparing: SELECT CCTV_MNGM_NMBR, CCTV_CTLR_ID, CCTV_CTLR_IP, CCTV_CTLR_PORT, ISTL_LCTN_NM, ISTL_LCTN_ADDR, CCTV_ID FROM TB_CCTV_CTLR WHERE DEL_YN = 'N' AND CCTV_TYPE = 1 AND CCTV_CTLR_IP IS NOT NULL ORDER BY CCTV_MNGM_NMBR  | c.d.m.B.selectCctvList 
+2018-04-20 14:45:30,686 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@663e2c9e | c.z.h.p.HikariPool 
+2018-04-20 14:45:30,775 DEBUG | ==> Parameters:  | c.d.m.B.selectCctvList 
+2018-04-20 14:45:30,818 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@691a2e11 | c.z.h.p.HikariPool 
+2018-04-20 14:45:30,865 DEBUG | <==      Total: 89 | c.d.m.B.selectCctvList 
+2018-04-20 14:45:30,943 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@57120b99 | c.z.h.p.HikariPool 
+2018-04-20 14:45:31,069 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@11dc57a8 | c.z.h.p.HikariPool 
+2018-04-20 14:45:31,199 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@611d3d1 | c.z.h.p.HikariPool 
+2018-04-20 14:45:31,324 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@3e430fa4 | c.z.h.p.HikariPool 
+2018-04-20 14:45:31,446 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@794a9536 | c.z.h.p.HikariPool 
+2018-04-20 14:45:31,447 DEBUG | HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 14:45:55,010  INFO | HikariPool-1 - Shutdown initiated... | c.z.h.HikariDataSource 
+2018-04-20 14:45:55,011 DEBUG | HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 14:45:55,015 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@112d1c8e: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:45:55,029 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@29c4cded: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:45:55,044 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@233ca69d: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:45:55,064 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@663e2c9e: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:45:55,076 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@691a2e11: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:45:55,088 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@57120b99: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:45:55,100 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@11dc57a8: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:45:55,112 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@611d3d1: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:45:55,142 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@3e430fa4: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:45:55,154 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@794a9536: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:45:55,166 DEBUG | HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 14:45:55,167  INFO | HikariPool-1 - Shutdown completed. | c.z.h.HikariDataSource 
+2018-04-20 14:46:22,606  INFO | Starting SpringBootTestApplication on DSRCSVR with PID 18588 (D:\hwan_workspace\SpringBoot_Test\target\classes started by son in D:\hwan_workspace\SpringBoot_Test) | c.SpringBootTestApplication 
+2018-04-20 14:46:22,614 DEBUG | Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE | c.SpringBootTestApplication 
+2018-04-20 14:46:22,615  INFO | No active profile set, falling back to default profiles: default | c.SpringBootTestApplication 
+2018-04-20 14:46:26,026 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.HikariConfig 
+2018-04-20 14:46:26,368 DEBUG | HikariPool-1 - configuration: | c.z.h.HikariConfig 
+2018-04-20 14:46:26,371 DEBUG | allowPoolSuspension.............false | c.z.h.HikariConfig 
+2018-04-20 14:46:26,371 DEBUG | autoCommit......................true | c.z.h.HikariConfig 
+2018-04-20 14:46:26,371 DEBUG | catalog.........................none | c.z.h.HikariConfig 
+2018-04-20 14:46:26,372 DEBUG | connectionInitSql...............none | c.z.h.HikariConfig 
+2018-04-20 14:46:26,372 DEBUG | connectionTestQuery.............none | c.z.h.HikariConfig 
+2018-04-20 14:46:26,372 DEBUG | connectionTimeout...............30000 | c.z.h.HikariConfig 
+2018-04-20 14:46:26,372 DEBUG | dataSource......................none | c.z.h.HikariConfig 
+2018-04-20 14:46:26,373 DEBUG | dataSourceClassName.............none | c.z.h.HikariConfig 
+2018-04-20 14:46:26,373 DEBUG | dataSourceJNDI..................none | c.z.h.HikariConfig 
+2018-04-20 14:46:26,373 DEBUG | dataSourceProperties............{password=<masked>} | c.z.h.HikariConfig 
+2018-04-20 14:46:26,373 DEBUG | driverClassName................."oracle.jdbc.driver.OracleDriver" | c.z.h.HikariConfig 
+2018-04-20 14:46:26,374 DEBUG | healthCheckProperties...........{} | c.z.h.HikariConfig 
+2018-04-20 14:46:26,374 DEBUG | healthCheckRegistry.............none | c.z.h.HikariConfig 
+2018-04-20 14:46:26,374 DEBUG | idleTimeout.....................600000 | c.z.h.HikariConfig 
+2018-04-20 14:46:26,374 DEBUG | initializationFailFast..........true | c.z.h.HikariConfig 
+2018-04-20 14:46:26,374 DEBUG | initializationFailTimeout.......1 | c.z.h.HikariConfig 
+2018-04-20 14:46:26,375 DEBUG | isolateInternalQueries..........false | c.z.h.HikariConfig 
+2018-04-20 14:46:26,375 DEBUG | jdbc4ConnectionTest.............false | c.z.h.HikariConfig 
+2018-04-20 14:46:26,375 DEBUG | jdbcUrl.........................jdbc:oracle:thin:@222.109.211.245:1521:TRAF | c.z.h.HikariConfig 
+2018-04-20 14:46:26,375 DEBUG | leakDetectionThreshold..........0 | c.z.h.HikariConfig 
+2018-04-20 14:46:26,375 DEBUG | maxLifetime.....................1800000 | c.z.h.HikariConfig 
+2018-04-20 14:46:26,375 DEBUG | maximumPoolSize.................10 | c.z.h.HikariConfig 
+2018-04-20 14:46:26,376 DEBUG | metricRegistry..................none | c.z.h.HikariConfig 
+2018-04-20 14:46:26,376 DEBUG | metricsTrackerFactory...........none | c.z.h.HikariConfig 
+2018-04-20 14:46:26,376 DEBUG | minimumIdle.....................10 | c.z.h.HikariConfig 
+2018-04-20 14:46:26,376 DEBUG | password........................<masked> | c.z.h.HikariConfig 
+2018-04-20 14:46:26,376 DEBUG | poolName........................"HikariPool-1" | c.z.h.HikariConfig 
+2018-04-20 14:46:26,377 DEBUG | readOnly........................false | c.z.h.HikariConfig 
+2018-04-20 14:46:26,377 DEBUG | registerMbeans..................false | c.z.h.HikariConfig 
+2018-04-20 14:46:26,377 DEBUG | scheduledExecutor...............none | c.z.h.HikariConfig 
+2018-04-20 14:46:26,377 DEBUG | scheduledExecutorService........internal | c.z.h.HikariConfig 
+2018-04-20 14:46:26,377 DEBUG | schema..........................none | c.z.h.HikariConfig 
+2018-04-20 14:46:26,377 DEBUG | threadFactory...................internal | c.z.h.HikariConfig 
+2018-04-20 14:46:26,377 DEBUG | transactionIsolation............default | c.z.h.HikariConfig 
+2018-04-20 14:46:26,378 DEBUG | username........................"nyjits" | c.z.h.HikariConfig 
+2018-04-20 14:46:26,378 DEBUG | validationTimeout...............5000 | c.z.h.HikariConfig 
+2018-04-20 14:46:26,378  INFO | HikariPool-1 - Starting... | c.z.h.HikariDataSource 
+2018-04-20 14:46:26,381  WARN | Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation. | c.z.h.u.DriverDataSource 
+2018-04-20 14:46:26,382 DEBUG | Driver class oracle.jdbc.driver.OracleDriver found in Thread context class loader sun.misc.Launcher$AppClassLoader@764c12b6 | c.z.h.u.DriverDataSource 
+2018-04-20 14:46:26,669  INFO | HikariPool-1 - Driver does not support get/set network timeout for connections. (oracle.jdbc.driver.T4CConnection.getNetworkTimeout()I) | c.z.h.p.PoolBase 
+2018-04-20 14:46:26,673 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@73545b80 | c.z.h.p.HikariPool 
+2018-04-20 14:46:26,675  INFO | HikariPool-1 - Start completed. | c.z.h.HikariDataSource 
+2018-04-20 14:46:26,776 DEBUG | HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 14:46:26,924 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@3a5e21e | c.z.h.p.HikariPool 
+2018-04-20 14:46:27,059 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@95d896e | c.z.h.p.HikariPool 
+2018-04-20 14:46:27,191 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@4c5f0621 | c.z.h.p.HikariPool 
+2018-04-20 14:46:27,255  INFO | Started SpringBootTestApplication in 4.931 seconds (JVM running for 5.982) | c.SpringBootTestApplication 
+2018-04-20 14:46:27,291 DEBUG | ==>  Preparing: SELECT CCTV_MNGM_NMBR, CCTV_CTLR_ID, CCTV_CTLR_IP, CCTV_CTLR_PORT, ISTL_LCTN_NM, ISTL_LCTN_ADDR, CCTV_ID FROM TB_CCTV_CTLR WHERE DEL_YN = 'N' AND CCTV_TYPE = 1 AND CCTV_CTLR_IP IS NOT NULL ORDER BY CCTV_MNGM_NMBR  | c.d.m.B.selectCctvList 
+2018-04-20 14:46:27,323 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@6046a8a6 | c.z.h.p.HikariPool 
+2018-04-20 14:46:27,425 DEBUG | ==> Parameters:  | c.d.m.B.selectCctvList 
+2018-04-20 14:46:27,449 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@7d596a68 | c.z.h.p.HikariPool 
+2018-04-20 14:46:27,521 DEBUG | <==      Total: 89 | c.d.m.B.selectCctvList 
+2018-04-20 14:46:27,574 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@18aa9a54 | c.z.h.p.HikariPool 
+2018-04-20 14:46:27,700 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@2c70f96e | c.z.h.p.HikariPool 
+2018-04-20 14:46:27,841 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@79a677de | c.z.h.p.HikariPool 
+2018-04-20 14:46:27,966 DEBUG | HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@4f9a58a8 | c.z.h.p.HikariPool 
+2018-04-20 14:46:27,966 DEBUG | HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 14:46:43,535  INFO | HikariPool-1 - Shutdown initiated... | c.z.h.HikariDataSource 
+2018-04-20 14:46:43,536 DEBUG | HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 14:46:43,538 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@73545b80: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:46:43,690 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@3a5e21e: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:46:43,975 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@95d896e: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:46:43,986 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@4c5f0621: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:46:43,998 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@6046a8a6: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:46:44,010 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@7d596a68: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:46:44,021 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@18aa9a54: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:46:44,033 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@2c70f96e: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:46:44,045 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@79a677de: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:46:44,052 DEBUG | HikariPool-1 - Closing connection oracle.jdbc.driver.T4CConnection@4f9a58a8: (connection evicted) | c.z.h.p.PoolBase 
+2018-04-20 14:46:44,063 DEBUG | HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0) | c.z.h.p.HikariPool 
+2018-04-20 14:46:44,064  INFO | HikariPool-1 - Shutdown completed. | c.z.h.HikariDataSource 
