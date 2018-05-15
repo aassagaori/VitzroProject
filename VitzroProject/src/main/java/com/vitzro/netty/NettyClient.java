@@ -51,7 +51,7 @@ public class NettyClient implements Runnable{
 					.channel().closeFuture().addListener(new CloseFutureListener(this)).sync();
 		}
     	catch (InterruptedException e) {
-			System.out.println("ccccccccccccc"+e);
+    		log.error("",e);
 			Thread.currentThread().interrupt();
 		} 
     	
