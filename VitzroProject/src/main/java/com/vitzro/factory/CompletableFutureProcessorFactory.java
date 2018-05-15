@@ -19,16 +19,6 @@ public class CompletableFutureProcessorFactory {
 			throw e;
 		}
 		return (ICompletableFutureProcessor)ApplicationContextProvider.getBean(clazz);
-		/*
-		try {
-//			return (ICompletableFutureProcessor)clazz.newInstance();
-			
-		} catch (InstantiationException e) {
-			throw e;
-			
-		} catch (IllegalAccessException e) {
-			throw e;
-			
-		}		*/		
+	
 	}
 }

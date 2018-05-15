@@ -16,7 +16,7 @@ import io.netty.channel.socket.nio.NioServerSocketChannel;
 
 @Component
 public class NettyServerBootstrapFactory {
-
+	
 	@Autowired
 	private EventLoopGroup serverAcceptGroup;
 	
