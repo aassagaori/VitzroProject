@@ -3,18 +3,16 @@ package com.vitzro.enums;
 import java.util.HashMap;
 import java.util.Map;
 
-import com.vitzro.processor.CollectProcessor;
+import com.vitzro.processor.CustomCollectProcessor;
 import com.vitzro.util.TypeHelper;
 
 
 public enum eOpcode {
   
-	_Collect(0x01, CollectProcessor.class.getName())	
+	_CustomCollect(0x01, CustomCollectProcessor.class.getName())	
 
 	;	
 	
-	   
-	   
 	private final int value;
 	private final String strValue;
 

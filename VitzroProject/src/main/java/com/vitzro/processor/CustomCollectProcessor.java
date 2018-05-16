@@ -7,9 +7,9 @@ import org.springframework.scheduling.annotation.Async;
 import org.springframework.stereotype.Service;
 
 import com.vitzro.config.ApplicationContextProvider;
-import com.vitzro.dto.CollectContent;
+import com.vitzro.dto.CustomReceiveContent;
 import com.vitzro.dto.ProtocolForm;
-import com.vitzro.service.CollectedDataStorage;
+import com.vitzro.service.CustomReceivedDataStorage;
 import com.vitzro.service.MessageHandler;
 import com.vitzro.util.LogHelper;
 
@@ -19,15 +19,15 @@ import lombok.extern.slf4j.Slf4j;
 @Slf4j
 @Service
 @Scope("prototype")
-public class CollectProcessor implements ICompletableFutureProcessor<ProtocolForm,String> {
+public class CustomCollectProcessor implements ICompletableFutureProcessor<ProtocolForm,String> {
 	
 	@Override
 	@Async
-	public CompletableFuture<String> processing(ProtocolForm t, ChannelHandlerContext ctx) throws Exception {
-		log.debug("UserProcessor UserProcessor UserProcessor");
+	public CompletableFuture<String> processing(ProtocolForm t, ChannelHandlerContext ctx) throws Exception {	
 		try {
-			MessageHandler<ProtocolForm, CollectContent> m = new MessageHandler<>(ApplicationContextProvider.getBean(CollectedDataStorage.class));
-			CollectContent c = m.handle(t);
+			CustomReceivedDataStorage s = ApplicationContextProvider.getBean(CustomReceivedDataStorage.class);
+			MessageHandler<ProtocolForm, CustomReceiveContent> m = new MessageHandler<>(s);
+			CustomReceiveContent c = m.handle(t);
 			
 		} catch (Exception e) {
 			log.error("",e);

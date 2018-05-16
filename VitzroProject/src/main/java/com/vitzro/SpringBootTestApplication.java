@@ -7,17 +7,20 @@ import org.quartz.JobBuilder;
 import org.quartz.JobDetail;
 import org.quartz.Scheduler;
 import org.quartz.SchedulerFactory;
+import org.quartz.SimpleScheduleBuilder;
 import org.quartz.Trigger;
 import org.quartz.TriggerBuilder;
 import org.quartz.impl.StdSchedulerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.ApplicationRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
+import org.springframework.core.env.Environment;
 
 import com.vitzro.config.ApplicationContextProvider;
 import com.vitzro.netty.NettyClient;
-import com.vitzro.quartz.UserJob;
+import com.vitzro.quartz.CustomCronJob;
 
 import lombok.extern.slf4j.Slf4j;
 
@@ -40,6 +43,9 @@ public class SpringBootTestApplication {
 		
 	}
 
+	@Autowired
+	public Environment env;
+	
 	@Bean
 	ApplicationRunner run() {
 //		log.debug("ApplicationRunner run");
@@ -47,21 +53,21 @@ public class SpringBootTestApplication {
 		log.debug("ApplicationRunner RUN");
 		return a -> { 
 
-			ApplicationContextProvider.getBean(NettyClient.class).run();
+			/*ApplicationContextProvider.getBean(NettyClient.class).run();
 					 
 			CompletableFuture<String> f = CompletableFuture.completedFuture("a");
 			CompletableFuture.allOf(f).join();
-			log.debug("run complete {}",f.get());
+			log.debug("run complete {}",f.get());*/
 			
 //			CompletableFuture<String> f= ApplicationContextProvider.getBean(ACKProcessor.class).processing(new ProtocolForm(), null);
 			SchedulerFactory schedulerFactory = new StdSchedulerFactory();
 	    	Scheduler scheduler = schedulerFactory.getScheduler();
 	        scheduler.start();
-	        
+
 	    	//job 지정
-	        JobDetail job = JobBuilder.newJob(UserJob.class).build();                             
+	        JobDetail job = JobBuilder.newJob(CustomCronJob.class).build();                             
 	        Trigger trigger = TriggerBuilder.newTrigger().withSchedule(CronScheduleBuilder.cronSchedule("0/10 * * * * ?")).build();
-	        	        
+	        
 	        scheduler.scheduleJob(job, trigger);
 //			ListenableFuture<String> f = t.processing(new ProtocolFormMessage());
 //			t.Rhello(1, new Person());

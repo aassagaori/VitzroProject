@@ -7,7 +7,7 @@ import lombok.Data;
 
 @Data
 @Builder
-public class SendContent implements ISendMessage<SendContent, byte[]>{
+public class CustomSendContent implements ISendMessage<CustomSendContent, byte[]>{
 	
 	public static final int SIZE=20;
 	
@@ -21,7 +21,7 @@ public class SendContent implements ISendMessage<SendContent, byte[]>{
 	}
 
 	@Override
-	public byte[] encode(SendContent i) {
+	public byte[] encode(CustomSendContent i) {
 		// TODO Auto-generated method stub
 		return null;
 	}

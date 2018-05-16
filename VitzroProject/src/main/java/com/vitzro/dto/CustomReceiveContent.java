@@ -6,12 +6,9 @@ import lombok.Builder;
 import lombok.Data;
 
 @Data
-@Builder
-public class CollectContent implements IReceivedMessage<Byte[]>{
+public class CustomReceiveContent implements IReceivedMessage<byte[]>{
 	
 	public static final int SIZE=20;
-	@Builder.Default 
-	private ByteOrder order = ByteOrder.BIG_ENDIAN;
 	
 	@Override
 	public int size() {
@@ -20,7 +17,7 @@ public class CollectContent implements IReceivedMessage<Byte[]>{
 	}
 
 	@Override
-	public void decode(Byte[] i) {
+	public void decode(byte[] i) {
 		// TODO Auto-generated method stub
 		
 	}

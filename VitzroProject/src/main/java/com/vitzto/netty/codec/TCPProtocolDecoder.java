@@ -39,7 +39,7 @@ public class TCPProtocolDecoder extends ByteToMessageDecoder{
 
 			// Data Read
 			if (h.getContentLength() > byteBuf.readableBytes()) {
-				log.warn("D | Must be accepted more data(protocol), length[{}] > readableBytes[{}]", h.getContentLength(),
+				log.warn("Must be Accepted More Data(Content), Length[{}] > ReadableBytes[{}]", h.getContentLength(),
 						byteBuf.readableBytes());
 				return; // 다 못받은 것이므로 리턴함
 			}
@@ -47,7 +47,7 @@ public class TCPProtocolDecoder extends ByteToMessageDecoder{
 			ByteBuf contentBuf = byteBuf.readBytes(h.getContentLength());
 
 			if (ProtocolTail.SIZE > byteBuf.readableBytes()) {
-				log.warn("D | Must be accepted more data(tail), length[{}] > readableBytes[{}]", ProtocolTail.SIZE,
+				log.warn("Must be Accepted More Data(Tail), Length[{}] > ReadableBytes[{}]", ProtocolTail.SIZE,
 						byteBuf.readableBytes());
 				return; // 다 못받은 것이므로 리턴함
 			}

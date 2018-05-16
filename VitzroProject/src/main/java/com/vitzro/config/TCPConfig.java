@@ -25,42 +25,18 @@ public class TCPConfig {
 	@Autowired
 	public Environment env;
 	
-	/*
-	 * netty.tcpNodelay=true
-	netty.rcvBufSize=10485760
-	netty.sndBufSize=10485760
-	netty.connectTimeout=10000
-	netty.keepAlive=false
-	netty.broadCast=false
-
-	#TCP Client
-	client.workerthread.count = 5
-	
-	client.port = 20030
-
-	#TCP Server
-	server.acceptThread.count=5
-	server.workerThread.count=5
-	server.port=20030*/
-	
 	@Profile("TCPServer")
 	public static class ServerConfig {
 		@Autowired
 		public Environment env;
-		
-		public ServerConfig() {
-			System.out.println("server 1111");
-		}
-		
+
 		@Bean
 		public EventLoopGroup serverAcceptGroup(){
-			System.out.println(new Object(){}.getClass()+ " - " + new Object(){}.getClass().getEnclosingMethod().getName());
 			
 			return new NioEventLoopGroup(Integer.parseInt(env.getProperty("server.acceptThread.count")));
 		}
 		@Bean
 		public EventLoopGroup serverWorkerGroup(){
-			System.out.println(new Object(){}.getClass()+ " - " + new Object(){}.getClass().getEnclosingMethod().getName());
 			
 			return new NioEventLoopGroup(Integer.parseInt(env.getProperty("server.workerThread.count")));
 		}
@@ -73,14 +49,9 @@ public class TCPConfig {
 	
 	@Profile("TCPClient")
 	public static class ClientConfig {
-		
-		public ClientConfig() {
-			System.out.println("client 1111");
-		}
-		
 		@Autowired
 		public Environment env;
-
+		
 		@Bean
 		public EventLoopGroup clientWorkerGroup(){
 			
@@ -95,8 +66,6 @@ public class TCPConfig {
 	
 	@Bean
 	public HashMap<ChannelOption<?>, Object> tcpChannelOptions(){
-		System.out.println(env.toString());
-		System.out.println(new Object(){}.getClass()+ " - " + new Object(){}.getClass().getEnclosingMethod().getName());
 		
 		HashMap<ChannelOption<?>, Object> options = new HashMap<ChannelOption<?>, Object>();
 		

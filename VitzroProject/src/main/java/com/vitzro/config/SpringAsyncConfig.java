@@ -8,6 +8,7 @@ import org.springframework.aop.interceptor.AsyncUncaughtExceptionHandler;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.PropertySource;
 import org.springframework.core.env.Environment;
 import org.springframework.core.task.AsyncListenableTaskExecutor;
 import org.springframework.scheduling.annotation.AsyncConfigurer;
@@ -26,12 +27,12 @@ import com.vitzro.config.handler.CustomSpringAyncUncaughtExceptonHandler;
  * 출처 - http://dveamer.github.io/java/SpringAsync.html
  * */
 @EnableAsync(proxyTargetClass=true)
+@PropertySource(value="file:${user.dir}/conf/thread.properties")
 public class SpringAsyncConfig implements AsyncConfigurer{
 	
 	/* @Autowired - Spring의 의존관계(DI)를 자동으로 설정, 타입(by type)으로 연결 */
 	@Autowired
 	private Environment env;
-	
 	
 	@Override
 	@Bean(name = "eventThreadPoolTaskExecutor")

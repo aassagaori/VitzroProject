@@ -15,21 +15,7 @@ public class SpringBootTestApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		System.out.println(eOpcode._ACK.toString());
 		
-//		InterruptedException i = new InterruptedException();
-//		System.out.println(i.getClass().getTypeName());
-//		System.out.println(i.getClass().getSimpleName());
-		
-		try {
-			int a = 1/0;
-		}
-		catch (Exception e) {
-			System.out.println(e.getClass().getTypeName());
-			if(e.getClass().getSimpleName().equals("ArithmeticException")) {
-				System.out.println("aaaaaaaaaaaaaa");
-			}
-		}
 	}
 
 }

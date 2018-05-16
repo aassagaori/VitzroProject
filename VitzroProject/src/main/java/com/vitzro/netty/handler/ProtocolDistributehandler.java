@@ -33,7 +33,7 @@ public class ProtocolDistributehandler extends SimpleChannelInboundHandler<Objec
 			future = ApplicationContextProvider.getBean(CompletableFutureProcessorFactory.class)
 												.create(form.getHeader().getOpCode())
 												.processing(form, ctx);
-		} 
+		}
 		catch (Exception e) {
 			log.error("({} | {}) | ",form.hashCode(),form.getHeader().toString(),e);
 			if(e.getClass().getSimpleName().equals("InterruptedException")) {
