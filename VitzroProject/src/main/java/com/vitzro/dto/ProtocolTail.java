@@ -1,8 +1,8 @@
-package com.vitzro.protocol;
+package com.vitzro.dto;
 
 import java.nio.ByteOrder;
 
-import com.vitzro.protocol.ProtocolHeader.ProtocolHeaderBuilder;
+import com.vitzro.dto.ProtocolHeader.ProtocolHeaderBuilder;
 
 import lombok.Builder;
 import lombok.Data;

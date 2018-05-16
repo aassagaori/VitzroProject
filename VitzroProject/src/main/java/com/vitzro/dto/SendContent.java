@@ -1,4 +1,4 @@
-package com.vitzro.protocol;
+package com.vitzro.dto;
 
 import java.nio.ByteOrder;
 
@@ -7,12 +7,13 @@ import lombok.Data;
 
 @Data
 @Builder
-public class ReceivedContent implements IReceivedMessage<Byte[]>{
+public class SendContent implements ISendMessage<SendContent, byte[]>{
 	
 	public static final int SIZE=20;
+	
 	@Builder.Default 
 	private ByteOrder order = ByteOrder.BIG_ENDIAN;
-	
+
 	@Override
 	public int size() {
 		// TODO Auto-generated method stub
@@ -20,9 +21,10 @@ public class ReceivedContent implements IReceivedMessage<Byte[]>{
 	}
 
 	@Override
-	public void decode(Byte[] i) {
+	public byte[] encode(SendContent i) {
 		// TODO Auto-generated method stub
-		
+		return null;
 	}
 
+	
 }

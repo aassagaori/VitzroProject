@@ -13,8 +13,8 @@ import org.quartz.TriggerBuilder;
 import org.quartz.impl.StdSchedulerFactory;
 import org.springframework.stereotype.Component;
 
-import com.vitzro.quartz.job.Quarzjab_test;
-import com.vitzro.quartz.job.Quarzjab_test2;
+import com.vitzro.quartz.Quarzjab_test;
+import com.vitzro.quartz.Quarzjab_test2;
 
 @Component
 public class QuartzJob_scheduler {
@@ -27,8 +27,8 @@ public class QuartzJob_scheduler {
      * */
     @PostConstruct
     public void start() throws SchedulerException{
-    	/*schedulerFactory = new StdSchedulerFactory();
-        scheduler = schedulerFactory.getScheduler();
+    	SchedulerFactory schedulerFactory = new StdSchedulerFactory();
+    	Scheduler scheduler = schedulerFactory.getScheduler();
         scheduler.start();
         
     	//job 지정

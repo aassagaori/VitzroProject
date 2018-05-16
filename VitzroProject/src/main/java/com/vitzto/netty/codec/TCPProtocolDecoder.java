@@ -2,9 +2,9 @@ package com.vitzto.netty.codec;
 
 import java.util.List;
 
-import com.vitzro.protocol.ProtocolForm;
-import com.vitzro.protocol.ProtocolHeader;
-import com.vitzro.protocol.ProtocolTail;
+import com.vitzro.dto.ProtocolForm;
+import com.vitzro.dto.ProtocolHeader;
+import com.vitzro.dto.ProtocolTail;
 import com.vitzro.util.NettyHelper;
 import com.vitzro.util.TypeHelper;
 

@@ -1,4 +1,4 @@
-package com.vitzro.protocol;
+package com.vitzro.dto;
 
 public interface IReceivedMessage<I> extends IMessage {
 

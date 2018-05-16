@@ -5,10 +5,10 @@ import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.
 import java.util.concurrent.CompletableFuture;
 
 import com.vitzro.config.ApplicationContextProvider;
+import com.vitzro.dto.ProtocolForm;
 import com.vitzro.enums.eOpcode;
 import com.vitzro.factory.CompletableFutureProcessorFactory;
 import com.vitzro.processor.ICompletableFutureProcessor;
-import com.vitzro.protocol.ProtocolForm;
 
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.SimpleChannelInboundHandler;
@@ -35,12 +35,13 @@ public class ProtocolDistributehandler extends SimpleChannelInboundHandler<Objec
 												.processing(form, ctx);
 		} 
 		catch (Exception e) {
-			log.error("{} | {} | ",form.hashCode(),form.getHeader().toString(),e);
+			log.error("({} | {}) | ",form.hashCode(),form.getHeader().toString(),e);
 			if(e.getClass().getSimpleName().equals("InterruptedException")) {
 				Thread.currentThread().interrupt();
 			}
 			return;
 		};
+		log.debug("({} | {}) | {}",form.hashCode(),form.getHeader().toString(),future.get());
 		/*CompletableFuture<String> welcomeText = CompletableFuture.supplyAsync(()->{
 			try {
 				

@@ -1,6 +1,6 @@
 package com.vitzro.processor;
 
-import com.vitzro.protocol.IMessage;
+import com.vitzro.dto.IMessage;
 
 public interface IUnCompletableFutureProcessor<T extends IMessage> {
 	

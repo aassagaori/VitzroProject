@@ -1,4 +1,4 @@
-package com.vitzro.protocol;
+package com.vitzro.dto;
 
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;

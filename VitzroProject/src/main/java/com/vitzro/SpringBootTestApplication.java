@@ -2,22 +2,22 @@ package com.vitzro;
 
 import java.util.concurrent.CompletableFuture;
 
-import org.springframework.beans.factory.annotation.Autowired;
+import org.quartz.CronScheduleBuilder;
+import org.quartz.JobBuilder;
+import org.quartz.JobDetail;
+import org.quartz.Scheduler;
+import org.quartz.SchedulerFactory;
+import org.quartz.Trigger;
+import org.quartz.TriggerBuilder;
+import org.quartz.impl.StdSchedulerFactory;
 import org.springframework.boot.ApplicationRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.Bean;
-import org.springframework.core.env.Environment;
-import org.springframework.core.task.TaskExecutor;
-import org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor;
 
 import com.vitzro.config.ApplicationContextProvider;
-import com.vitzro.factory.CompletableFutureProcessorFactory;
 import com.vitzro.netty.NettyClient;
-import com.vitzro.netty.NettyServer;
-import com.vitzro.processor.ACKProcessor;
-import com.vitzro.protocol.ProtocolForm;
+import com.vitzro.quartz.UserJob;
 
 import lombok.extern.slf4j.Slf4j;
 
@@ -33,15 +33,12 @@ import lombok.extern.slf4j.Slf4j;
 @Slf4j
 public class SpringBootTestApplication {
 
-
-	
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootTestApplication.class, args);
 //		try(ConfigurableApplicationContext context = SpringApplication.run(SpringBootTestApplication.class, args)){
 //		}
 		
 	}
-	
 
 	@Bean
 	ApplicationRunner run() {
@@ -49,29 +46,23 @@ public class SpringBootTestApplication {
 //		System.out.println("ApplicationRunner run");
 		log.debug("ApplicationRunner RUN");
 		return a -> { 
-			
-//			System.out.println(TypeHelper.contains(env.getActiveProfiles(), "TCPServer"));
-//			s.run();
-//			Thread.sleep(5000l);
-			
+
 			ApplicationContextProvider.getBean(NettyClient.class).run();
-			
-			
-//			.execute(() -> System.out.println("메롱"));
-			CompletableFuture<String> f=  
-					ApplicationContextProvider.getBean(CompletableFutureProcessorFactory.class).create((byte)0x01).processing(ProtocolForm.builder().build(), null);
-			 
-			
-//			CompletableFuture<String> f= ApplicationContextProvider.getBean(ACKProcessor.class).processing(new ProtocolForm(), null);
-			
+					 
+			CompletableFuture<String> f = CompletableFuture.completedFuture("a");
 			CompletableFuture.allOf(f).join();
 			log.debug("run complete {}",f.get());
-//			((ThreadPoolTaskExecutor)ApplicationContextProvider.getBean("eventThreadPoolTaskExecutor")).execute(ApplicationContextProvider.getBean(NettyClient.class));
-//			((ThreadPoolTaskExecutor)ApplicationContextProvider.getBean("eventThreadPoolTaskExecutor")).execute(ApplicationContextProvider.getBean(NettyServer.class));
 			
-//			((ThreadPoolTaskExecutor)ApplicationContextProvider.getBean("eventThreadPoolTaskExecutor")).execute((NettyServer)ApplicationContextProvider.getBean(NettyServer.class));
-//			s.run();
-//			s.call();
+//			CompletableFuture<String> f= ApplicationContextProvider.getBean(ACKProcessor.class).processing(new ProtocolForm(), null);
+			SchedulerFactory schedulerFactory = new StdSchedulerFactory();
+	    	Scheduler scheduler = schedulerFactory.getScheduler();
+	        scheduler.start();
+	        
+	    	//job 지정
+	        JobDetail job = JobBuilder.newJob(UserJob.class).build();                             
+	        Trigger trigger = TriggerBuilder.newTrigger().withSchedule(CronScheduleBuilder.cronSchedule("0/10 * * * * ?")).build();
+	        	        
+	        scheduler.scheduleJob(job, trigger);
 //			ListenableFuture<String> f = t.processing(new ProtocolFormMessage());
 //			t.Rhello(1, new Person());
 //			f.addCallback(s->System.out.println(s) ,e->System.out.println(e.));

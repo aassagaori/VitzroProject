@@ -1,4 +1,4 @@
-package com.vitzro.protocol;
+package com.vitzro.dto;
 
 public interface ISendMessage<I extends IMessage, O> extends IMessage {
 

@@ -3,13 +3,13 @@ package com.vitzro.enums;
 import java.util.HashMap;
 import java.util.Map;
 
-import com.vitzro.processor.ACKProcessor;
+import com.vitzro.processor.CollectProcessor;
 import com.vitzro.util.TypeHelper;
 
 
 public enum eOpcode {
   
-	_ACK(0x01, ACKProcessor.class.getName())	
+	_Collect(0x01, CollectProcessor.class.getName())	
 
 	;	
 	

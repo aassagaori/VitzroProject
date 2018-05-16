@@ -2,12 +2,12 @@ package com.vitzro.processor;
 
 import java.util.concurrent.CompletableFuture;
 
-import com.vitzro.protocol.IMessage;
+import com.vitzro.dto.IMessage;
 
 import io.netty.channel.ChannelHandlerContext;
 
-public interface ICompletableFutureProcessor<T extends IMessage> {
+public interface ICompletableFutureProcessor<T extends IMessage, O> {
 	
-	public CompletableFuture <String> processing(T t, ChannelHandlerContext ctx) throws Exception;
+	public CompletableFuture <O> processing(T t, ChannelHandlerContext ctx) throws Exception;
 	
 }

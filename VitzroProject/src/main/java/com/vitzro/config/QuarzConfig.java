@@ -1,19 +1,6 @@
 package com.vitzro.config;
 
-import java.io.IOException;
-import java.util.Properties;
-
-import org.quartz.Trigger;
-import org.springframework.beans.factory.config.PropertiesFactoryBean;
-import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.core.io.ClassPathResource;
-import org.springframework.scheduling.quartz.CronTriggerFactoryBean;
-import org.springframework.scheduling.quartz.JobDetailFactoryBean;
-import org.springframework.scheduling.quartz.SchedulerFactoryBean;
-
-import com.vitzro.quartz.job.QuartzJobBean_Test1;
-import com.vitzro.quartz.job.QuartzJobBean_Test2;
 
 
 @Configuration
