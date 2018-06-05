@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration scan="true" scanPeriod="30 seconds" >
+
+	<appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%d %5p | %m | %-15logger{15} %n</pattern>
+        </encoder>
+    </appender>
+    
+    <!-- Default System Logger -->
+    <logger name="org.springframework.context.support.ClassPathXmlApplicationContext">
+        <level value="INFO" />
+        <appender-ref ref="CONSOLE" />
+    </logger>
+    
+    <logger name="org.springframework.beans.factory.xml.XmlBeanDefinitionReader ">
+        <level value="INFO" />
+        <appender-ref ref="CONSOLE" />
+    </logger>
+    
+    <logger name="org.springframework.context.annotation.ClassPathBeanDefinitionScanner">
+        <level value="INFO" />
+        <appender-ref ref="CONSOLE" />
+    </logger>
+    
+    <logger name="org.springframework.beans.factory.config.PropertiesFactoryBean">
+        <level value="INFO" />
+        <appender-ref ref="CONSOLE" />
+    </logger>
+    
+    <!-- HikariCP Logger -->
+    <logger name="com.zaxxer.hikari.HikariConfig">
+        <level value="DEBUG" />
+        <appender-ref ref="CONSOLE" />
+    </logger>
+    
+    <logger name="com.zaxxer.hikari.HikariDataSource">
+        <level value="INFO" />
+        <appender-ref ref="CONSOLE" />
+    </logger>
+    
+    <!-- Database Appender & Logger -->
+     <appender name="APP_ERROR_QUERY_LOG" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>${user.dir}/log/Error/ErrorQuery.log</file>
+        <append>true</append>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>
+                ${user.dir}/log/Query/ErrorQuery_%d{yyyyMMdd}.%i.log.zip
+            </fileNamePattern>
+            <timeBasedFileNamingAndTriggeringPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+                <maxFileSize>10MB</maxFileSize>
+            </timeBasedFileNamingAndTriggeringPolicy>
+            <maxHistory>7</maxHistory>
+        </rollingPolicy>
+        <filter class="ch.qos.logback.classic.filter.LevelFilter">
+        	<level>error</level>
+        	<onMatch>ACCEPT</onMatch>
+        	<onMismatch>DENY</onMismatch>
+     	</filter>
+        <encoder>
+            <pattern>%d %5p | [%-8thread] | %m | %-15logger{15} | %M | %caller{2} | %n</pattern>
+        </encoder>
+    </appender>
+    
+    <logger name="com.vitzro.mapper">
+    	<level value="error" />
+        <appender-ref ref="APP_ERROR_QUERY_LOG" />
+    </logger>
+    <logger name="com.vitzro.mybtis.typeHandler">
+    	<level value="error" />
+        <appender-ref ref="APP_ERROR_QUERY_LOG" />
+    </logger>
+    
+	<appender name="APP_PROCESS_LOG" class="ch.qos.logback.classic.sift.SiftingAppender">
+	    <discriminator>
+			<key>VMS</key>
+	      	<defaultValue>Unknown</defaultValue>
+	    </discriminator>
+    	<sift>
+      		<appender name="APP_PROCESS_LOG-${VMS}" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        		<file>${user.dir}/log/PROCESS_LOG-[${VMS}].log</file>        		
+        		<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+          			<fileNamePattern>${user.dir}/log/PROCESS_LOG/${VMS}/${VMS}_%d{yyyy-MM-dd}.%i.log.zip</fileNamePattern>
+		  			<timeBasedFileNamingAndTriggeringPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+               			<maxFileSize>10MB</maxFileSize>
+           			</timeBasedFileNamingAndTriggeringPolicy>
+          			<maxHistory>7</maxHistory>
+        		</rollingPolicy>
+        		<encoder>
+        			<pattern>%d %5p | %m | [%method:%line] | %-15logger{15} %n</pattern>
+        		</encoder>
+      		</appender>
+    	</sift>
+  	</appender>
+  	
+  	 <logger name="com.vitzro.asn.processor">
+    	<level value="DEBUG" />
+    	<appender-ref ref="CONSOLE" />
+        <appender-ref ref="APP_PROCESS_LOG" />           
+    </logger>
+  	
+  	 <logger name="com.vitzro.processor">
+    	<level value="DEBUG" />
+    	<appender-ref ref="CONSOLE" />
+        <appender-ref ref="APP_PROCESS_LOG" />           
+    </logger>
+    
+    <logger name="com.vitzro.handler.AsnLoginHandler">
+    	<level value="debug" />    	
+    	<appender-ref ref="CONSOLE" />
+    	<appender-ref ref="APP_PROCESS_LOG" />
+    </logger> 
+     
+	 <logger name="com.vitzro.task.MakeDisplayMessageTask">
+    	<level value="DEBUG" />
+    	<appender-ref ref="CONSOLE" />
+        <appender-ref ref="APP_PROCESS_LOG" />    
+    </logger> 
+    
+     <logger name="com.vitzro.service.MakeMessageService">
+    	<level value="DEBUG" />
+    	<appender-ref ref="CONSOLE" />
+        <appender-ref ref="APP_PROCESS_LOG" />    
+    </logger> 
+    
+     <appender name="OPERATION_LOG" class="ch.qos.logback.core.rolling.RollingFileAppender">
+    	<file>${user.dir}/log/OPERATION_LOG.log</file>
+    	<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+   			<fileNamePattern>${user.dir}/log/OPERATION/%d{yyyy-MM-dd}.%i.log.zip</fileNamePattern>
+			<timeBasedFileNamingAndTriggeringPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+        		<maxFileSize>10MB</maxFileSize>
+    		</timeBasedFileNamingAndTriggeringPolicy>
+   			<maxHistory>7</maxHistory>
+ 		</rollingPolicy>
+ 		<encoder>
+ 			<pattern>%d %5p | %m | %-15logger{15} %n</pattern>
+ 		</encoder>
+	</appender>
+	
+	  <logger name="OPERATION_LOG">
+    	<level value="DEBUG" />
+    	<appender-ref ref="CONSOLE" />
+    	<appender-ref ref="OPERATION_LOG" />
+    </logger>
+    
+   <appender name="SERVICE_LOG" class="ch.qos.logback.core.rolling.RollingFileAppender">
+    	<file>${user.dir}/log/SERVICE_LOG.log</file>
+    	<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+   			<fileNamePattern>${user.dir}/log/SERVICE/%d{yyyy-MM-dd}.%i.log.zip</fileNamePattern>
+			<timeBasedFileNamingAndTriggeringPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+        		<maxFileSize>10MB</maxFileSize>
+    		</timeBasedFileNamingAndTriggeringPolicy>
+   			<maxHistory>7</maxHistory>
+ 		</rollingPolicy>
+ 		<encoder>
+ 			<pattern>%d %5p | %m | %-15logger{15} %n</pattern>
+ 		</encoder>
+	</appender>
+	
+	  <logger name="com.vitzro.service.VmsManager">
+    	<level value="DEBUG" />
+    	<appender-ref ref="SERVICE_LOG" />
+    </logger>
+    
+    <!-- Packet Logger -->
+    <appender name="APP_ASN_PACKET_LOG" class="ch.qos.logback.core.rolling.RollingFileAppender">
+    	<file>${user.dir}/log/ASN_PACKET_LOG.log</file>
+    	<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+   			<fileNamePattern>${user.dir}/log/ASN_PACKET/%d{yyyy-MM-dd}.%i.log.zip</fileNamePattern>
+			<timeBasedFileNamingAndTriggeringPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+        		<maxFileSize>10MB</maxFileSize>
+    		</timeBasedFileNamingAndTriggeringPolicy>
+   			<maxHistory>7</maxHistory>
+ 		</rollingPolicy>
+ 		<encoder>
+ 			<pattern>%d %5p | %m | %-15logger{15} %n</pattern>
+ 		</encoder>
+	</appender>
+	
+	  <logger name="ASNPacketCodec">
+    	<level value="DEBUG" />
+    	<appender-ref ref="APP_ASN_PACKET_LOG" />
+    </logger>
+      
+    <appender name="APP_PACKET_LOG" class="ch.qos.logback.core.rolling.RollingFileAppender">
+    	<file>${user.dir}/log/PACKET_LOG.log</file>
+    	<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+   			<fileNamePattern>${user.dir}/log/PACKET/%d{yyyy-MM-dd}.%i.log.zip</fileNamePattern>
+			<timeBasedFileNamingAndTriggeringPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+        		<maxFileSize>10MB</maxFileSize>
+    		</timeBasedFileNamingAndTriggeringPolicy>
+   			<maxHistory>7</maxHistory>
+ 		</rollingPolicy>
+ 		<encoder>
+ 			<pattern>%d %5p | %m | %-15logger{15} %n</pattern>
+ 		</encoder>
+	</appender>
+	
+	  <logger name="PacketCodec">
+    	<level value="DEBUG" />
+    	<appender-ref ref="APP_PACKET_LOG" />
+    </logger>
+   
+    <appender name="APP_OP_PACKET_LOG" class="ch.qos.logback.core.rolling.RollingFileAppender">
+    	<file>${user.dir}/log/OP_PACKET_LOG.log</file>
+    	<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+   			<fileNamePattern>${user.dir}/log/OP_PACKET/%d{yyyy-MM-dd}.%i.log.zip</fileNamePattern>
+			<timeBasedFileNamingAndTriggeringPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+        		<maxFileSize>10MB</maxFileSize>
+    		</timeBasedFileNamingAndTriggeringPolicy>
+   			<maxHistory>7</maxHistory>
+ 		</rollingPolicy>
+ 		<encoder>
+ 			<pattern>%d %5p | %m | %-15logger{15} %n</pattern>
+ 		</encoder>
+	</appender>
+	
+	  <logger name="OPPacketCodec">
+    	<level value="DEBUG" />
+    	<appender-ref ref="APP_OP_PACKET_LOG" />
+    </logger>
+    
+    <!-- SESSION Logger -->
+    <appender name="APP_SESSION_LOG" class="ch.qos.logback.core.rolling.RollingFileAppender">
+    	<file>${user.dir}/log/SESSION_LOG.log</file>
+    	<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+   			<fileNamePattern>${user.dir}/log/SESSION/_%d{yyyy-MM-dd}.%i.log.zip</fileNamePattern>
+			<timeBasedFileNamingAndTriggeringPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+        		<maxFileSize>10MB</maxFileSize>
+    		</timeBasedFileNamingAndTriggeringPolicy>
+   			<maxHistory>7</maxHistory>
+ 		</rollingPolicy>
+ 		<encoder>
+ 			<pattern>%d %5p | %m | %-15logger{15} %n</pattern>
+ 		</encoder>
+	</appender>
+    
+    <logger name="SESSION_LOG">
+    	<level value="debug" />
+    	<appender-ref ref="CONSOLE" />
+    	<appender-ref ref="APP_SESSION_LOG" />
+    </logger>
+    
+    <logger name="com.vitzro.network">
+    	<level value="INFO" />    	
+    	<appender-ref ref="CONSOLE" />
+    	<appender-ref ref="APP_SESSION_LOG" />
+    </logger>
+  
+  <!-- JOB LOGGER -->
+    <appender name="APP_JOB_LOG" class="ch.qos.logback.core.rolling.RollingFileAppender">
+    	<file>${user.dir}/log/JOB_LOG.log</file>
+    	<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+   			<fileNamePattern>${user.dir}/log/Job/_%d{yyyy-MM-dd}.%i.log.zip</fileNamePattern>
+			<timeBasedFileNamingAndTriggeringPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+        		<maxFileSize>10MB</maxFileSize>
+    		</timeBasedFileNamingAndTriggeringPolicy>
+   			<maxHistory>7</maxHistory>
+ 		</rollingPolicy>
+ 		<encoder>
+ 			<pattern>%d %5p | %m | %-15logger{15} %n</pattern>
+ 		</encoder>
+	</appender>
+    
+    <logger name="JobLog">
+    	<level value="debug" />
+    	<appender-ref ref="CONSOLE" />
+    	<appender-ref ref="APP_JOB_LOG" />
+    </logger>
+    
+</configuration>
