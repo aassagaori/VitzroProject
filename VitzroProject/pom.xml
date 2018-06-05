@@ -27,7 +27,8 @@
 		<oracle.version>11.2.0.1</oracle.version>
 		
 		<guava.version>18.0</guava.version>		
-		<!-- <netty.version>4.0.29.Final</netty.version> -->
+		
+		<commons-lang3>3.7</commons-lang3>
 	</properties>
 
 	<dependencies>
@@ -96,6 +97,14 @@
 			<version>${guava.version}</version>
 		</dependency>
 			
+
+		<dependency>
+		    <groupId>org.apache.commons</groupId>
+		    <artifactId>commons-lang3</artifactId>
+		    <version>${commons-lang3}</version>
+		</dependency>
+
+
 	</dependencies>
 
 	<build>

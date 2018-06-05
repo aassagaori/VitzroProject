@@ -7,7 +7,6 @@ import org.quartz.JobBuilder;
 import org.quartz.JobDetail;
 import org.quartz.Scheduler;
 import org.quartz.SchedulerFactory;
-import org.quartz.SimpleScheduleBuilder;
 import org.quartz.Trigger;
 import org.quartz.TriggerBuilder;
 import org.quartz.impl.StdSchedulerFactory;
@@ -17,9 +16,12 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 import org.springframework.core.env.Environment;
+import org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor;
 
 import com.vitzro.config.ApplicationContextProvider;
-import com.vitzro.netty.NettyClient;
+import com.vitzro.dto.ProtocolForm;
+import com.vitzro.factory.ReceivedProcessorFactory;
+import com.vitzro.processor.FredProcessor;
 import com.vitzro.quartz.CustomCronJob;
 
 import lombok.extern.slf4j.Slf4j;
@@ -56,11 +58,27 @@ public class SpringBootTestApplication {
 			/*ApplicationContextProvider.getBean(NettyClient.class).run();
 					 
 			CompletableFuture<String> f = CompletableFuture.completedFuture("a");
-			CompletableFuture.allOf(f).join();
-			log.debug("run complete {}",f.get());*/
+			*/
+	
+			CompletableFuture<String> cf = CompletableFuture.supplyAsync(() -> {
+				String ret ="Fail";
+				try {
+					ret = (String)ApplicationContextProvider.getBean(ReceivedProcessorFactory.class)
+								.create((byte)0x01)
+								.processing(ProtocolForm.builder().build());
+				} catch (Exception e) {
+					log.error("({} | {}) | ",ProtocolForm.builder().build().hashCode(),ProtocolForm.builder().build().getHeader().toString(),e);
+					if(e.getClass().getSimpleName().equals("InterruptedException")) {
+						Thread.currentThread().interrupt();
+					}
+				}
+				return ret;
+			}				
+					, (ThreadPoolTaskExecutor)ApplicationContextProvider.getBean("eventThreadPoolTaskExecutor"));
 			
-//			CompletableFuture<String> f= ApplicationContextProvider.getBean(ACKProcessor.class).processing(new ProtocolForm(), null);
-			SchedulerFactory schedulerFactory = new StdSchedulerFactory();
+			CompletableFuture.allOf(cf).join();
+			log.debug("({} | {}) | {}",ProtocolForm.builder().build().hashCode(),null,cf.get());
+		/*	SchedulerFactory schedulerFactory = new StdSchedulerFactory();
 	    	Scheduler scheduler = schedulerFactory.getScheduler();
 	        scheduler.start();
 
@@ -68,7 +86,8 @@ public class SpringBootTestApplication {
 	        JobDetail job = JobBuilder.newJob(CustomCronJob.class).build();                             
 	        Trigger trigger = TriggerBuilder.newTrigger().withSchedule(CronScheduleBuilder.cronSchedule("0/10 * * * * ?")).build();
 	        
-	        scheduler.scheduleJob(job, trigger);
+	        scheduler.scheduleJob(job, trigger);*/
+			
 //			ListenableFuture<String> f = t.processing(new ProtocolFormMessage());
 //			t.Rhello(1, new Person());
 //			f.addCallback(s->System.out.println(s) ,e->System.out.println(e.));

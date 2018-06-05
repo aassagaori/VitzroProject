@@ -2,8 +2,8 @@ package com.vitzro.processor;
 
 import com.vitzro.dto.IMessage;
 
-public interface IUnCompletableFutureProcessor<T extends IMessage> {
+public interface IUnCompletableFutureProcessor<T extends IMessage, O> {
 	
-	public void processing(T t) throws Exception;
+	public O processing(T t);
 	
 }

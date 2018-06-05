@@ -2,10 +2,10 @@ package com.vitzro.mybatis.mapper;
 
 import java.util.List;
 
-import com.vitzro.vo.voBusstop;
-import com.vitzro.vo.voRoute;
+import com.vitzro.vo.voAVI;
+import com.vitzro.vo.voVMS;
 
 public interface SelectMapper {
-	public List<voRoute> selectRoute(); 
-	public List<voBusstop> selectBusstop(); 
+	public List<voVMS> selectVms(); 
+	public List<voAVI> selectAvi(); 
 }

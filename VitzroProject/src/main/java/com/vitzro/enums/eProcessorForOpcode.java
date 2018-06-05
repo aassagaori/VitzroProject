@@ -3,36 +3,38 @@ package com.vitzro.enums;
 import java.util.HashMap;
 import java.util.Map;
 
-import com.vitzro.processor.CustomCollectProcessor;
+import com.vitzro.processor.AckProcessor;
+import com.vitzro.processor.FredProcessor;
 import com.vitzro.util.TypeHelper;
 
 
-public enum eOpcode {
+public enum eProcessorForOpcode {
   
-	_CustomCollect(0x01, CustomCollectProcessor.class.getName())	
+	_Fred(0x01, FredProcessor.class.getName())
+	,Ack(1010, AckProcessor.class.getName())
 
 	;	
 	
 	private final int value;
 	private final String strValue;
 
-	private final static Map<Integer, eOpcode> map = new HashMap<Integer, eOpcode>();
+	private final static Map<Integer, eProcessorForOpcode> map = new HashMap<Integer, eProcessorForOpcode>();
 	static {
 		
-		for (eOpcode e : values())
+		for (eProcessorForOpcode e : values())
 			map.put(e.value, e);
 	}
 
-	private eOpcode(int value, String strValue) {
+	private eProcessorForOpcode(int value, String strValue) {
 		this.value = value;
 		this.strValue = strValue;
 	}
 
-	public static eOpcode forValue(int value) {
+	public static eProcessorForOpcode forValue(int value) {
 		return map.get(value);
 	}
 
-	public static eOpcode forValue(byte value) {
+	public static eProcessorForOpcode forValue(byte value) {
 		return map.get(TypeHelper.unsignedByteToInt(value));
 	}
 	

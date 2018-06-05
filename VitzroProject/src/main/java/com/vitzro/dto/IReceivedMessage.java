@@ -1,6 +1,6 @@
 package com.vitzro.dto;
 
-public interface IReceivedMessage<I> extends IMessage {
+public interface IReceivedMessage extends IMessage {
 
-	public void decode(I i);
+	public void decode(byte[] array);
 }
